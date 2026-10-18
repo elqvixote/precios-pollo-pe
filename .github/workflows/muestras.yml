@@ -23,7 +23,8 @@ jobs:
           git rm -rq --cached . 2>/dev/null || true
           find . -mindepth 1 -maxdepth 1 ! -name .git ! -name pdfs -exec rm -rf {} +
           mkdir -p pdfs
-          for u in ${{ inputs.urls }}; do curl -sS -L --max-time 60 -o "pdfs/$(basename "$u")" "$u"; done
+          rm -f pdfs/*; n=0
+          for u in ${{ inputs.urls }}; do n=$((n+1)); curl -sS -L --max-time 60 -o "pdfs/m$n.pdf" "$u"; echo "m$n.pdf $u" >> pdfs/indice.txt; done
           ls -la pdfs
           git add pdfs
           git commit -m "Muestras PDF" || echo "sin cambios"
