@@ -1,0 +1,959 @@
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Colección: 82 páginas mensuales (2020-01 a 2026-10)
+  2026-01: 20 PDFs
+  2026-02: 20 PDFs
+  2026-03: 22 PDFs
+  2026-04: 20 PDFs
+  2026-05: 19 PDFs
+  2026-06: 21 PDFs
+  2026-07: 19 PDFs
+  2026-08: 19 PDFs
+  2026-09: 20 PDFs
+  2026-10: 10 PDFs
+Pendientes: 190
+  2026-01-05 cuarentena IndexError: list index out of range
+  2026-01-06 cuarentena IndexError: list index out of range
+  2026-01-07 cuarentena IndexError: list index out of range
+  2026-01-08 cuarentena IndexError: list index out of range
+  2026-01-09 cuarentena IndexError: list index out of range
+  2026-01-12 cuarentena IndexError: list index out of range
+  2026-01-13 cuarentena IndexError: list index out of range
+  2026-01-14 cuarentena IndexError: list index out of range
+  2026-01-15 cuarentena IndexError: list index out of range
+  2026-01-16 cuarentena IndexError: list index out of range
+  2026-01-19 cuarentena IndexError: list index out of range
+  2026-01-20 cuarentena IndexError: list index out of range
+  2026-01-21 cuarentena IndexError: list index out of range
+  2026-01-22 cuarentena IndexError: list index out of range
+  2026-01-23 cuarentena IndexError: list index out of range
+  2026-01-26 cuarentena IndexError: list index out of range
+  2026-01-27 cuarentena IndexError: list index out of range
+  2026-01-28 cuarentena IndexError: list index out of range
+  2026-01-29 cuarentena IndexError: list index out of range
+  2026-01-30 cuarentena IndexError: list index out of range
+  2026-02-02 cuarentena IndexError: list index out of range
+  2026-02-03 cuarentena IndexError: list index out of range
+  2026-02-04 cuarentena IndexError: list index out of range
+  2026-02-05 cuarentena IndexError: list index out of range
+  2026-02-06 cuarentena IndexError: list index out of range
+  2026-02-09 cuarentena IndexError: list index out of range
+  2026-02-10 cuarentena IndexError: list index out of range
+  2026-02-11 cuarentena IndexError: list index out of range
+  2026-02-12 cuarentena IndexError: list index out of range
+  2026-02-13 cuarentena IndexError: list index out of range
+  2026-02-16 cuarentena IndexError: list index out of range
+  2026-02-17 cuarentena IndexError: list index out of range
+  2026-02-18 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-02-19 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-02-20 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-02-23 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-02-24 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-02-25 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-02-26 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-02-27 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-02 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-03 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-04 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-05 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-06 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-09 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-10 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-11 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-12 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-13 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-16 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-17 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-18 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-19 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-20 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-23 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-24 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-25 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-26 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-27 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-30 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-03-31 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-04-01 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-04-06 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-04-07 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-04-08 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-04-09 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-04-10 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-04-13 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-04-14 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-04-15 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-04-16 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-04-17 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-04-20 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-04-21 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-04-22 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-04-23 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-04-24 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-04-27 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-04-28 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-04-29 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-04-30 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-05-04 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-05-05 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-05-06 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-05-07 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-05-11 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-05-12 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-05-13 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-05-14 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-05-15 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-05-18 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-05-19 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-05-20 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-05-21 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-05-22 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-05-25 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-05-26 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-05-27 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-05-28 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-05-29 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-06-01 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-06-02 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-06-03 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-06-04 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-06-05 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-06-08 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-06-09 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-06-10 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-06-11 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-06-12 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-06-15 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-06-16 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-06-17 cuarentena ValueError: No se encontró la fecha del boletínTraceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 192, in main
+    fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
+                                        ^^^^^^^^^^^^^^^
+ValueError: No se encontró la fecha del boletín
+
+  2026-06-18 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-06-19 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-06-22 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-06-23 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-06-24 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-06-25 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-06-26 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-06-30 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-07-01 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-07-02 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-07-03 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-07-06 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-07-07 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-07-08 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-07-09 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-07-10 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-07-13 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-07-14 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-07-15 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-07-16 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-07-17 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-07-20 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-07-21 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-07-22 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-07-24 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-07-30 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-07-31 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-08-03 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-08-04 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-08-05 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-08-10 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-08-11 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-08-12 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-08-13 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-08-14 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-08-17 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-08-18 cuarentena ValueError: No se encontró la fecha del boletín
+  2026-08-19 ok 
+  2026-08-20 ok 
+  2026-08-21 ok 
+  2026-08-24 ok 
+  2026-08-25 ok 
+  2026-08-26 ok 
+  2026-08-27 ok 
+  2026-08-28 ok 
+  2026-08-31 ok 
+  2026-09-01 ok 
+  2026-09-02 ok 
+  2026-09-04 ok 
+  2026-09-07 ok 
+  2026-09-08 ok 
+  2026-09-09 ok 
+  2026-09-10 ok 
+  2026-09-14 ok 
+  2026-09-15 ok 
+  2026-09-16 ok 
+  2026-09-17 ok 
+  2026-09-18 ok 
+  2026-09-21 ok 
+  2026-09-22 ok 
+  2026-09-23 ok 
+  2026-09-24 ok 
+  2026-09-25 ok 
+  2026-09-28 ok 
+  2026-09-29 ok 
+  2026-09-30 ok 
+  2026-10-02 ok 
+  2026-10-05 ok 
+  2026-10-06 ok 
+  2026-10-07 ok 
+  2026-10-09 ok 
+  2026-10-12 ok 
+  2026-10-13 ok 
+  2026-10-14 ok 
+  2026-10-15 ok 
+  2026-10-16 ok 
+
+Resumen: 39 ok, 151 en cuarentena, 190 procesados
