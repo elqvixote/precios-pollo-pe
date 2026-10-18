@@ -1,0 +1,38 @@
+name: Prueba acceso gob.pe
+
+on:
+  workflow_dispatch:   # se ejecuta a mano desde la pestaña Actions
+
+jobs:
+  probar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: IP y ubicación del runner
+        run: curl -s https://ipinfo.io | head -20
+
+      - name: Probar URLs (curl por defecto y con User-Agent de navegador)
+        run: |
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36"
+          URLS=(
+            "https://www.gob.pe/institucion/midagri/informes-publicaciones/6617104-boletin-estadistico-mensual-del-sector-avicola-2025"
+            "https://www.gob.pe/institucion/midagri/informes-publicaciones/8319970-boletin-de-comercializacion-y-precios-de-aves-julio-2026"
+            "https://cdn.www.gob.pe/uploads/document/file/10810108/8667279-boletin-de-abastecimiento-y-precios-de-aves-16-10-2026.pdf"
+          )
+          for url in "${URLS[@]}"; do
+            for modo in default navegador; do
+              echo "=================================================="
+              echo "URL:  $url"
+              echo "Modo: $modo"
+              if [ "$modo" = "navegador" ]; then H=(-A "$UA" -H "Accept-Language: es-PE,es;q=0.9"); else H=(); fi
+              curl -sS -L --max-time 30 "${H[@]}" \
+                -o /tmp/resp -D /tmp/headers \
+                -w "HTTP %{http_code} | %{size_download} bytes | %{time_total}s | tipo: %{content_type}\n" \
+                "$url" || echo "FALLÓ curl (timeout o conexión rechazada)"
+              echo "--- headers relevantes ---"
+              grep -iE "^(server|cf-ray|x-cache|location|set-cookie):" /tmp/headers | head -5 || true
+              echo "--- primeras líneas de la respuesta ---"
+              head -c 300 /tmp/resp | tr -d '\0' ; echo
+              echo "--- ¿trae links a PDFs? ---"
+              grep -o 'cdn\.www\.gob\.pe/uploads/document/file/[^"]*\.pdf' /tmp/resp | head -5 || echo "(ninguno)"
+            done
+          done
