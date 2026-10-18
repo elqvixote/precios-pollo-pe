@@ -1,0 +1,28 @@
+name: Obtener chat id de Telegram
+
+on:
+  workflow_dispatch:
+
+jobs:
+  chatid:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Leer los últimos mensajes recibidos por el bot
+        env:
+          TG_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: |
+          RESP=$(curl -sS "https://api.telegram.org/bot$(echo "$TG_TOKEN" | tr -d '[:space:]')/getUpdates")
+          if ! echo "$RESP" | grep -q '"ok":true'; then
+            echo "::error::Token rechazado: $(echo "$RESP" | grep -o '"description":"[^"]*"')"; exit 1
+          fi
+          IDS=$(echo "$RESP" | python3 -c "
+          import json,sys
+          d=json.load(sys.stdin)
+          vistos={}
+          for u in d.get('result',[]):
+              m=u.get('message') or u.get('channel_post') or u.get('my_chat_member') or {}
+              c=m.get('chat')
+              if c: vistos[c['id']]=c.get('type','')+' '+(c.get('first_name') or c.get('title') or '')
+          print('; '.join(f'{k} ({v.strip()})' for k,v in vistos.items()) or 'NINGUNO')
+          ")
+          echo "::notice::Chats que le escribieron al bot: $IDS"
