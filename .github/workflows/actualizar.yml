@@ -61,9 +61,11 @@ jobs:
         if: (steps.imagen.outputs.nueva != '' || inputs.prueba_telegram) && env.TG_TOKEN != ''
         run: |
           IMG="${{ steps.imagen.outputs.nueva }}"; [ -z "$IMG" ] && IMG="imagenes/ultima.png"
-          curl -sS --fail-with-body -F chat_id="$TG_CHAT" -F photo=@"$IMG" \
+          RESP=$(curl -sS -F chat_id="$TG_CHAT" -F photo=@"$IMG" \
             -F caption="Precio del pollo en Lima · fuente MIDAGRI" \
-            "https://api.telegram.org/bot$TG_TOKEN/sendPhoto" | head -c 200; echo
+            "https://api.telegram.org/bot$TG_TOKEN/sendPhoto")
+          if echo "$RESP" | grep -q '"ok":true'; then echo "Enviada a Telegram"
+          else echo "Telegram rechazó el envío: $(echo "$RESP" | grep -o '"description":"[^"]*"')"; exit 1; fi
       - name: Guardar datos
         if: always()
         run: |
