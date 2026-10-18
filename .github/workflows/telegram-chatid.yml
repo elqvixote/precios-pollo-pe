@@ -11,7 +11,10 @@ jobs:
         env:
           TG_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         run: |
-          RESP=$(curl -sS "https://api.telegram.org/bot$(echo "$TG_TOKEN" | tr -d '[:space:]')/getUpdates")
+          T=$(echo "$TG_TOKEN" | tr -d '[:space:]')
+          BOT=$(curl -sS "https://api.telegram.org/bot$T/getMe" | grep -o '"username":"[^"]*"' | cut -d'"' -f4)
+          echo "::notice::El token corresponde al bot @$BOT  ->  https://t.me/$BOT"
+          RESP=$(curl -sS "https://api.telegram.org/bot$T/getUpdates")
           if ! echo "$RESP" | grep -q '"ok":true'; then
             echo "::error::Token rechazado: $(echo "$RESP" | grep -o '"description":"[^"]*"')"; exit 1
           fi
