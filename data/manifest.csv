@@ -1,155 +1,155 @@
 fecha,pub_id,url,estado,detalle,procesado_utc
-2026-01-05,7585633,https://cdn.www.gob.pe/uploads/document/file/9243780/7585633-boletin-de-abastecimiento-y-precios-de-aves-05-01-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:33Z
-2026-01-06,7585633,https://cdn.www.gob.pe/uploads/document/file/9253672/7585633-boletin-de-abastecimiento-y-precios-de-aves-06-01-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:35Z
-2026-01-07,7585633,https://cdn.www.gob.pe/uploads/document/file/9259671/7585633-boletin-de-abastecimiento-y-precios-de-aves-07-01-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:36Z
-2026-01-08,7585633,https://cdn.www.gob.pe/uploads/document/file/9263553/7585633-boletin-de-abastecimiento-y-precios-de-aves-08-01-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:37Z
-2026-01-09,7585633,https://cdn.www.gob.pe/uploads/document/file/9269680/7585633-boletin-de-abastecimiento-y-precios-de-aves-09-01-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:38Z
-2026-01-12,7585633,https://cdn.www.gob.pe/uploads/document/file/9278472/7585633-boletin-de-abastecimiento-y-precios-de-aves-12-01-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:39Z
-2026-01-13,7585633,https://cdn.www.gob.pe/uploads/document/file/9283786/7585633-boletin-de-abastecimiento-y-precios-de-aves-13-01-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:40Z
-2026-01-14,7585633,https://cdn.www.gob.pe/uploads/document/file/9289990/7585633-boletin-de-abastecimiento-y-precios-de-aves-14-01-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:41Z
-2026-01-15,7585633,https://cdn.www.gob.pe/uploads/document/file/9295143/7585633-boletin-de-abastecimiento-y-precios-de-aves-15-01-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:42Z
-2026-01-16,7585633,https://cdn.www.gob.pe/uploads/document/file/9299216/7585633-boletin-de-abastecimiento-y-precios-de-aves-16-01-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:42Z
-2026-01-19,7585633,https://cdn.www.gob.pe/uploads/document/file/9310290/7585633-boletin-de-abastecimiento-y-precios-de-aves-19-01-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:43Z
-2026-01-20,7585633,https://cdn.www.gob.pe/uploads/document/file/9318398/7585633-boletin-de-abastecimiento-y-precios-de-aves-20-01-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:46Z
-2026-01-21,7585633,https://cdn.www.gob.pe/uploads/document/file/9324077/7585633-boletin-de-abastecimiento-y-precios-de-aves-21-01-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:47Z
-2026-01-22,7585633,https://cdn.www.gob.pe/uploads/document/file/9330181/7585633-boletin-de-abastecimiento-y-precios-de-aves-22-01-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:48Z
-2026-01-23,7585633,https://cdn.www.gob.pe/uploads/document/file/9338069/7585633-boletin-de-abastecimiento-y-precios-de-aves-23-01-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:49Z
-2026-01-26,7585633,https://cdn.www.gob.pe/uploads/document/file/9343392/7585633-boletin-de-abastecimiento-y-precios-de-aves-26-01-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:50Z
-2026-01-27,7585633,https://cdn.www.gob.pe/uploads/document/file/9348928/7585633-boletin-de-abastecimiento-y-precios-de-aves-27-01-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:51Z
-2026-01-28,7585633,https://cdn.www.gob.pe/uploads/document/file/9355814/7585633-boletin-de-abastecimiento-y-precios-de-aves-28-01-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:52Z
-2026-01-29,7585633,https://cdn.www.gob.pe/uploads/document/file/9361896/7585633-boletin-de-abastecimiento-y-precios-de-aves-29-01-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:53Z
-2026-01-30,7585633,https://cdn.www.gob.pe/uploads/document/file/9367848/7585633-boletin-de-abastecimiento-y-precios-de-aves-30-01-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:54Z
-2026-02-02,7685540,https://cdn.www.gob.pe/uploads/document/file/9377474/7685540-boletin-de-abastecimiento-y-precios-de-aves-02-02-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:55Z
-2026-02-03,7685540,https://cdn.www.gob.pe/uploads/document/file/9385036/7685540-boletin-de-abastecimiento-y-precios-de-aves-03-02-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:56Z
-2026-02-04,7685540,https://cdn.www.gob.pe/uploads/document/file/9390605/7685540-boletin-de-abastecimiento-y-precios-de-aves-04-02-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:56Z
-2026-02-05,7685540,https://cdn.www.gob.pe/uploads/document/file/9399608/7685540-boletin-de-abastecimiento-y-precios-de-aves-05-02-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:57Z
-2026-02-06,7685540,https://cdn.www.gob.pe/uploads/document/file/9407994/7685540-boletin-de-abastecimiento-y-precios-de-aves-06-02-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:58Z
-2026-02-09,7685540,https://cdn.www.gob.pe/uploads/document/file/9425001/7685540-boletin-de-abastecimiento-y-precios-de-aves-09-02-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:32:59Z
-2026-02-10,7685540,https://cdn.www.gob.pe/uploads/document/file/9425002/7685540-boletin-de-abastecimiento-y-precios-de-aves-10-02-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:33:00Z
-2026-02-11,7685540,https://cdn.www.gob.pe/uploads/document/file/9432069/7685540-boletin-de-abastecimiento-y-precios-de-aves-11-02-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:33:01Z
-2026-02-12,7685540,https://cdn.www.gob.pe/uploads/document/file/9439366/7685540-boletin-de-abastecimiento-y-precios-de-aves-12-02-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:33:02Z
-2026-02-13,7685540,https://cdn.www.gob.pe/uploads/document/file/9447693/7685540-boletin-de-abastecimiento-y-precios-de-aves-13-02-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:33:03Z
-2026-02-16,7685540,https://cdn.www.gob.pe/uploads/document/file/9454194/7685540-boletin-de-abastecimiento-y-precios-de-aves-16-02-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:33:04Z
-2026-02-17,7685540,https://cdn.www.gob.pe/uploads/document/file/9461581/7685540-boletin-de-abastecimiento-y-precios-de-aves-17-02-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:33:06Z
-2026-02-18,7685540,https://cdn.www.gob.pe/uploads/document/file/9469020/7685540-boletin-de-abastecimiento-y-precios-de-aves-18-02-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:07Z
-2026-02-19,7685540,https://cdn.www.gob.pe/uploads/document/file/9474487/7685540-boletin-de-abastecimiento-y-precios-de-aves-19-02-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:07Z
-2026-02-20,7685540,https://cdn.www.gob.pe/uploads/document/file/9481963/7685540-boletin-de-abastecimiento-y-precios-de-aves-20-02-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:08Z
-2026-02-23,7685540,https://cdn.www.gob.pe/uploads/document/file/9489855/7685540-boletin-de-abastecimiento-y-precios-de-aves-23-02-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:09Z
-2026-02-24,7685540,https://cdn.www.gob.pe/uploads/document/file/9498927/7685540-boletin-de-abastecimiento-y-precios-de-aves-24-02-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:10Z
-2026-02-25,7685540,https://cdn.www.gob.pe/uploads/document/file/9505660/7685540-boletin-de-abastecimiento-y-precios-de-aves-25-02-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:11Z
-2026-02-26,7685540,https://cdn.www.gob.pe/uploads/document/file/9516487/7685540-boletin-de-abastecimiento-y-precios-de-aves-26-02-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:12Z
-2026-02-27,7685540,https://cdn.www.gob.pe/uploads/document/file/9524674/7685540-boletin-de-abastecimiento-y-precios-de-aves-27-02-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:13Z
-2026-03-02,7804665,https://cdn.www.gob.pe/uploads/document/file/9534239/7804665-boletin-de-abastecimiento-y-precios-de-aves-02-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:14Z
-2026-03-03,7804665,https://cdn.www.gob.pe/uploads/document/file/9543615/7804665-boletin-de-abastecimiento-y-precios-de-aves-03-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:15Z
-2026-03-04,7804665,https://cdn.www.gob.pe/uploads/document/file/9550771/7804665-boletin-de-abastecimiento-y-precios-de-aves-04-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:17Z
-2026-03-05,7804665,https://cdn.www.gob.pe/uploads/document/file/9557891/7804665-boletin-de-abastecimiento-y-precios-de-aves-05-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:17Z
-2026-03-06,7804665,https://cdn.www.gob.pe/uploads/document/file/9564642/7804665-boletin-de-abastecimiento-y-precios-de-aves-06-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:18Z
-2026-03-09,7804665,https://cdn.www.gob.pe/uploads/document/file/9574188/7804665-boletin-de-abastecimiento-y-precios-de-aves-09-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:19Z
-2026-03-10,7804665,https://cdn.www.gob.pe/uploads/document/file/9581291/7804665-boletin-de-abastecimiento-y-precios-de-aves-10-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:20Z
-2026-03-11,7804665,https://cdn.www.gob.pe/uploads/document/file/9589298/7804665-boletin-de-abastecimiento-y-precios-de-aves-11-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:21Z
-2026-03-12,7804665,https://cdn.www.gob.pe/uploads/document/file/9597601/7804665-boletin-de-abastecimiento-y-precios-de-aves-12-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:22Z
-2026-03-13,7804665,https://cdn.www.gob.pe/uploads/document/file/9604719/7804665-boletin-de-abastecimiento-y-precios-de-aves-13-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:23Z
-2026-03-16,7804665,https://cdn.www.gob.pe/uploads/document/file/9618206/7804665-boletin-de-abastecimiento-y-precios-de-aves-16-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:24Z
-2026-03-17,7804665,https://cdn.www.gob.pe/uploads/document/file/9624624/7804665-boletin-de-abastecimiento-y-precios-de-aves-17-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:25Z
-2026-03-18,7804665,https://cdn.www.gob.pe/uploads/document/file/9640639/7804665-boletin-de-abastecimiento-y-precios-de-aves-18-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:25Z
-2026-03-19,7804665,https://cdn.www.gob.pe/uploads/document/file/9654138/7804665-boletin-de-abastecimiento-y-precios-de-aves-19-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:27Z
-2026-03-20,7804665,https://cdn.www.gob.pe/uploads/document/file/9662638/7804665-boletin-de-abastecimiento-y-precios-de-aves-20-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:28Z
-2026-03-23,7804665,https://cdn.www.gob.pe/uploads/document/file/9670736/7804665-boletin-de-abastecimiento-y-precios-de-aves-23-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:29Z
-2026-03-24,7804665,https://cdn.www.gob.pe/uploads/document/file/9680996/7804665-boletin-de-abastecimiento-y-precios-de-aves-24-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:29Z
-2026-03-25,7804665,https://cdn.www.gob.pe/uploads/document/file/9690576/7804665-boletin-de-abastecimiento-y-precios-de-aves-25-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:30Z
-2026-03-26,7804665,https://cdn.www.gob.pe/uploads/document/file/9700270/7804665-boletin-de-abastecimiento-y-precios-de-aves-26-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:31Z
-2026-03-27,7804665,https://cdn.www.gob.pe/uploads/document/file/9707394/7804665-boletin-de-abastecimiento-y-precios-de-aves-27-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:32Z
-2026-03-30,7804665,https://cdn.www.gob.pe/uploads/document/file/9713592/7804665-boletin-de-abastecimiento-y-precios-de-aves-30-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:33Z
-2026-03-31,7804665,https://cdn.www.gob.pe/uploads/document/file/9722341/7804665-boletin-de-abastecimiento-y-precios-de-aves-31-03-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:34Z
-2026-04-01,7959440,https://cdn.www.gob.pe/uploads/document/file/9732792/7959440-boletin-de-abastecimiento-y-precios-de-aves-01-04-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:35Z
-2026-04-06,7959440,https://cdn.www.gob.pe/uploads/document/file/9746473/7959440-boletin-de-abastecimiento-y-precios-de-aves-06-04-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:36Z
-2026-04-07,7959440,https://cdn.www.gob.pe/uploads/document/file/9754691/7959440-boletin-de-abastecimiento-y-precios-de-aves-07-04-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:37Z
-2026-04-08,7959440,https://cdn.www.gob.pe/uploads/document/file/9766674/7959440-boletin-de-abastecimiento-y-precios-de-aves-08-04-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:38Z
-2026-04-09,7959440,https://cdn.www.gob.pe/uploads/document/file/9775924/7959440-boletin-de-abastecimiento-y-precios-de-aves-09-04-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:39Z
-2026-04-10,7959440,https://cdn.www.gob.pe/uploads/document/file/9785684/7959440-boletin-de-abastecimiento-y-precios-de-aves-10-04-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:40Z
-2026-04-13,7959440,https://cdn.www.gob.pe/uploads/document/file/9796876/7959440-boletin-de-abastecimiento-y-precios-de-aves-13-04-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:41Z
-2026-04-14,7959440,https://cdn.www.gob.pe/uploads/document/file/9803958/7959440-boletin-de-abastecimiento-y-precios-de-aves-14-04-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:42Z
-2026-04-15,7959440,https://cdn.www.gob.pe/uploads/document/file/9810944/7959440-boletin-de-abastecimiento-y-precios-de-aves-15-04-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:42Z
-2026-04-16,7959440,https://cdn.www.gob.pe/uploads/document/file/9818512/7959440-boletin-de-abastecimiento-y-precios-de-aves-16-04-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:43Z
-2026-04-17,7959440,https://cdn.www.gob.pe/uploads/document/file/9825133/7959440-boletin-de-abastecimiento-y-precios-de-aves-17-04-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:44Z
-2026-04-20,7959440,https://cdn.www.gob.pe/uploads/document/file/9837543/7959440-boletin-de-abastecimiento-y-precios-de-aves-20-04-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:45Z
-2026-04-21,7959440,https://cdn.www.gob.pe/uploads/document/file/9845107/7959440-boletin-de-abastecimiento-y-precios-de-aves-21-04-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:46Z
-2026-04-22,7959440,https://cdn.www.gob.pe/uploads/document/file/9851836/7959440-boletin-de-abastecimiento-y-precios-de-aves-22-04-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:47Z
-2026-04-23,7959440,https://cdn.www.gob.pe/uploads/document/file/9860691/7959440-boletin-de-abastecimiento-y-precios-de-aves-23-04-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:48Z
-2026-04-24,7959440,https://cdn.www.gob.pe/uploads/document/file/9866641/7959440-boletin-de-abastecimiento-y-precios-de-aves-24-04-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:49Z
-2026-04-27,7959440,https://cdn.www.gob.pe/uploads/document/file/9875621/7959440-boletin-de-abastecimiento-y-precios-de-aves-27-04-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:50Z
-2026-04-28,7959440,https://cdn.www.gob.pe/uploads/document/file/9883051/7959440-boletin-de-abastecimiento-y-precios-de-aves-28-04-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:50Z
-2026-04-29,7959440,https://cdn.www.gob.pe/uploads/document/file/9890315/7959440-boletin-de-abastecimiento-y-precios-de-aves-29-04-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:51Z
-2026-04-30,7959440,https://cdn.www.gob.pe/uploads/document/file/9896033/7959440-boletin-de-abastecimiento-y-precios-de-aves-30-04-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:52Z
-2026-05-04,8083635,https://cdn.www.gob.pe/uploads/document/file/9905775/8083635-boletin-de-abastecimiento-y-precios-de-aves-04-05-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:53Z
-2026-05-05,8083635,https://cdn.www.gob.pe/uploads/document/file/9919671/8083635-boletin-de-abastecimiento-y-precios-de-aves-05-05-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:54Z
-2026-05-06,8083635,https://cdn.www.gob.pe/uploads/document/file/9926293/8083635-boletin-de-abastecimiento-y-precios-de-aves-06-05-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:55Z
-2026-05-07,8083635,https://cdn.www.gob.pe/uploads/document/file/9934487/8083635-boletin-de-abastecimiento-y-precios-de-aves-07-05-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:57Z
-2026-05-11,8083635,https://cdn.www.gob.pe/uploads/document/file/9948227/8083635-boletin-de-abastecimiento-y-precios-de-aves-11-05-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:58Z
-2026-05-12,8083635,https://cdn.www.gob.pe/uploads/document/file/9957973/8083635-boletin-de-abastecimiento-y-precios-de-aves-12-05-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:33:59Z
-2026-05-13,8083635,https://cdn.www.gob.pe/uploads/document/file/9964499/8083635-boletin-de-abastecimiento-y-precios-de-aves-13-05-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:00Z
-2026-05-14,8083635,https://cdn.www.gob.pe/uploads/document/file/9977005/8083635-boletin-de-abastecimiento-y-precios-de-aves-14-05-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:01Z
-2026-05-15,8083635,https://cdn.www.gob.pe/uploads/document/file/9983996/8083635-boletin-de-abastecimiento-y-precios-de-aves-15-05-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:02Z
-2026-05-18,8083635,https://cdn.www.gob.pe/uploads/document/file/9985682/8083635-boletin-de-abastecimiento-y-precios-de-aves-18-05-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:03Z
-2026-05-19,8083635,https://cdn.www.gob.pe/uploads/document/file/10001020/8083635-boletin-de-abastecimiento-y-precios-de-aves-19-05-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:03Z
-2026-05-20,8083635,https://cdn.www.gob.pe/uploads/document/file/10012481/8083635-boletin-de-abastecimiento-y-precios-de-aves-20-05-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:04Z
-2026-05-21,8083635,https://cdn.www.gob.pe/uploads/document/file/10021326/8083635-boletin-de-abastecimiento-y-precios-de-aves-21-05-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:05Z
-2026-05-22,8083635,https://cdn.www.gob.pe/uploads/document/file/10029232/8083635-boletin-de-abastecimiento-y-precios-de-aves-22-05-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:06Z
-2026-05-25,8083635,https://cdn.www.gob.pe/uploads/document/file/10034904/8083635-boletin-de-abastecimiento-y-precios-de-aves-25-05-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:07Z
-2026-05-26,8083635,https://cdn.www.gob.pe/uploads/document/file/10041955/8083635-boletin-de-abastecimiento-y-precios-de-aves-26-05-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:08Z
-2026-05-27,8083635,https://cdn.www.gob.pe/uploads/document/file/10049555/8083635-boletin-de-abastecimiento-y-precios-de-aves-27-05-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:09Z
-2026-05-28,8083635,https://cdn.www.gob.pe/uploads/document/file/10061966/8083635-boletin-de-abastecimiento-y-precios-de-aves-28-05-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:10Z
-2026-05-29,8083635,https://cdn.www.gob.pe/uploads/document/file/10062728/8083635-boletin-de-abastecimiento-y-precios-de-aves-29-05-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:11Z
-2026-06-01,8205044,https://cdn.www.gob.pe/uploads/document/file/10072171/8205044-boletin-de-abastecimiento-y-precios-de-aves-01-06-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:12Z
-2026-06-02,8205044,https://cdn.www.gob.pe/uploads/document/file/10082852/8205044-boletin-de-abastecimiento-y-precios-de-aves-02-06-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:13Z
-2026-06-03,8205044,https://cdn.www.gob.pe/uploads/document/file/10096843/8205044-boletin-de-abastecimiento-y-precios-de-aves-03-06-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:13Z
-2026-06-04,8205044,https://cdn.www.gob.pe/uploads/document/file/10100484/8205044-boletin-de-abastecimiento-y-precios-de-aves-04-06-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:14Z
-2026-06-05,8205044,https://cdn.www.gob.pe/uploads/document/file/10107959/8205044-boletin-de-abastecimiento-y-precios-de-aves-05-06-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:16Z
-2026-06-08,8205044,https://cdn.www.gob.pe/uploads/document/file/10121228/8205044-boletin-de-abastecimiento-y-precios-de-aves-08-06-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:16Z
-2026-06-09,8205044,https://cdn.www.gob.pe/uploads/document/file/10129098/8205044-boletin-de-abastecimiento-y-precios-de-aves-09-06-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:17Z
-2026-06-10,8205044,https://cdn.www.gob.pe/uploads/document/file/10136762/8205044-boletin-de-abastecimiento-y-precios-de-aves-10-06-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:18Z
-2026-06-11,8205044,https://cdn.www.gob.pe/uploads/document/file/10143899/8205044-boletin-de-abastecimiento-y-precios-de-aves-11-06-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:19Z
-2026-06-12,8205044,https://cdn.www.gob.pe/uploads/document/file/10151263/8205044-boletin-de-abastecimiento-y-precios-de-aves-12-06-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:20Z
-2026-06-15,8205044,https://cdn.www.gob.pe/uploads/document/file/10158551/8205044-boletin-de-abastecimiento-y-precios-de-aves-15-06-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:21Z
-2026-06-16,8205044,https://cdn.www.gob.pe/uploads/document/file/10165767/8205044-boletin-de-abastecimiento-y-precios-de-aves-16-06-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:22Z
-2026-06-17,8205044,https://cdn.www.gob.pe/uploads/document/file/10171843/8205044-boletin-de-abastecimiento-y-precios-de-aves-17-06-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:23Z
-2026-06-18,8205044,https://cdn.www.gob.pe/uploads/document/file/10179216/8205044-boletin-de-abastecimiento-y-precios-de-aves-18-06-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:24Z
-2026-06-19,8205044,https://cdn.www.gob.pe/uploads/document/file/10184604/8205044-boletin-de-abastecimiento-y-precios-de-aves-19-06-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:24Z
-2026-06-22,8205044,https://cdn.www.gob.pe/uploads/document/file/10191780/8205044-boletin-de-abastecimiento-y-precios-de-aves-22-06-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:25Z
-2026-06-23,8205044,https://cdn.www.gob.pe/uploads/document/file/10198607/8205044-boletin-de-abastecimiento-y-precios-de-aves-23-06-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:26Z
-2026-06-24,8205044,https://cdn.www.gob.pe/uploads/document/file/10204155/8205044-boletin-de-abastecimiento-y-precios-de-aves-24-06-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:27Z
-2026-06-25,8205044,https://cdn.www.gob.pe/uploads/document/file/10210572/8205044-boletin-de-abastecimiento-y-precios-de-aves-25-06-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:28Z
-2026-06-26,8205044,https://cdn.www.gob.pe/uploads/document/file/10216246/8205044-boletin-de-abastecimiento-y-precios-de-aves-26-06-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:29Z
-2026-06-30,8205044,https://cdn.www.gob.pe/uploads/document/file/10225932/8205044-boletin-de-abastecimiento-y-precios-de-aves-30-06-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:30Z
-2026-07-01,8319970,https://cdn.www.gob.pe/uploads/document/file/10236687/8319970-boletin-de-abastecimiento-y-precios-de-aves-01-07-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:31Z
-2026-07-02,8319970,https://cdn.www.gob.pe/uploads/document/file/10242175/8319970-boletin-de-abastecimiento-y-precios-de-aves-02-07-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:32Z
-2026-07-03,8319970,https://cdn.www.gob.pe/uploads/document/file/10248732/8319970-boletin-de-abastecimiento-y-precios-de-aves-03-07-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:34Z
-2026-07-06,8319970,https://cdn.www.gob.pe/uploads/document/file/10261005/8319970-boletin-de-abastecimiento-y-precios-de-aves-06-07-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:34Z
-2026-07-07,8319970,https://cdn.www.gob.pe/uploads/document/file/10270120/8319970-boletin-de-abastecimiento-y-precios-de-aves-07-07-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:35Z
-2026-07-08,8319970,https://cdn.www.gob.pe/uploads/document/file/10276550/8319970-boletin-de-abastecimiento-y-precios-de-aves-08-07-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:36Z
-2026-07-09,8319970,https://cdn.www.gob.pe/uploads/document/file/10286143/8319970-boletin-de-abastecimiento-y-precios-de-aves-09-07-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:37Z
-2026-07-10,8319970,https://cdn.www.gob.pe/uploads/document/file/10292792/8319970-boletin-de-abastecimiento-y-precios-de-aves-10-07-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:38Z
-2026-07-13,8319970,https://cdn.www.gob.pe/uploads/document/file/10303700/8319970-boletin-de-abastecimiento-y-precios-de-aves-13-07-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:39Z
-2026-07-14,8319970,https://cdn.www.gob.pe/uploads/document/file/10310909/8319970-boletin-de-abastecimiento-y-precios-de-aves-14-07-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:40Z
-2026-07-15,8319970,https://cdn.www.gob.pe/uploads/document/file/10322370/8319970-boletin-de-abastecimiento-y-precios-de-aves-15-07-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:41Z
-2026-07-16,8319970,https://cdn.www.gob.pe/uploads/document/file/10332324/8319970-boletin-de-abastecimiento-y-precios-de-aves-16-07-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:41Z
-2026-07-17,8319970,https://cdn.www.gob.pe/uploads/document/file/10340859/8319970-boletin-de-abastecimiento-y-precios-de-aves-17-07-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:42Z
-2026-07-20,8319970,https://cdn.www.gob.pe/uploads/document/file/10347881/8319970-boletin-de-abastecimiento-y-precios-de-aves-20-07-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:43Z
-2026-07-21,8319970,https://cdn.www.gob.pe/uploads/document/file/10353801/8319970-boletin-de-abastecimiento-y-precios-de-aves-21-07-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:44Z
-2026-07-22,8319970,https://cdn.www.gob.pe/uploads/document/file/10357354/8319970-boletin-de-abastecimiento-y-precios-de-aves-22-07-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:45Z
-2026-07-24,8319970,https://cdn.www.gob.pe/uploads/document/file/10371668/8319970-boletin-de-abastecimiento-y-precios-de-aves-24-07-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:46Z
-2026-07-30,8319970,https://cdn.www.gob.pe/uploads/document/file/10379010/8319970-boletin-de-abastecimiento-y-precios-de-aves-30-07-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:47Z
-2026-07-31,8319970,https://cdn.www.gob.pe/uploads/document/file/10386890/8319970-boletin-de-abastecimiento-y-precios-de-aves-31-07-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:48Z
-2026-08-03,8437905,https://cdn.www.gob.pe/uploads/document/file/10394459/8437905-boletin-de-abastecimiento-y-precios-de-aves-03-08-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:48Z
-2026-08-04,8437905,https://cdn.www.gob.pe/uploads/document/file/10399981/8437905-boletin-de-abastecimiento-y-precios-de-aves-04-08-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:49Z
-2026-08-05,8437905,https://cdn.www.gob.pe/uploads/document/file/10409007/8437905-boletin-de-abastecimiento-y-precios-de-aves-05-08-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:51Z
-2026-08-10,8437905,https://cdn.www.gob.pe/uploads/document/file/10426548/8437905-boletin-de-abastecimiento-y-precios-de-aves-10-08-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:51Z
-2026-08-11,8437905,https://cdn.www.gob.pe/uploads/document/file/10432060/8437905-boletin-de-abastecimiento-y-precios-de-aves-11-08-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:52Z
-2026-08-12,8437905,https://cdn.www.gob.pe/uploads/document/file/10439216/8437905-boletin-de-abastecimiento-y-precios-de-aves-12-08-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:53Z
-2026-08-13,8437905,https://cdn.www.gob.pe/uploads/document/file/10449058/8437905-boletin-de-abastecimiento-y-precios-de-aves-13-08-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:54Z
-2026-08-14,8437905,https://cdn.www.gob.pe/uploads/document/file/10456779/8437905-boletin-de-abastecimiento-y-precios-de-aves-14-08-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:55Z
-2026-08-17,8437905,https://cdn.www.gob.pe/uploads/document/file/10466717/8437905-boletin-de-abastecimiento-y-precios-de-aves-17-08-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:56Z
-2026-08-18,8437905,https://cdn.www.gob.pe/uploads/document/file/10473075/8437905-boletin-de-abastecimiento-y-precios-de-aves-18-08-2026.pdf,cuarentena,ValueError: No se encontró la fecha del boletín,2026-10-18T03:34:57Z
+2026-01-05,7585633,https://cdn.www.gob.pe/uploads/document/file/9243780/7585633-boletin-de-abastecimiento-y-precios-de-aves-05-01-2026.pdf,ok,,2026-10-18T03:39:34Z
+2026-01-06,7585633,https://cdn.www.gob.pe/uploads/document/file/9253672/7585633-boletin-de-abastecimiento-y-precios-de-aves-06-01-2026.pdf,ok,,2026-10-18T03:39:37Z
+2026-01-07,7585633,https://cdn.www.gob.pe/uploads/document/file/9259671/7585633-boletin-de-abastecimiento-y-precios-de-aves-07-01-2026.pdf,ok,,2026-10-18T03:39:38Z
+2026-01-08,7585633,https://cdn.www.gob.pe/uploads/document/file/9263553/7585633-boletin-de-abastecimiento-y-precios-de-aves-08-01-2026.pdf,ok,,2026-10-18T03:39:39Z
+2026-01-09,7585633,https://cdn.www.gob.pe/uploads/document/file/9269680/7585633-boletin-de-abastecimiento-y-precios-de-aves-09-01-2026.pdf,ok,,2026-10-18T03:39:40Z
+2026-01-12,7585633,https://cdn.www.gob.pe/uploads/document/file/9278472/7585633-boletin-de-abastecimiento-y-precios-de-aves-12-01-2026.pdf,ok,,2026-10-18T03:39:41Z
+2026-01-13,7585633,https://cdn.www.gob.pe/uploads/document/file/9283786/7585633-boletin-de-abastecimiento-y-precios-de-aves-13-01-2026.pdf,ok,,2026-10-18T03:39:42Z
+2026-01-14,7585633,https://cdn.www.gob.pe/uploads/document/file/9289990/7585633-boletin-de-abastecimiento-y-precios-de-aves-14-01-2026.pdf,ok,,2026-10-18T03:39:42Z
+2026-01-15,7585633,https://cdn.www.gob.pe/uploads/document/file/9295143/7585633-boletin-de-abastecimiento-y-precios-de-aves-15-01-2026.pdf,ok,,2026-10-18T03:39:43Z
+2026-01-16,7585633,https://cdn.www.gob.pe/uploads/document/file/9299216/7585633-boletin-de-abastecimiento-y-precios-de-aves-16-01-2026.pdf,ok,,2026-10-18T03:39:44Z
+2026-01-19,7585633,https://cdn.www.gob.pe/uploads/document/file/9310290/7585633-boletin-de-abastecimiento-y-precios-de-aves-19-01-2026.pdf,ok,,2026-10-18T03:39:45Z
+2026-01-20,7585633,https://cdn.www.gob.pe/uploads/document/file/9318398/7585633-boletin-de-abastecimiento-y-precios-de-aves-20-01-2026.pdf,ok,,2026-10-18T03:39:46Z
+2026-01-21,7585633,https://cdn.www.gob.pe/uploads/document/file/9324077/7585633-boletin-de-abastecimiento-y-precios-de-aves-21-01-2026.pdf,ok,,2026-10-18T03:39:47Z
+2026-01-22,7585633,https://cdn.www.gob.pe/uploads/document/file/9330181/7585633-boletin-de-abastecimiento-y-precios-de-aves-22-01-2026.pdf,ok,,2026-10-18T03:39:47Z
+2026-01-23,7585633,https://cdn.www.gob.pe/uploads/document/file/9338069/7585633-boletin-de-abastecimiento-y-precios-de-aves-23-01-2026.pdf,ok,,2026-10-18T03:39:48Z
+2026-01-26,7585633,https://cdn.www.gob.pe/uploads/document/file/9343392/7585633-boletin-de-abastecimiento-y-precios-de-aves-26-01-2026.pdf,ok,,2026-10-18T03:39:49Z
+2026-01-27,7585633,https://cdn.www.gob.pe/uploads/document/file/9348928/7585633-boletin-de-abastecimiento-y-precios-de-aves-27-01-2026.pdf,ok,,2026-10-18T03:39:50Z
+2026-01-28,7585633,https://cdn.www.gob.pe/uploads/document/file/9355814/7585633-boletin-de-abastecimiento-y-precios-de-aves-28-01-2026.pdf,ok,,2026-10-18T03:39:51Z
+2026-01-29,7585633,https://cdn.www.gob.pe/uploads/document/file/9361896/7585633-boletin-de-abastecimiento-y-precios-de-aves-29-01-2026.pdf,ok,,2026-10-18T03:39:52Z
+2026-01-30,7585633,https://cdn.www.gob.pe/uploads/document/file/9367848/7585633-boletin-de-abastecimiento-y-precios-de-aves-30-01-2026.pdf,ok,,2026-10-18T03:39:53Z
+2026-02-02,7685540,https://cdn.www.gob.pe/uploads/document/file/9377474/7685540-boletin-de-abastecimiento-y-precios-de-aves-02-02-2026.pdf,ok,,2026-10-18T03:39:54Z
+2026-02-03,7685540,https://cdn.www.gob.pe/uploads/document/file/9385036/7685540-boletin-de-abastecimiento-y-precios-de-aves-03-02-2026.pdf,ok,,2026-10-18T03:39:55Z
+2026-02-04,7685540,https://cdn.www.gob.pe/uploads/document/file/9390605/7685540-boletin-de-abastecimiento-y-precios-de-aves-04-02-2026.pdf,ok,,2026-10-18T03:39:55Z
+2026-02-05,7685540,https://cdn.www.gob.pe/uploads/document/file/9399608/7685540-boletin-de-abastecimiento-y-precios-de-aves-05-02-2026.pdf,ok,,2026-10-18T03:39:56Z
+2026-02-06,7685540,https://cdn.www.gob.pe/uploads/document/file/9407994/7685540-boletin-de-abastecimiento-y-precios-de-aves-06-02-2026.pdf,ok,,2026-10-18T03:39:57Z
+2026-02-09,7685540,https://cdn.www.gob.pe/uploads/document/file/9425001/7685540-boletin-de-abastecimiento-y-precios-de-aves-09-02-2026.pdf,ok,,2026-10-18T03:39:58Z
+2026-02-10,7685540,https://cdn.www.gob.pe/uploads/document/file/9425002/7685540-boletin-de-abastecimiento-y-precios-de-aves-10-02-2026.pdf,ok,,2026-10-18T03:39:59Z
+2026-02-11,7685540,https://cdn.www.gob.pe/uploads/document/file/9432069/7685540-boletin-de-abastecimiento-y-precios-de-aves-11-02-2026.pdf,ok,,2026-10-18T03:40:00Z
+2026-02-12,7685540,https://cdn.www.gob.pe/uploads/document/file/9439366/7685540-boletin-de-abastecimiento-y-precios-de-aves-12-02-2026.pdf,ok,,2026-10-18T03:40:01Z
+2026-02-13,7685540,https://cdn.www.gob.pe/uploads/document/file/9447693/7685540-boletin-de-abastecimiento-y-precios-de-aves-13-02-2026.pdf,ok,,2026-10-18T03:40:01Z
+2026-02-16,7685540,https://cdn.www.gob.pe/uploads/document/file/9454194/7685540-boletin-de-abastecimiento-y-precios-de-aves-16-02-2026.pdf,ok,,2026-10-18T03:40:02Z
+2026-02-17,7685540,https://cdn.www.gob.pe/uploads/document/file/9461581/7685540-boletin-de-abastecimiento-y-precios-de-aves-17-02-2026.pdf,ok,,2026-10-18T03:40:03Z
+2026-02-18,7685540,https://cdn.www.gob.pe/uploads/document/file/9469020/7685540-boletin-de-abastecimiento-y-precios-de-aves-18-02-2026.pdf,ok,,2026-10-18T03:40:05Z
+2026-02-19,7685540,https://cdn.www.gob.pe/uploads/document/file/9474487/7685540-boletin-de-abastecimiento-y-precios-de-aves-19-02-2026.pdf,ok,,2026-10-18T03:40:05Z
+2026-02-20,7685540,https://cdn.www.gob.pe/uploads/document/file/9481963/7685540-boletin-de-abastecimiento-y-precios-de-aves-20-02-2026.pdf,ok,,2026-10-18T03:40:06Z
+2026-02-23,7685540,https://cdn.www.gob.pe/uploads/document/file/9489855/7685540-boletin-de-abastecimiento-y-precios-de-aves-23-02-2026.pdf,ok,,2026-10-18T03:40:07Z
+2026-02-24,7685540,https://cdn.www.gob.pe/uploads/document/file/9498927/7685540-boletin-de-abastecimiento-y-precios-de-aves-24-02-2026.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:40:08Z
+2026-02-25,7685540,https://cdn.www.gob.pe/uploads/document/file/9505660/7685540-boletin-de-abastecimiento-y-precios-de-aves-25-02-2026.pdf,ok,,2026-10-18T03:40:09Z
+2026-02-26,7685540,https://cdn.www.gob.pe/uploads/document/file/9516487/7685540-boletin-de-abastecimiento-y-precios-de-aves-26-02-2026.pdf,ok,,2026-10-18T03:40:10Z
+2026-02-27,7685540,https://cdn.www.gob.pe/uploads/document/file/9524674/7685540-boletin-de-abastecimiento-y-precios-de-aves-27-02-2026.pdf,ok,,2026-10-18T03:40:11Z
+2026-03-02,7804665,https://cdn.www.gob.pe/uploads/document/file/9534239/7804665-boletin-de-abastecimiento-y-precios-de-aves-02-03-2026.pdf,ok,,2026-10-18T03:40:12Z
+2026-03-03,7804665,https://cdn.www.gob.pe/uploads/document/file/9543615/7804665-boletin-de-abastecimiento-y-precios-de-aves-03-03-2026.pdf,ok,,2026-10-18T03:40:13Z
+2026-03-04,7804665,https://cdn.www.gob.pe/uploads/document/file/9550771/7804665-boletin-de-abastecimiento-y-precios-de-aves-04-03-2026.pdf,ok,,2026-10-18T03:40:14Z
+2026-03-05,7804665,https://cdn.www.gob.pe/uploads/document/file/9557891/7804665-boletin-de-abastecimiento-y-precios-de-aves-05-03-2026.pdf,ok,,2026-10-18T03:40:14Z
+2026-03-06,7804665,https://cdn.www.gob.pe/uploads/document/file/9564642/7804665-boletin-de-abastecimiento-y-precios-de-aves-06-03-2026.pdf,ok,,2026-10-18T03:40:15Z
+2026-03-09,7804665,https://cdn.www.gob.pe/uploads/document/file/9574188/7804665-boletin-de-abastecimiento-y-precios-de-aves-09-03-2026.pdf,ok,,2026-10-18T03:40:16Z
+2026-03-10,7804665,https://cdn.www.gob.pe/uploads/document/file/9581291/7804665-boletin-de-abastecimiento-y-precios-de-aves-10-03-2026.pdf,ok,,2026-10-18T03:40:17Z
+2026-03-11,7804665,https://cdn.www.gob.pe/uploads/document/file/9589298/7804665-boletin-de-abastecimiento-y-precios-de-aves-11-03-2026.pdf,ok,,2026-10-18T03:40:18Z
+2026-03-12,7804665,https://cdn.www.gob.pe/uploads/document/file/9597601/7804665-boletin-de-abastecimiento-y-precios-de-aves-12-03-2026.pdf,ok,,2026-10-18T03:40:19Z
+2026-03-13,7804665,https://cdn.www.gob.pe/uploads/document/file/9604719/7804665-boletin-de-abastecimiento-y-precios-de-aves-13-03-2026.pdf,ok,,2026-10-18T03:40:20Z
+2026-03-16,7804665,https://cdn.www.gob.pe/uploads/document/file/9618206/7804665-boletin-de-abastecimiento-y-precios-de-aves-16-03-2026.pdf,ok,,2026-10-18T03:40:20Z
+2026-03-17,7804665,https://cdn.www.gob.pe/uploads/document/file/9624624/7804665-boletin-de-abastecimiento-y-precios-de-aves-17-03-2026.pdf,ok,,2026-10-18T03:40:21Z
+2026-03-18,7804665,https://cdn.www.gob.pe/uploads/document/file/9640639/7804665-boletin-de-abastecimiento-y-precios-de-aves-18-03-2026.pdf,ok,,2026-10-18T03:40:22Z
+2026-03-19,7804665,https://cdn.www.gob.pe/uploads/document/file/9654138/7804665-boletin-de-abastecimiento-y-precios-de-aves-19-03-2026.pdf,ok,,2026-10-18T03:40:23Z
+2026-03-20,7804665,https://cdn.www.gob.pe/uploads/document/file/9662638/7804665-boletin-de-abastecimiento-y-precios-de-aves-20-03-2026.pdf,ok,,2026-10-18T03:40:24Z
+2026-03-23,7804665,https://cdn.www.gob.pe/uploads/document/file/9670736/7804665-boletin-de-abastecimiento-y-precios-de-aves-23-03-2026.pdf,ok,,2026-10-18T03:40:25Z
+2026-03-24,7804665,https://cdn.www.gob.pe/uploads/document/file/9680996/7804665-boletin-de-abastecimiento-y-precios-de-aves-24-03-2026.pdf,ok,,2026-10-18T03:40:26Z
+2026-03-25,7804665,https://cdn.www.gob.pe/uploads/document/file/9690576/7804665-boletin-de-abastecimiento-y-precios-de-aves-25-03-2026.pdf,ok,,2026-10-18T03:40:26Z
+2026-03-26,7804665,https://cdn.www.gob.pe/uploads/document/file/9700270/7804665-boletin-de-abastecimiento-y-precios-de-aves-26-03-2026.pdf,ok,,2026-10-18T03:40:27Z
+2026-03-27,7804665,https://cdn.www.gob.pe/uploads/document/file/9707394/7804665-boletin-de-abastecimiento-y-precios-de-aves-27-03-2026.pdf,ok,,2026-10-18T03:40:28Z
+2026-03-30,7804665,https://cdn.www.gob.pe/uploads/document/file/9713592/7804665-boletin-de-abastecimiento-y-precios-de-aves-30-03-2026.pdf,ok,,2026-10-18T03:40:29Z
+2026-03-31,7804665,https://cdn.www.gob.pe/uploads/document/file/9722341/7804665-boletin-de-abastecimiento-y-precios-de-aves-31-03-2026.pdf,ok,,2026-10-18T03:40:30Z
+2026-04-01,7959440,https://cdn.www.gob.pe/uploads/document/file/9732792/7959440-boletin-de-abastecimiento-y-precios-de-aves-01-04-2026.pdf,ok,,2026-10-18T03:40:31Z
+2026-04-06,7959440,https://cdn.www.gob.pe/uploads/document/file/9746473/7959440-boletin-de-abastecimiento-y-precios-de-aves-06-04-2026.pdf,ok,,2026-10-18T03:40:32Z
+2026-04-07,7959440,https://cdn.www.gob.pe/uploads/document/file/9754691/7959440-boletin-de-abastecimiento-y-precios-de-aves-07-04-2026.pdf,ok,,2026-10-18T03:40:32Z
+2026-04-08,7959440,https://cdn.www.gob.pe/uploads/document/file/9766674/7959440-boletin-de-abastecimiento-y-precios-de-aves-08-04-2026.pdf,ok,,2026-10-18T03:40:33Z
+2026-04-09,7959440,https://cdn.www.gob.pe/uploads/document/file/9775924/7959440-boletin-de-abastecimiento-y-precios-de-aves-09-04-2026.pdf,ok,,2026-10-18T03:40:34Z
+2026-04-10,7959440,https://cdn.www.gob.pe/uploads/document/file/9785684/7959440-boletin-de-abastecimiento-y-precios-de-aves-10-04-2026.pdf,ok,,2026-10-18T03:40:35Z
+2026-04-13,7959440,https://cdn.www.gob.pe/uploads/document/file/9796876/7959440-boletin-de-abastecimiento-y-precios-de-aves-13-04-2026.pdf,ok,,2026-10-18T03:40:36Z
+2026-04-14,7959440,https://cdn.www.gob.pe/uploads/document/file/9803958/7959440-boletin-de-abastecimiento-y-precios-de-aves-14-04-2026.pdf,ok,,2026-10-18T03:40:37Z
+2026-04-15,7959440,https://cdn.www.gob.pe/uploads/document/file/9810944/7959440-boletin-de-abastecimiento-y-precios-de-aves-15-04-2026.pdf,ok,,2026-10-18T03:40:38Z
+2026-04-16,7959440,https://cdn.www.gob.pe/uploads/document/file/9818512/7959440-boletin-de-abastecimiento-y-precios-de-aves-16-04-2026.pdf,ok,,2026-10-18T03:40:39Z
+2026-04-17,7959440,https://cdn.www.gob.pe/uploads/document/file/9825133/7959440-boletin-de-abastecimiento-y-precios-de-aves-17-04-2026.pdf,ok,,2026-10-18T03:40:40Z
+2026-04-20,7959440,https://cdn.www.gob.pe/uploads/document/file/9837543/7959440-boletin-de-abastecimiento-y-precios-de-aves-20-04-2026.pdf,ok,,2026-10-18T03:40:41Z
+2026-04-21,7959440,https://cdn.www.gob.pe/uploads/document/file/9845107/7959440-boletin-de-abastecimiento-y-precios-de-aves-21-04-2026.pdf,ok,,2026-10-18T03:40:41Z
+2026-04-22,7959440,https://cdn.www.gob.pe/uploads/document/file/9851836/7959440-boletin-de-abastecimiento-y-precios-de-aves-22-04-2026.pdf,ok,,2026-10-18T03:40:42Z
+2026-04-23,7959440,https://cdn.www.gob.pe/uploads/document/file/9860691/7959440-boletin-de-abastecimiento-y-precios-de-aves-23-04-2026.pdf,ok,,2026-10-18T03:40:43Z
+2026-04-24,7959440,https://cdn.www.gob.pe/uploads/document/file/9866641/7959440-boletin-de-abastecimiento-y-precios-de-aves-24-04-2026.pdf,ok,,2026-10-18T03:40:44Z
+2026-04-27,7959440,https://cdn.www.gob.pe/uploads/document/file/9875621/7959440-boletin-de-abastecimiento-y-precios-de-aves-27-04-2026.pdf,ok,,2026-10-18T03:40:45Z
+2026-04-28,7959440,https://cdn.www.gob.pe/uploads/document/file/9883051/7959440-boletin-de-abastecimiento-y-precios-de-aves-28-04-2026.pdf,ok,,2026-10-18T03:40:46Z
+2026-04-29,7959440,https://cdn.www.gob.pe/uploads/document/file/9890315/7959440-boletin-de-abastecimiento-y-precios-de-aves-29-04-2026.pdf,ok,,2026-10-18T03:40:47Z
+2026-04-30,7959440,https://cdn.www.gob.pe/uploads/document/file/9896033/7959440-boletin-de-abastecimiento-y-precios-de-aves-30-04-2026.pdf,ok,,2026-10-18T03:40:48Z
+2026-05-04,8083635,https://cdn.www.gob.pe/uploads/document/file/9905775/8083635-boletin-de-abastecimiento-y-precios-de-aves-04-05-2026.pdf,ok,,2026-10-18T03:40:48Z
+2026-05-05,8083635,https://cdn.www.gob.pe/uploads/document/file/9919671/8083635-boletin-de-abastecimiento-y-precios-de-aves-05-05-2026.pdf,ok,,2026-10-18T03:40:49Z
+2026-05-06,8083635,https://cdn.www.gob.pe/uploads/document/file/9926293/8083635-boletin-de-abastecimiento-y-precios-de-aves-06-05-2026.pdf,ok,,2026-10-18T03:40:50Z
+2026-05-07,8083635,https://cdn.www.gob.pe/uploads/document/file/9934487/8083635-boletin-de-abastecimiento-y-precios-de-aves-07-05-2026.pdf,ok,,2026-10-18T03:40:51Z
+2026-05-11,8083635,https://cdn.www.gob.pe/uploads/document/file/9948227/8083635-boletin-de-abastecimiento-y-precios-de-aves-11-05-2026.pdf,ok,,2026-10-18T03:40:52Z
+2026-05-12,8083635,https://cdn.www.gob.pe/uploads/document/file/9957973/8083635-boletin-de-abastecimiento-y-precios-de-aves-12-05-2026.pdf,ok,,2026-10-18T03:40:53Z
+2026-05-13,8083635,https://cdn.www.gob.pe/uploads/document/file/9964499/8083635-boletin-de-abastecimiento-y-precios-de-aves-13-05-2026.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:40:54Z
+2026-05-14,8083635,https://cdn.www.gob.pe/uploads/document/file/9977005/8083635-boletin-de-abastecimiento-y-precios-de-aves-14-05-2026.pdf,cuarentena,precio portada 6.3 vs tabla [6.2],2026-10-18T03:40:54Z
+2026-05-15,8083635,https://cdn.www.gob.pe/uploads/document/file/9983996/8083635-boletin-de-abastecimiento-y-precios-de-aves-15-05-2026.pdf,ok,,2026-10-18T03:40:55Z
+2026-05-18,8083635,https://cdn.www.gob.pe/uploads/document/file/9985682/8083635-boletin-de-abastecimiento-y-precios-de-aves-18-05-2026.pdf,ok,,2026-10-18T03:40:56Z
+2026-05-19,8083635,https://cdn.www.gob.pe/uploads/document/file/10001020/8083635-boletin-de-abastecimiento-y-precios-de-aves-19-05-2026.pdf,ok,,2026-10-18T03:40:57Z
+2026-05-20,8083635,https://cdn.www.gob.pe/uploads/document/file/10012481/8083635-boletin-de-abastecimiento-y-precios-de-aves-20-05-2026.pdf,ok,,2026-10-18T03:41:00Z
+2026-05-21,8083635,https://cdn.www.gob.pe/uploads/document/file/10021326/8083635-boletin-de-abastecimiento-y-precios-de-aves-21-05-2026.pdf,cuarentena,precio portada 4.99 vs tabla [5.2],2026-10-18T03:41:01Z
+2026-05-22,8083635,https://cdn.www.gob.pe/uploads/document/file/10029232/8083635-boletin-de-abastecimiento-y-precios-de-aves-22-05-2026.pdf,ok,,2026-10-18T03:41:02Z
+2026-05-25,8083635,https://cdn.www.gob.pe/uploads/document/file/10034904/8083635-boletin-de-abastecimiento-y-precios-de-aves-25-05-2026.pdf,ok,,2026-10-18T03:41:03Z
+2026-05-26,8083635,https://cdn.www.gob.pe/uploads/document/file/10041955/8083635-boletin-de-abastecimiento-y-precios-de-aves-26-05-2026.pdf,ok,,2026-10-18T03:41:04Z
+2026-05-27,8083635,https://cdn.www.gob.pe/uploads/document/file/10049555/8083635-boletin-de-abastecimiento-y-precios-de-aves-27-05-2026.pdf,ok,,2026-10-18T03:41:05Z
+2026-05-28,8083635,https://cdn.www.gob.pe/uploads/document/file/10061966/8083635-boletin-de-abastecimiento-y-precios-de-aves-28-05-2026.pdf,ok,,2026-10-18T03:41:06Z
+2026-05-29,8083635,https://cdn.www.gob.pe/uploads/document/file/10062728/8083635-boletin-de-abastecimiento-y-precios-de-aves-29-05-2026.pdf,ok,,2026-10-18T03:41:07Z
+2026-06-01,8205044,https://cdn.www.gob.pe/uploads/document/file/10072171/8205044-boletin-de-abastecimiento-y-precios-de-aves-01-06-2026.pdf,ok,,2026-10-18T03:41:08Z
+2026-06-02,8205044,https://cdn.www.gob.pe/uploads/document/file/10082852/8205044-boletin-de-abastecimiento-y-precios-de-aves-02-06-2026.pdf,ok,,2026-10-18T03:41:09Z
+2026-06-03,8205044,https://cdn.www.gob.pe/uploads/document/file/10096843/8205044-boletin-de-abastecimiento-y-precios-de-aves-03-06-2026.pdf,ok,,2026-10-18T03:41:10Z
+2026-06-04,8205044,https://cdn.www.gob.pe/uploads/document/file/10100484/8205044-boletin-de-abastecimiento-y-precios-de-aves-04-06-2026.pdf,ok,,2026-10-18T03:41:11Z
+2026-06-05,8205044,https://cdn.www.gob.pe/uploads/document/file/10107959/8205044-boletin-de-abastecimiento-y-precios-de-aves-05-06-2026.pdf,ok,,2026-10-18T03:41:12Z
+2026-06-08,8205044,https://cdn.www.gob.pe/uploads/document/file/10121228/8205044-boletin-de-abastecimiento-y-precios-de-aves-08-06-2026.pdf,ok,,2026-10-18T03:41:13Z
+2026-06-09,8205044,https://cdn.www.gob.pe/uploads/document/file/10129098/8205044-boletin-de-abastecimiento-y-precios-de-aves-09-06-2026.pdf,ok,,2026-10-18T03:41:14Z
+2026-06-10,8205044,https://cdn.www.gob.pe/uploads/document/file/10136762/8205044-boletin-de-abastecimiento-y-precios-de-aves-10-06-2026.pdf,cuarentena,precio portada 3.54 vs tabla [3.7],2026-10-18T03:41:14Z
+2026-06-11,8205044,https://cdn.www.gob.pe/uploads/document/file/10143899/8205044-boletin-de-abastecimiento-y-precios-de-aves-11-06-2026.pdf,ok,,2026-10-18T03:41:15Z
+2026-06-12,8205044,https://cdn.www.gob.pe/uploads/document/file/10151263/8205044-boletin-de-abastecimiento-y-precios-de-aves-12-06-2026.pdf,ok,,2026-10-18T03:41:16Z
+2026-06-15,8205044,https://cdn.www.gob.pe/uploads/document/file/10158551/8205044-boletin-de-abastecimiento-y-precios-de-aves-15-06-2026.pdf,ok,,2026-10-18T03:41:17Z
+2026-06-16,8205044,https://cdn.www.gob.pe/uploads/document/file/10165767/8205044-boletin-de-abastecimiento-y-precios-de-aves-16-06-2026.pdf,ok,,2026-10-18T03:41:18Z
+2026-06-17,8205044,https://cdn.www.gob.pe/uploads/document/file/10171843/8205044-boletin-de-abastecimiento-y-precios-de-aves-17-06-2026.pdf,ok,,2026-10-18T03:41:19Z
+2026-06-18,8205044,https://cdn.www.gob.pe/uploads/document/file/10179216/8205044-boletin-de-abastecimiento-y-precios-de-aves-18-06-2026.pdf,ok,,2026-10-18T03:41:20Z
+2026-06-19,8205044,https://cdn.www.gob.pe/uploads/document/file/10184604/8205044-boletin-de-abastecimiento-y-precios-de-aves-19-06-2026.pdf,ok,,2026-10-18T03:41:21Z
+2026-06-22,8205044,https://cdn.www.gob.pe/uploads/document/file/10191780/8205044-boletin-de-abastecimiento-y-precios-de-aves-22-06-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:41:22Z
+2026-06-23,8205044,https://cdn.www.gob.pe/uploads/document/file/10198607/8205044-boletin-de-abastecimiento-y-precios-de-aves-23-06-2026.pdf,ok,,2026-10-18T03:41:23Z
+2026-06-24,8205044,https://cdn.www.gob.pe/uploads/document/file/10204155/8205044-boletin-de-abastecimiento-y-precios-de-aves-24-06-2026.pdf,ok,,2026-10-18T03:41:24Z
+2026-06-25,8205044,https://cdn.www.gob.pe/uploads/document/file/10210572/8205044-boletin-de-abastecimiento-y-precios-de-aves-25-06-2026.pdf,ok,,2026-10-18T03:41:25Z
+2026-06-26,8205044,https://cdn.www.gob.pe/uploads/document/file/10216246/8205044-boletin-de-abastecimiento-y-precios-de-aves-26-06-2026.pdf,ok,,2026-10-18T03:41:26Z
+2026-06-30,8205044,https://cdn.www.gob.pe/uploads/document/file/10225932/8205044-boletin-de-abastecimiento-y-precios-de-aves-30-06-2026.pdf,ok,,2026-10-18T03:41:27Z
+2026-07-01,8319970,https://cdn.www.gob.pe/uploads/document/file/10236687/8319970-boletin-de-abastecimiento-y-precios-de-aves-01-07-2026.pdf,ok,,2026-10-18T03:41:27Z
+2026-07-02,8319970,https://cdn.www.gob.pe/uploads/document/file/10242175/8319970-boletin-de-abastecimiento-y-precios-de-aves-02-07-2026.pdf,ok,,2026-10-18T03:41:28Z
+2026-07-03,8319970,https://cdn.www.gob.pe/uploads/document/file/10248732/8319970-boletin-de-abastecimiento-y-precios-de-aves-03-07-2026.pdf,ok,,2026-10-18T03:41:29Z
+2026-07-06,8319970,https://cdn.www.gob.pe/uploads/document/file/10261005/8319970-boletin-de-abastecimiento-y-precios-de-aves-06-07-2026.pdf,ok,,2026-10-18T03:41:30Z
+2026-07-07,8319970,https://cdn.www.gob.pe/uploads/document/file/10270120/8319970-boletin-de-abastecimiento-y-precios-de-aves-07-07-2026.pdf,ok,,2026-10-18T03:41:31Z
+2026-07-08,8319970,https://cdn.www.gob.pe/uploads/document/file/10276550/8319970-boletin-de-abastecimiento-y-precios-de-aves-08-07-2026.pdf,ok,,2026-10-18T03:41:32Z
+2026-07-09,8319970,https://cdn.www.gob.pe/uploads/document/file/10286143/8319970-boletin-de-abastecimiento-y-precios-de-aves-09-07-2026.pdf,ok,,2026-10-18T03:41:33Z
+2026-07-10,8319970,https://cdn.www.gob.pe/uploads/document/file/10292792/8319970-boletin-de-abastecimiento-y-precios-de-aves-10-07-2026.pdf,ok,,2026-10-18T03:41:34Z
+2026-07-13,8319970,https://cdn.www.gob.pe/uploads/document/file/10303700/8319970-boletin-de-abastecimiento-y-precios-de-aves-13-07-2026.pdf,ok,,2026-10-18T03:41:34Z
+2026-07-14,8319970,https://cdn.www.gob.pe/uploads/document/file/10310909/8319970-boletin-de-abastecimiento-y-precios-de-aves-14-07-2026.pdf,ok,,2026-10-18T03:41:35Z
+2026-07-15,8319970,https://cdn.www.gob.pe/uploads/document/file/10322370/8319970-boletin-de-abastecimiento-y-precios-de-aves-15-07-2026.pdf,ok,,2026-10-18T03:41:36Z
+2026-07-16,8319970,https://cdn.www.gob.pe/uploads/document/file/10332324/8319970-boletin-de-abastecimiento-y-precios-de-aves-16-07-2026.pdf,ok,,2026-10-18T03:41:37Z
+2026-07-17,8319970,https://cdn.www.gob.pe/uploads/document/file/10340859/8319970-boletin-de-abastecimiento-y-precios-de-aves-17-07-2026.pdf,ok,,2026-10-18T03:41:38Z
+2026-07-20,8319970,https://cdn.www.gob.pe/uploads/document/file/10347881/8319970-boletin-de-abastecimiento-y-precios-de-aves-20-07-2026.pdf,ok,,2026-10-18T03:41:39Z
+2026-07-21,8319970,https://cdn.www.gob.pe/uploads/document/file/10353801/8319970-boletin-de-abastecimiento-y-precios-de-aves-21-07-2026.pdf,ok,,2026-10-18T03:41:40Z
+2026-07-22,8319970,https://cdn.www.gob.pe/uploads/document/file/10357354/8319970-boletin-de-abastecimiento-y-precios-de-aves-22-07-2026.pdf,ok,,2026-10-18T03:41:41Z
+2026-07-24,8319970,https://cdn.www.gob.pe/uploads/document/file/10371668/8319970-boletin-de-abastecimiento-y-precios-de-aves-24-07-2026.pdf,cuarentena,precio portada 7.2 vs tabla [7.05],2026-10-18T03:41:42Z
+2026-07-30,8319970,https://cdn.www.gob.pe/uploads/document/file/10379010/8319970-boletin-de-abastecimiento-y-precios-de-aves-30-07-2026.pdf,ok,,2026-10-18T03:41:42Z
+2026-07-31,8319970,https://cdn.www.gob.pe/uploads/document/file/10386890/8319970-boletin-de-abastecimiento-y-precios-de-aves-31-07-2026.pdf,cuarentena,precio portada None vs tabla [6.5],2026-10-18T03:41:43Z
+2026-08-03,8437905,https://cdn.www.gob.pe/uploads/document/file/10394459/8437905-boletin-de-abastecimiento-y-precios-de-aves-03-08-2026.pdf,cuarentena,precio portada None vs tabla [6.5],2026-10-18T03:41:44Z
+2026-08-04,8437905,https://cdn.www.gob.pe/uploads/document/file/10399981/8437905-boletin-de-abastecimiento-y-precios-de-aves-04-08-2026.pdf,cuarentena,precio portada None vs tabla [6.5],2026-10-18T03:41:45Z
+2026-08-05,8437905,https://cdn.www.gob.pe/uploads/document/file/10409007/8437905-boletin-de-abastecimiento-y-precios-de-aves-05-08-2026.pdf,ok,,2026-10-18T03:41:46Z
+2026-08-10,8437905,https://cdn.www.gob.pe/uploads/document/file/10426548/8437905-boletin-de-abastecimiento-y-precios-de-aves-10-08-2026.pdf,ok,,2026-10-18T03:41:47Z
+2026-08-11,8437905,https://cdn.www.gob.pe/uploads/document/file/10432060/8437905-boletin-de-abastecimiento-y-precios-de-aves-11-08-2026.pdf,ok,,2026-10-18T03:41:48Z
+2026-08-12,8437905,https://cdn.www.gob.pe/uploads/document/file/10439216/8437905-boletin-de-abastecimiento-y-precios-de-aves-12-08-2026.pdf,ok,,2026-10-18T03:41:49Z
+2026-08-13,8437905,https://cdn.www.gob.pe/uploads/document/file/10449058/8437905-boletin-de-abastecimiento-y-precios-de-aves-13-08-2026.pdf,ok,,2026-10-18T03:41:50Z
+2026-08-14,8437905,https://cdn.www.gob.pe/uploads/document/file/10456779/8437905-boletin-de-abastecimiento-y-precios-de-aves-14-08-2026.pdf,ok,,2026-10-18T03:41:51Z
+2026-08-17,8437905,https://cdn.www.gob.pe/uploads/document/file/10466717/8437905-boletin-de-abastecimiento-y-precios-de-aves-17-08-2026.pdf,ok,,2026-10-18T03:41:52Z
+2026-08-18,8437905,https://cdn.www.gob.pe/uploads/document/file/10473075/8437905-boletin-de-abastecimiento-y-precios-de-aves-18-08-2026.pdf,ok,,2026-10-18T03:41:53Z
 2026-08-19,8437905,https://cdn.www.gob.pe/uploads/document/file/10479864/8437905-boletin-de-abastecimiento-y-precios-de-aves-19-08-2026.pdf,ok,,2026-10-18T03:34:58Z
 2026-08-20,8437905,https://cdn.www.gob.pe/uploads/document/file/10486490/8437905-boletin-de-abastecimiento-y-precios-de-aves-20-08-2026.pdf,ok,,2026-10-18T03:34:59Z
 2026-08-21,8437905,https://cdn.www.gob.pe/uploads/document/file/10496581/8437905-boletin-de-abastecimiento-y-precios-de-aves-21-08-2026.pdf,ok,,2026-10-18T03:35:00Z
