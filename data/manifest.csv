@@ -34,24 +34,16 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2020-02-17,425787,https://cdn.www.gob.pe/uploads/document/file/523692/sisap-aves-17feb20.pdf,ok,,2026-10-18T03:48:15Z
 2020-02-18,425787,https://cdn.www.gob.pe/uploads/document/file/530686/sisap-aves-18feb20.pdf,ok,,2026-10-18T03:48:16Z
 2020-02-19,425787,https://cdn.www.gob.pe/uploads/document/file/530774/sisap-aves-19feb20.pdf,ok,,2026-10-18T03:48:16Z
-2020-02-20,425787,https://cdn.www.gob.pe/uploads/document/file/533108/sisap-aves-20feb20.pdf,cuarentena,precio portada 4.85 vs tabla []; solo 0 filas diarias,2026-10-18T03:48:17Z
+2020-02-20,425787,https://cdn.www.gob.pe/uploads/document/file/533108/sisap-aves-20feb20.pdf,ok,,2026-10-18T04:12:46Z
 2020-02-21,425787,https://cdn.www.gob.pe/uploads/document/file/533532/sisap-aves-21feb20.pdf,ok,,2026-10-18T03:48:17Z
 2020-02-24,425787,https://cdn.www.gob.pe/uploads/document/file/534055/sisap-aves-24feb20.pdf,ok,,2026-10-18T03:48:18Z
 2020-02-25,425787,https://cdn.www.gob.pe/uploads/document/file/534749/sisap-aves-25feb20.pdf,ok,,2026-10-18T03:48:19Z
 2020-02-26,425787,https://cdn.www.gob.pe/uploads/document/file/534750/sisap-aves-26feb20.pdf,ok,,2026-10-18T03:48:19Z
 2020-02-27,425787,https://cdn.www.gob.pe/uploads/document/file/535077/sisap-aves-27feb20.pdf,ok,,2026-10-18T03:48:20Z
 2020-02-28,425787,https://cdn.www.gob.pe/uploads/document/file/535970/sisap-aves-28feb20.pdf,ok,,2026-10-18T03:48:20Z
-2020-03-01,454458,https://cdn.www.gob.pe/uploads/document/file/569600/sisap-aves-23mar20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:27Z
-2020-03-01,454458,https://cdn.www.gob.pe/uploads/document/file/569864/sisap-aves-24mar20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:29Z
-2020-03-01,454458,https://cdn.www.gob.pe/uploads/document/file/570504/sisap-aves-25mar20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:30Z
-2020-03-01,454458,https://cdn.www.gob.pe/uploads/document/file/571759/sisap-aves-26mar20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:30Z
-2020-03-01,454458,https://cdn.www.gob.pe/uploads/document/file/572213/sisap-aves-27mar20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:32Z
-2020-03-01,454458,https://cdn.www.gob.pe/uploads/document/file/572214/sisap-aves-28mar20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:33Z
-2020-03-01,454458,https://cdn.www.gob.pe/uploads/document/file/574304/sisap-aves-30mar20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:33Z
-2020-03-01,454458,https://cdn.www.gob.pe/uploads/document/file/574509/sisap-aves-31mar20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:34Z
 2020-03-02,454458,https://cdn.www.gob.pe/uploads/document/file/536002/sisap-aves-02mar20.pdf,ok,,2026-10-18T03:48:21Z
 2020-03-03,454458,https://cdn.www.gob.pe/uploads/document/file/536480/sisap-aves-03mar20.pdf,ok,,2026-10-18T03:48:22Z
-2020-03-04,454458,https://cdn.www.gob.pe/uploads/document/file/536817/sisap-aves-04mar20.pdf,cuarentena,precio portada 4.65 vs tabla [4.85],2026-10-18T03:48:22Z
+2020-03-04,454458,https://cdn.www.gob.pe/uploads/document/file/536817/sisap-aves-04mar20.pdf,cuarentena,precio portada 4.65 vs tabla [4.85],2026-10-18T04:12:48Z
 2020-03-05,454458,https://cdn.www.gob.pe/uploads/document/file/537072/sisap-aves-05mar20.pdf,ok,,2026-10-18T03:48:23Z
 2020-03-06,454458,https://cdn.www.gob.pe/uploads/document/file/553573/sisap-aves-06mar20.pdf,ok,,2026-10-18T03:48:23Z
 2020-03-09,454458,https://cdn.www.gob.pe/uploads/document/file/553574/sisap-aves-09mar20.pdf,ok,,2026-10-18T03:48:24Z
@@ -59,82 +51,90 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2020-03-11,454458,https://cdn.www.gob.pe/uploads/document/file/565478/sisap-aves-11mar20.pdf,ok,,2026-10-18T03:48:25Z
 2020-03-12,454458,https://cdn.www.gob.pe/uploads/document/file/565593/sisap-aves-12mar20.pdf,ok,,2026-10-18T03:48:26Z
 2020-03-13,454458,https://cdn.www.gob.pe/uploads/document/file/569467/sisap-aves-13mar20.pdf,ok,,2026-10-18T03:48:26Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/574768/sisap-aves-01abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:35Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/574968/sisap-aves-02abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:35Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/574969/sisap-aves-03abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:36Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/576602/sisap.aves.04abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:37Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/581252/sisap-aves-06abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:37Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/581929/sisap-aves-07abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:38Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/581930/sisap-aves-08abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:39Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/582328/sisap-aves-11abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:40Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/582329/sisap-aves-13abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:40Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/597060/sisap-aves-14abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:41Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/597071/sisap-aves-15abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:42Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/604186/sisap-aves-16abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:42Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/606043/sisap-aves-17abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:43Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/606044/sisap-aves-18abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:44Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/606045/sisap-aves-20abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:45Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/606259/sisap-aves-21abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:45Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/607061/sisap-aves-22abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:46Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/608576/sisap-aves-23abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:46Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/608750/sisap-aves-24abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:47Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/622532/sisap-aves-25abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:48Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/662657/sisap-aves-27abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:48Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/669694/sisap-aves-28abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:50Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/669695/sisap-aves-29abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:50Z
-2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/671114/sisap-aves-30abr20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:51Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/671245/sisap-aves-01may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:52Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/671330/sisap-aves-02may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:52Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/683137/sisap-aves-04may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:53Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/683470/sisap-aves-05may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:54Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/688458/sisap-aves-06may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:54Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/696487/sisap-aves-07may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:55Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/696488/sisap-aves-08may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:55Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/696551/sisap-aves-09may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:56Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/698267/sisap-aves-11may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:57Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/707874/sisap-aves-12may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:57Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/707875/sisap-aves-13may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:58Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/710886/sisap-aves-14may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:59Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/711933/sisap-aves-15may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:48:59Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/715632/sisap-aves-16may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:00Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/717464/sisap-aves-18may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:01Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/717465/sisap-aves-19may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:01Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/734721/sisap-aves-20may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:02Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/734723/sisap-aves-21may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:03Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/734725/sisap-aves-22may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:03Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/734727/sisap-aves-25may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:04Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/751583/sisap-aves-26may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:05Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/751584/sisap-aves-27may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:05Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/751585/sisap-aves-28may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:06Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/751586/sisap-aves-29may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:07Z
-2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/753516/sisap-aves-30may20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:07Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/753532/sisap-aves-01jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:08Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/770422/sisap-aves-02jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:09Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/770423/sisap-aves-03jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:09Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/787938/sisap-aves-04jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:10Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/790488/sisap-aves-05jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:11Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/806658/sisap-aves-06jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:12Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/828478/sisap-aves-08jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:12Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/828479/sisap-aves-09jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:14Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/831382/sisap-aves-10jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:15Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/833444/sisap-aves-11jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:15Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/863949/sisap-aves-12jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:16Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/863950/sisap-aves-13jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:16Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/863951/sisap-aves-15jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:18Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/863952/sisap-aves-16jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:18Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/863953/sisap-aves-17jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:19Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/863954/sisap-aves-18jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:20Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/863955/sisap-aves-19jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:21Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/877242/sisap-aves-22jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:21Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/877243/sisap-aves-23jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:22Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/877244/sisap-aves-24jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:22Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/885893/sisap-aves-25jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:23Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/911258/sisap-aves-26jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:24Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/911259/sisap-aves-29jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:25Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/911260/sisap-aves-27jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:26Z
-2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/911261/sisap-aves-30jun20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:27Z
-2020-07-01,753440,https://cdn.www.gob.pe/uploads/document/file/911269/sisap-aves-01jul20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:39Z
-2020-07-01,753440,https://cdn.www.gob.pe/uploads/document/file/958756/sisap-aves-02jul20.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:49:40Z
+2020-03-23,454458,https://cdn.www.gob.pe/uploads/document/file/569600/sisap-aves-23mar20.pdf,ok,,2026-10-18T04:12:49Z
+2020-03-24,454458,https://cdn.www.gob.pe/uploads/document/file/569864/sisap-aves-24mar20.pdf,ok,,2026-10-18T04:12:50Z
+2020-03-25,454458,https://cdn.www.gob.pe/uploads/document/file/570504/sisap-aves-25mar20.pdf,ok,,2026-10-18T04:12:50Z
+2020-03-26,454458,https://cdn.www.gob.pe/uploads/document/file/571759/sisap-aves-26mar20.pdf,ok,,2026-10-18T04:12:51Z
+2020-03-27,454458,https://cdn.www.gob.pe/uploads/document/file/572213/sisap-aves-27mar20.pdf,ok,,2026-10-18T04:12:52Z
+2020-03-28,454458,https://cdn.www.gob.pe/uploads/document/file/572214/sisap-aves-28mar20.pdf,ok,,2026-10-18T04:12:53Z
+2020-03-30,454458,https://cdn.www.gob.pe/uploads/document/file/574304/sisap-aves-30mar20.pdf,ok,,2026-10-18T04:12:53Z
+2020-03-31,454458,https://cdn.www.gob.pe/uploads/document/file/574509/sisap-aves-31mar20.pdf,ok,,2026-10-18T04:12:54Z
+2020-04-01,466125,https://cdn.www.gob.pe/uploads/document/file/574768/sisap-aves-01abr20.pdf,ok,,2026-10-18T04:12:55Z
+2020-04-02,466125,https://cdn.www.gob.pe/uploads/document/file/574968/sisap-aves-02abr20.pdf,ok,,2026-10-18T04:12:56Z
+2020-04-03,466125,https://cdn.www.gob.pe/uploads/document/file/574969/sisap-aves-03abr20.pdf,ok,,2026-10-18T04:12:56Z
+2020-04-04,466125,https://cdn.www.gob.pe/uploads/document/file/576602/sisap.aves.04abr20.pdf,ok,,2026-10-18T04:12:57Z
+2020-04-06,466125,https://cdn.www.gob.pe/uploads/document/file/581252/sisap-aves-06abr20.pdf,ok,,2026-10-18T04:12:58Z
+2020-04-07,466125,https://cdn.www.gob.pe/uploads/document/file/581929/sisap-aves-07abr20.pdf,ok,,2026-10-18T04:13:00Z
+2020-04-08,466125,https://cdn.www.gob.pe/uploads/document/file/581930/sisap-aves-08abr20.pdf,ok,,2026-10-18T04:13:00Z
+2020-04-11,466125,https://cdn.www.gob.pe/uploads/document/file/582328/sisap-aves-11abr20.pdf,ok,,2026-10-18T04:13:01Z
+2020-04-13,466125,https://cdn.www.gob.pe/uploads/document/file/582329/sisap-aves-13abr20.pdf,ok,,2026-10-18T04:13:02Z
+2020-04-14,466125,https://cdn.www.gob.pe/uploads/document/file/597060/sisap-aves-14abr20.pdf,ok,,2026-10-18T04:13:03Z
+2020-04-15,466125,https://cdn.www.gob.pe/uploads/document/file/597071/sisap-aves-15abr20.pdf,ok,,2026-10-18T04:13:04Z
+2020-04-16,466125,https://cdn.www.gob.pe/uploads/document/file/604186/sisap-aves-16abr20.pdf,ok,,2026-10-18T04:13:04Z
+2020-04-17,466125,https://cdn.www.gob.pe/uploads/document/file/606043/sisap-aves-17abr20.pdf,ok,,2026-10-18T04:13:05Z
+2020-04-18,466125,https://cdn.www.gob.pe/uploads/document/file/606044/sisap-aves-18abr20.pdf,ok,,2026-10-18T04:13:06Z
+2020-04-20,466125,https://cdn.www.gob.pe/uploads/document/file/606045/sisap-aves-20abr20.pdf,ok,,2026-10-18T04:13:07Z
+2020-04-21,466125,https://cdn.www.gob.pe/uploads/document/file/606259/sisap-aves-21abr20.pdf,ok,,2026-10-18T04:13:07Z
+2020-04-22,466125,https://cdn.www.gob.pe/uploads/document/file/607061/sisap-aves-22abr20.pdf,ok,,2026-10-18T04:13:08Z
+2020-04-23,466125,https://cdn.www.gob.pe/uploads/document/file/608576/sisap-aves-23abr20.pdf,ok,,2026-10-18T04:13:09Z
+2020-04-24,466125,https://cdn.www.gob.pe/uploads/document/file/608750/sisap-aves-24abr20.pdf,ok,,2026-10-18T04:13:09Z
+2020-04-25,466125,https://cdn.www.gob.pe/uploads/document/file/622532/sisap-aves-25abr20.pdf,ok,,2026-10-18T04:13:10Z
+2020-04-27,466125,https://cdn.www.gob.pe/uploads/document/file/662657/sisap-aves-27abr20.pdf,ok,,2026-10-18T04:13:11Z
+2020-04-28,466125,https://cdn.www.gob.pe/uploads/document/file/669694/sisap-aves-28abr20.pdf,ok,,2026-10-18T04:13:12Z
+2020-04-29,466125,https://cdn.www.gob.pe/uploads/document/file/669695/sisap-aves-29abr20.pdf,ok,,2026-10-18T04:13:12Z
+2020-04-30,466125,https://cdn.www.gob.pe/uploads/document/file/671114/sisap-aves-30abr20.pdf,ok,,2026-10-18T04:13:13Z
+2020-05-01,544163,https://cdn.www.gob.pe/uploads/document/file/671245/sisap-aves-01may20.pdf,ok,,2026-10-18T04:13:14Z
+2020-05-02,544163,https://cdn.www.gob.pe/uploads/document/file/671330/sisap-aves-02may20.pdf,ok,,2026-10-18T04:13:15Z
+2020-05-04,544163,https://cdn.www.gob.pe/uploads/document/file/683137/sisap-aves-04may20.pdf,ok,,2026-10-18T04:13:15Z
+2020-05-05,544163,https://cdn.www.gob.pe/uploads/document/file/683470/sisap-aves-05may20.pdf,ok,,2026-10-18T04:13:16Z
+2020-05-06,544163,https://cdn.www.gob.pe/uploads/document/file/688458/sisap-aves-06may20.pdf,ok,,2026-10-18T04:13:17Z
+2020-05-07,544163,https://cdn.www.gob.pe/uploads/document/file/696487/sisap-aves-07may20.pdf,ok,,2026-10-18T04:13:17Z
+2020-05-08,544163,https://cdn.www.gob.pe/uploads/document/file/696488/sisap-aves-08may20.pdf,ok,,2026-10-18T04:13:18Z
+2020-05-09,544163,https://cdn.www.gob.pe/uploads/document/file/696551/sisap-aves-09may20.pdf,ok,,2026-10-18T04:13:19Z
+2020-05-11,544163,https://cdn.www.gob.pe/uploads/document/file/698267/sisap-aves-11may20.pdf,ok,,2026-10-18T04:13:19Z
+2020-05-12,544163,https://cdn.www.gob.pe/uploads/document/file/707874/sisap-aves-12may20.pdf,ok,,2026-10-18T04:13:20Z
+2020-05-13,544163,https://cdn.www.gob.pe/uploads/document/file/707875/sisap-aves-13may20.pdf,ok,,2026-10-18T04:13:21Z
+2020-05-14,544163,https://cdn.www.gob.pe/uploads/document/file/710886/sisap-aves-14may20.pdf,ok,,2026-10-18T04:13:22Z
+2020-05-15,544163,https://cdn.www.gob.pe/uploads/document/file/711933/sisap-aves-15may20.pdf,ok,,2026-10-18T04:13:22Z
+2020-05-16,544163,https://cdn.www.gob.pe/uploads/document/file/715632/sisap-aves-16may20.pdf,ok,,2026-10-18T04:13:23Z
+2020-05-18,544163,https://cdn.www.gob.pe/uploads/document/file/717464/sisap-aves-18may20.pdf,ok,,2026-10-18T04:13:24Z
+2020-05-19,544163,https://cdn.www.gob.pe/uploads/document/file/717465/sisap-aves-19may20.pdf,ok,,2026-10-18T04:13:25Z
+2020-05-20,544163,https://cdn.www.gob.pe/uploads/document/file/734721/sisap-aves-20may20.pdf,ok,,2026-10-18T04:13:25Z
+2020-05-21,544163,https://cdn.www.gob.pe/uploads/document/file/734723/sisap-aves-21may20.pdf,ok,,2026-10-18T04:13:27Z
+2020-05-22,544163,https://cdn.www.gob.pe/uploads/document/file/734725/sisap-aves-22may20.pdf,ok,,2026-10-18T04:13:29Z
+2020-05-25,544163,https://cdn.www.gob.pe/uploads/document/file/734727/sisap-aves-25may20.pdf,ok,,2026-10-18T04:13:30Z
+2020-05-26,544163,https://cdn.www.gob.pe/uploads/document/file/751583/sisap-aves-26may20.pdf,ok,,2026-10-18T04:13:31Z
+2020-05-27,544163,https://cdn.www.gob.pe/uploads/document/file/751584/sisap-aves-27may20.pdf,ok,,2026-10-18T04:13:31Z
+2020-05-28,544163,https://cdn.www.gob.pe/uploads/document/file/751585/sisap-aves-28may20.pdf,ok,,2026-10-18T04:13:32Z
+2020-05-29,544163,https://cdn.www.gob.pe/uploads/document/file/751586/sisap-aves-29may20.pdf,ok,,2026-10-18T04:13:33Z
+2020-05-30,544163,https://cdn.www.gob.pe/uploads/document/file/753516/sisap-aves-30may20.pdf,ok,,2026-10-18T04:13:33Z
+2020-06-01,609503,https://cdn.www.gob.pe/uploads/document/file/753532/sisap-aves-01jun20.pdf,ok,,2026-10-18T04:13:34Z
+2020-06-02,609503,https://cdn.www.gob.pe/uploads/document/file/770422/sisap-aves-02jun20.pdf,ok,,2026-10-18T04:13:35Z
+2020-06-03,609503,https://cdn.www.gob.pe/uploads/document/file/770423/sisap-aves-03jun20.pdf,ok,,2026-10-18T04:13:36Z
+2020-06-04,609503,https://cdn.www.gob.pe/uploads/document/file/787938/sisap-aves-04jun20.pdf,ok,,2026-10-18T04:13:36Z
+2020-06-05,609503,https://cdn.www.gob.pe/uploads/document/file/790488/sisap-aves-05jun20.pdf,ok,,2026-10-18T04:13:37Z
+2020-06-06,609503,https://cdn.www.gob.pe/uploads/document/file/806658/sisap-aves-06jun20.pdf,ok,,2026-10-18T04:13:38Z
+2020-06-08,609503,https://cdn.www.gob.pe/uploads/document/file/828478/sisap-aves-08jun20.pdf,ok,,2026-10-18T04:13:38Z
+2020-06-09,609503,https://cdn.www.gob.pe/uploads/document/file/828479/sisap-aves-09jun20.pdf,ok,,2026-10-18T04:13:39Z
+2020-06-10,609503,https://cdn.www.gob.pe/uploads/document/file/831382/sisap-aves-10jun20.pdf,ok,,2026-10-18T04:13:41Z
+2020-06-11,609503,https://cdn.www.gob.pe/uploads/document/file/833444/sisap-aves-11jun20.pdf,ok,,2026-10-18T04:13:42Z
+2020-06-12,609503,https://cdn.www.gob.pe/uploads/document/file/863949/sisap-aves-12jun20.pdf,ok,,2026-10-18T04:13:42Z
+2020-06-13,609503,https://cdn.www.gob.pe/uploads/document/file/863950/sisap-aves-13jun20.pdf,ok,,2026-10-18T04:13:43Z
+2020-06-15,609503,https://cdn.www.gob.pe/uploads/document/file/863951/sisap-aves-15jun20.pdf,ok,,2026-10-18T04:13:44Z
+2020-06-16,609503,https://cdn.www.gob.pe/uploads/document/file/863952/sisap-aves-16jun20.pdf,ok,,2026-10-18T04:13:45Z
+2020-06-17,609503,https://cdn.www.gob.pe/uploads/document/file/863953/sisap-aves-17jun20.pdf,ok,,2026-10-18T04:13:46Z
+2020-06-18,609503,https://cdn.www.gob.pe/uploads/document/file/863954/sisap-aves-18jun20.pdf,ok,,2026-10-18T04:13:46Z
+2020-06-19,609503,https://cdn.www.gob.pe/uploads/document/file/863955/sisap-aves-19jun20.pdf,ok,,2026-10-18T04:13:47Z
+2020-06-22,609503,https://cdn.www.gob.pe/uploads/document/file/877242/sisap-aves-22jun20.pdf,ok,,2026-10-18T04:13:48Z
+2020-06-23,609503,https://cdn.www.gob.pe/uploads/document/file/877243/sisap-aves-23jun20.pdf,ok,,2026-10-18T04:13:48Z
+2020-06-24,609503,https://cdn.www.gob.pe/uploads/document/file/877244/sisap-aves-24jun20.pdf,ok,,2026-10-18T04:13:49Z
+2020-06-25,609503,https://cdn.www.gob.pe/uploads/document/file/885893/sisap-aves-25jun20.pdf,ok,,2026-10-18T04:13:50Z
+2020-06-26,609503,https://cdn.www.gob.pe/uploads/document/file/911258/sisap-aves-26jun20.pdf,ok,,2026-10-18T04:13:50Z
+2020-06-27,609503,https://cdn.www.gob.pe/uploads/document/file/911260/sisap-aves-27jun20.pdf,ok,,2026-10-18T04:13:52Z
+2020-06-29,609503,https://cdn.www.gob.pe/uploads/document/file/911259/sisap-aves-29jun20.pdf,ok,,2026-10-18T04:13:51Z
+2020-06-30,609503,https://cdn.www.gob.pe/uploads/document/file/911261/sisap-aves-30jun20.pdf,ok,,2026-10-18T04:13:54Z
+2020-07-01,753440,https://cdn.www.gob.pe/uploads/document/file/911269/sisap-aves-01jul20.pdf,ok,,2026-10-18T04:13:54Z
+2020-07-02,753440,https://cdn.www.gob.pe/uploads/document/file/958756/sisap-aves-02jul20.pdf,ok,,2026-10-18T04:13:55Z
 2020-07-03,753440,https://cdn.www.gob.pe/uploads/document/file/958757/sisap-aves-03jul20.pdf,ok,,2026-10-18T03:49:40Z
 2020-07-04,753440,https://cdn.www.gob.pe/uploads/document/file/958758/sisap-aves-04jul20.pdf,ok,,2026-10-18T03:49:41Z
 2020-07-06,753440,https://cdn.www.gob.pe/uploads/document/file/958759/sisap-aves-06jul20.pdf,ok,,2026-10-18T03:49:42Z
@@ -200,7 +200,7 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2020-09-16,1198322,https://cdn.www.gob.pe/uploads/document/file/1306461/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/09/20.pdf,ok,,2026-10-18T03:50:12Z
 2020-09-17,1198322,https://cdn.www.gob.pe/uploads/document/file/1306462/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2017/09/20.pdf,ok,,2026-10-18T03:50:13Z
 2020-09-18,1198322,https://cdn.www.gob.pe/uploads/document/file/1306463/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2018/09/20.pdf,ok,,2026-10-18T03:50:14Z
-2020-09-21,1198322,https://cdn.www.gob.pe/uploads/document/file/1307716/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/09/20.pdf,cuarentena,fecha interna 2020-09-19 != nombre de archivo 2020-09-21,2026-10-18T03:50:14Z
+2020-09-19,1198322,https://cdn.www.gob.pe/uploads/document/file/1307716/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/09/20.pdf,ok,nombre de archivo dice 2020-09-21; se usa la fecha interna,2026-10-18T04:13:56Z
 2020-09-21,1198322,https://cdn.www.gob.pe/uploads/document/file/1310788/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/09/20.pdf,ok,,2026-10-18T03:50:15Z
 2020-09-22,1198322,https://cdn.www.gob.pe/uploads/document/file/1310789/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/09/20.pdf,ok,,2026-10-18T03:50:16Z
 2020-09-23,1198322,https://cdn.www.gob.pe/uploads/document/file/1321070/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/09/20.pdf,ok,,2026-10-18T03:50:16Z
@@ -308,23 +308,23 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2021-01-22,1475696,https://cdn.www.gob.pe/uploads/document/file/1581435/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/01/21.pdf,ok,,2026-10-18T03:51:38Z
 2021-01-23,1475696,https://cdn.www.gob.pe/uploads/document/file/1581436/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/01/21.pdf,ok,,2026-10-18T03:51:39Z
 2021-01-25,1475696,https://cdn.www.gob.pe/uploads/document/file/1585678/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2025/01/21.pdf,ok,,2026-10-18T03:51:39Z
-2021-01-26,1475696,https://cdn.www.gob.pe/uploads/document/file/1585679/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2026/01/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:51:40Z
-2021-01-27,1475696,https://cdn.www.gob.pe/uploads/document/file/1611330/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2027/01/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:51:41Z
-2021-01-28,1475696,https://cdn.www.gob.pe/uploads/document/file/1611384/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/01/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:51:43Z
+2021-01-26,1475696,https://cdn.www.gob.pe/uploads/document/file/1585679/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2026/01/21.pdf,ok,,2026-10-18T04:13:57Z
+2021-01-27,1475696,https://cdn.www.gob.pe/uploads/document/file/1611330/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2027/01/21.pdf,ok,,2026-10-18T04:13:58Z
+2021-01-28,1475696,https://cdn.www.gob.pe/uploads/document/file/1611384/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/01/21.pdf,ok,,2026-10-18T04:13:58Z
 2021-01-29,1475696,https://cdn.www.gob.pe/uploads/document/file/1621023/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2029/01/21.pdf,ok,,2026-10-18T03:51:43Z
 2021-01-30,1475696,https://cdn.www.gob.pe/uploads/document/file/1621024/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2030/01/21.pdf,ok,,2026-10-18T03:51:44Z
 2021-02-01,1625683,https://cdn.www.gob.pe/uploads/document/file/1636138/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/02/21.pdf,ok,,2026-10-18T03:51:45Z
 2021-02-02,1625683,https://cdn.www.gob.pe/uploads/document/file/1636507/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2002/02/21.pdf,ok,,2026-10-18T03:51:45Z
-2021-02-03,1625683,https://cdn.www.gob.pe/uploads/document/file/1640088/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/02/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:51:46Z
+2021-02-03,1625683,https://cdn.www.gob.pe/uploads/document/file/1640088/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/02/21.pdf,ok,,2026-10-18T04:13:59Z
 2021-02-04,1625683,https://cdn.www.gob.pe/uploads/document/file/1647965/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2004/02/21.pdf,ok,,2026-10-18T03:51:47Z
-2021-02-05,1625683,https://cdn.www.gob.pe/uploads/document/file/1662184/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/02/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:51:48Z
-2021-02-06,1625683,https://cdn.www.gob.pe/uploads/document/file/1662185/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/02/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:51:49Z
+2021-02-05,1625683,https://cdn.www.gob.pe/uploads/document/file/1662184/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/02/21.pdf,ok,,2026-10-18T04:14:00Z
+2021-02-06,1625683,https://cdn.www.gob.pe/uploads/document/file/1662185/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/02/21.pdf,ok,,2026-10-18T04:14:00Z
 2021-02-08,1625683,https://cdn.www.gob.pe/uploads/document/file/1662186/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/02/21.pdf,ok,,2026-10-18T03:51:49Z
 2021-02-09,1625683,https://cdn.www.gob.pe/uploads/document/file/1663740/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/02/21.pdf,ok,,2026-10-18T03:51:50Z
-2021-02-10,1625683,https://cdn.www.gob.pe/uploads/document/file/1675770/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2010/02/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:51:51Z
+2021-02-10,1625683,https://cdn.www.gob.pe/uploads/document/file/1675770/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2010/02/21.pdf,ok,,2026-10-18T04:14:01Z
 2021-02-11,1625683,https://cdn.www.gob.pe/uploads/document/file/1675771/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2011/02/21.pdf,ok,,2026-10-18T03:51:52Z
-2021-02-12,1625683,https://cdn.www.gob.pe/uploads/document/file/1675772/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/02/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:51:53Z
-2021-02-13,1625683,https://cdn.www.gob.pe/uploads/document/file/1675773/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/02/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:51:53Z
+2021-02-12,1625683,https://cdn.www.gob.pe/uploads/document/file/1675772/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/02/21.pdf,ok,,2026-10-18T04:14:02Z
+2021-02-13,1625683,https://cdn.www.gob.pe/uploads/document/file/1675773/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/02/21.pdf,ok,,2026-10-18T04:14:03Z
 2021-02-15,1625683,https://cdn.www.gob.pe/uploads/document/file/1675774/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2015/02/21.pdf,ok,,2026-10-18T03:51:54Z
 2021-02-16,1625683,https://cdn.www.gob.pe/uploads/document/file/1686815/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/02/21.pdf,ok,,2026-10-18T03:51:55Z
 2021-02-17,1625683,https://cdn.www.gob.pe/uploads/document/file/1686816/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2017/02/21.pdf,ok,,2026-10-18T03:51:56Z
@@ -333,77 +333,51 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2021-02-22,1625683,https://cdn.www.gob.pe/uploads/document/file/1687776/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/02/21.pdf,ok,,2026-10-18T03:51:58Z
 2021-02-23,1625683,https://cdn.www.gob.pe/uploads/document/file/1692270/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/02/21.pdf,ok,,2026-10-18T03:51:59Z
 2021-02-24,1625683,https://cdn.www.gob.pe/uploads/document/file/1692271/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2024/02/21.pdf,ok,,2026-10-18T03:51:59Z
-2021-02-24,1625683,https://cdn.www.gob.pe/uploads/document/file/1694119/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2024/02/21.pdf,cuarentena,fecha interna 2021-02-25 != nombre de archivo 2021-02-24,2026-10-18T03:52:00Z
+2021-02-25,1625683,https://cdn.www.gob.pe/uploads/document/file/1694119/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2024/02/21.pdf,ok,nombre de archivo dice 2021-02-24; se usa la fecha interna,2026-10-18T04:14:03Z
 2021-02-25,1625683,https://cdn.www.gob.pe/uploads/document/file/1695485/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2025/02/21.pdf,ok,,2026-10-18T03:52:01Z
 2021-02-26,1625683,https://cdn.www.gob.pe/uploads/document/file/1695486/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2026/02/21.pdf,ok,,2026-10-18T03:52:02Z
 2021-02-27,1625683,https://cdn.www.gob.pe/uploads/document/file/1695487/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2027/02/21.pdf,ok,,2026-10-18T03:52:03Z
 2021-03-01,1727365,https://cdn.www.gob.pe/uploads/document/file/1699564/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/03/21.pdf,ok,,2026-10-18T03:52:03Z
-2021-03-01,1952612,https://cdn.www.gob.pe/uploads/document/file/1931912/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/03/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:53:00Z
 2021-03-02,1727365,https://cdn.www.gob.pe/uploads/document/file/1705711/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2002/03/21.pdf,ok,,2026-10-18T03:52:04Z
-2021-03-02,1952612,https://cdn.www.gob.pe/uploads/document/file/1933650/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2002/03/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:53:00Z
 2021-03-03,1727365,https://cdn.www.gob.pe/uploads/document/file/1707607/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/03/21.pdf,ok,,2026-10-18T03:52:05Z
-2021-03-03,1952612,https://cdn.www.gob.pe/uploads/document/file/1933674/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/03/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:53:01Z
 2021-03-04,1727365,https://cdn.www.gob.pe/uploads/document/file/1735498/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2004/03/21.pdf,ok,,2026-10-18T03:52:05Z
-2021-03-04,1952612,https://cdn.www.gob.pe/uploads/document/file/1933695/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2004/03/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:53:02Z
 2021-03-05,1727365,https://cdn.www.gob.pe/uploads/document/file/1735499/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/03/21.pdf,ok,,2026-10-18T03:52:06Z
-2021-03-05,1952612,https://cdn.www.gob.pe/uploads/document/file/1936859/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/03/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:53:02Z
 2021-03-06,1727365,https://cdn.www.gob.pe/uploads/document/file/1735500/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/03/21.pdf,ok,,2026-10-18T03:52:07Z
-2021-03-07,1952612,https://cdn.www.gob.pe/uploads/document/file/1936860/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2007/03/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:53:03Z
-2021-03-08,1727365,https://cdn.www.gob.pe/uploads/document/file/1735501/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/03/21.pdf,cuarentena,precio portada None vs tabla []; solo 0 filas diarias,2026-10-18T03:52:07Z
-2021-03-08,1952612,https://cdn.www.gob.pe/uploads/document/file/1937146/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/03/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:53:03Z
-2021-03-09,1727365,https://cdn.www.gob.pe/uploads/document/file/1735502/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/03/21.pdf,cuarentena,precio portada None vs tabla []; solo 0 filas diarias,2026-10-18T03:52:08Z
-2021-03-09,1952612,https://cdn.www.gob.pe/uploads/document/file/1942715/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/03/21.pdf,cuarentena,fecha interna 2021-06-09 != nombre de archivo 2021-03-09,2026-10-18T03:53:04Z
-2021-03-10,1727365,https://cdn.www.gob.pe/uploads/document/file/1735503/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2010/03/21.pdf,cuarentena,precio portada None vs tabla []; solo 0 filas diarias,2026-10-18T03:52:09Z
-2021-03-10,1952612,https://cdn.www.gob.pe/uploads/document/file/1945048/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2010/03/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:53:05Z
-2021-03-11,1727365,https://cdn.www.gob.pe/uploads/document/file/1735504/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2011/03/21.pdf,cuarentena,precio portada None vs tabla []; solo 0 filas diarias,2026-10-18T03:52:09Z
-2021-03-11,1952612,https://cdn.www.gob.pe/uploads/document/file/1945068/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2011/03/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:53:05Z
-2021-03-12,1727365,https://cdn.www.gob.pe/uploads/document/file/1735505/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/03/21.pdf,cuarentena,precio portada None vs tabla []; solo 0 filas diarias,2026-10-18T03:52:10Z
-2021-03-12,1952612,https://cdn.www.gob.pe/uploads/document/file/1961011/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/03/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:53:06Z
-2021-03-13,1727365,https://cdn.www.gob.pe/uploads/document/file/1735506/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/03/21.pdf,cuarentena,precio portada None vs tabla []; solo 0 filas diarias,2026-10-18T03:52:12Z
-2021-03-14,1952612,https://cdn.www.gob.pe/uploads/document/file/1961015/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2014/03/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:53:07Z
-2021-03-15,1727365,https://cdn.www.gob.pe/uploads/document/file/1743971/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2015/03/21.pdf,cuarentena,precio portada None vs tabla []; solo 0 filas diarias,2026-10-18T03:52:12Z
-2021-03-15,1952612,https://cdn.www.gob.pe/uploads/document/file/1961331/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2015/03/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:53:07Z
-2021-03-16,1727365,https://cdn.www.gob.pe/uploads/document/file/1743972/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/03/21.pdf,cuarentena,precio portada None vs tabla []; solo 0 filas diarias,2026-10-18T03:52:13Z
-2021-03-16,1952612,https://cdn.www.gob.pe/uploads/document/file/1961344/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/03/21.pdf,cuarentena,fecha interna 2021-06-16 != nombre de archivo 2021-03-16,2026-10-18T03:53:08Z
-2021-03-17,1727365,https://cdn.www.gob.pe/uploads/document/file/1743973/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2017/03/21.pdf,cuarentena,precio portada None vs tabla []; solo 0 filas diarias,2026-10-18T03:52:14Z
-2021-03-17,1952612,https://cdn.www.gob.pe/uploads/document/file/1961399/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2017/03/21.pdf,cuarentena,fecha interna 2021-06-17 != nombre de archivo 2021-03-17,2026-10-18T03:53:09Z
-2021-03-18,1727365,https://cdn.www.gob.pe/uploads/document/file/1743974/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2018/03/21.pdf,cuarentena,precio portada None vs tabla []; solo 0 filas diarias,2026-10-18T03:52:14Z
-2021-03-18,1952612,https://cdn.www.gob.pe/uploads/document/file/1961429/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2018/03/21.pdf,cuarentena,fecha interna 2021-06-18 != nombre de archivo 2021-03-18,2026-10-18T03:53:09Z
+2021-03-08,1727365,https://cdn.www.gob.pe/uploads/document/file/1735501/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/03/21.pdf,ok,,2026-10-18T04:14:04Z
+2021-03-09,1727365,https://cdn.www.gob.pe/uploads/document/file/1735502/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/03/21.pdf,ok,,2026-10-18T04:14:05Z
+2021-03-10,1727365,https://cdn.www.gob.pe/uploads/document/file/1735503/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2010/03/21.pdf,ok,,2026-10-18T04:14:05Z
+2021-03-11,1727365,https://cdn.www.gob.pe/uploads/document/file/1735504/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2011/03/21.pdf,ok,,2026-10-18T04:14:07Z
+2021-03-12,1727365,https://cdn.www.gob.pe/uploads/document/file/1735505/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/03/21.pdf,ok,,2026-10-18T04:14:08Z
+2021-03-13,1727365,https://cdn.www.gob.pe/uploads/document/file/1735506/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/03/21.pdf,ok,,2026-10-18T04:14:09Z
+2021-03-15,1727365,https://cdn.www.gob.pe/uploads/document/file/1743971/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2015/03/21.pdf,ok,,2026-10-18T04:14:09Z
+2021-03-16,1727365,https://cdn.www.gob.pe/uploads/document/file/1743972/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/03/21.pdf,ok,,2026-10-18T04:14:10Z
+2021-03-17,1727365,https://cdn.www.gob.pe/uploads/document/file/1743973/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2017/03/21.pdf,ok,,2026-10-18T04:14:11Z
+2021-03-18,1727365,https://cdn.www.gob.pe/uploads/document/file/1743974/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2018/03/21.pdf,ok,,2026-10-18T04:14:11Z
 2021-03-19,1727365,https://cdn.www.gob.pe/uploads/document/file/1749901/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2019/03/21.pdf,ok,,2026-10-18T03:52:15Z
-2021-03-19,1952612,https://cdn.www.gob.pe/uploads/document/file/1961497/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2019/03/21.pdf,cuarentena,fecha interna 2021-06-19 != nombre de archivo 2021-03-19,2026-10-18T03:53:10Z
 2021-03-20,1727365,https://cdn.www.gob.pe/uploads/document/file/1749902/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2020/03/21.pdf,ok,,2026-10-18T03:52:16Z
-2021-03-21,1952612,https://cdn.www.gob.pe/uploads/document/file/1961498/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/03/21.pdf,cuarentena,fecha interna 2021-06-21 != nombre de archivo 2021-03-21,2026-10-18T03:53:11Z
 2021-03-22,1727365,https://cdn.www.gob.pe/uploads/document/file/1750845/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/03/21.pdf,ok,,2026-10-18T03:52:16Z
-2021-03-22,1952612,https://cdn.www.gob.pe/uploads/document/file/1964130/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/03/21.pdf,cuarentena,fecha interna 2021-06-22 != nombre de archivo 2021-03-22,2026-10-18T03:53:11Z
 2021-03-23,1727365,https://cdn.www.gob.pe/uploads/document/file/1752306/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/03/21.pdf,ok,,2026-10-18T03:52:17Z
-2021-03-23,1952612,https://cdn.www.gob.pe/uploads/document/file/1969553/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/03/21.pdf,cuarentena,fecha interna 2021-06-23 != nombre de archivo 2021-03-23,2026-10-18T03:53:12Z
 2021-03-24,1727365,https://cdn.www.gob.pe/uploads/document/file/1754488/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2024/03/21.pdf,ok,,2026-10-18T03:52:17Z
-2021-03-24,1952612,https://cdn.www.gob.pe/uploads/document/file/1975812/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2024/03/21.pdf,cuarentena,fecha interna 2021-06-24 != nombre de archivo 2021-03-24,2026-10-18T03:53:13Z
 2021-03-25,1727365,https://cdn.www.gob.pe/uploads/document/file/1755811/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2025/03/21.pdf,ok,,2026-10-18T03:52:18Z
-2021-03-25,1952612,https://cdn.www.gob.pe/uploads/document/file/1976707/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2025/03/21.pdf,cuarentena,fecha interna 2021-06-25 != nombre de archivo 2021-03-25,2026-10-18T03:53:13Z
 2021-03-26,1727365,https://cdn.www.gob.pe/uploads/document/file/1761333/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2026/03/21.pdf,ok,,2026-10-18T03:52:19Z
-2021-03-26,1952612,https://cdn.www.gob.pe/uploads/document/file/1984398/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2026/03/21.pdf,cuarentena,fecha interna 2021-06-26 != nombre de archivo 2021-03-26,2026-10-18T03:53:14Z
 2021-03-27,1727365,https://cdn.www.gob.pe/uploads/document/file/1761334/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2027/03/21.pdf,ok,,2026-10-18T03:52:19Z
-2021-03-28,1952612,https://cdn.www.gob.pe/uploads/document/file/1984399/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/03/21.pdf,cuarentena,fecha interna 2021-06-28 != nombre de archivo 2021-03-28,2026-10-18T03:53:14Z
 2021-03-29,1727365,https://cdn.www.gob.pe/uploads/document/file/1761335/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2029/03/21.pdf,ok,,2026-10-18T03:52:20Z
-2021-03-29,1952612,https://cdn.www.gob.pe/uploads/document/file/1984433/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2029/03/21.pdf,cuarentena,fecha interna 2021-06-29 != nombre de archivo 2021-03-29,2026-10-18T03:53:15Z
 2021-03-30,1727365,https://cdn.www.gob.pe/uploads/document/file/1764072/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2030/03/21.pdf,ok,,2026-10-18T03:52:20Z
-2021-03-30,1952612,https://cdn.www.gob.pe/uploads/document/file/1984741/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2030/03/21.pdf,cuarentena,fecha interna 2021-06-30 != nombre de archivo 2021-03-30,2026-10-18T03:53:16Z
-2021-03-31,1727365,https://cdn.www.gob.pe/uploads/document/file/1764073/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2031/03/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:52:21Z
+2021-03-31,1727365,https://cdn.www.gob.pe/uploads/document/file/1764073/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2031/03/21.pdf,descartado,el PDF no contiene la tabla de precios del pollo,2026-10-18T04:14:12Z
 2021-04-01,1783229,https://cdn.www.gob.pe/uploads/document/file/1772464/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/04/21.pdf,ok,,2026-10-18T03:52:22Z
 2021-04-03,1783229,https://cdn.www.gob.pe/uploads/document/file/1772465/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/04/21.pdf,ok,,2026-10-18T03:52:23Z
 2021-04-05,1783229,https://cdn.www.gob.pe/uploads/document/file/1780196/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/04/21.pdf,ok,,2026-10-18T03:52:24Z
-2021-04-06,1783229,https://cdn.www.gob.pe/uploads/document/file/1782457/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/04/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:52:25Z
-2021-04-07,1783229,https://cdn.www.gob.pe/uploads/document/file/1783277/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2007/04/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:52:26Z
-2021-04-08,1783229,https://cdn.www.gob.pe/uploads/document/file/1791304/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/04/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:52:26Z
-2021-04-09,1783229,https://cdn.www.gob.pe/uploads/document/file/1794721/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/04/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:52:27Z
-2021-04-10,1783229,https://cdn.www.gob.pe/uploads/document/file/1796951/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2010/04/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:52:29Z
-2021-04-12,1783229,https://cdn.www.gob.pe/uploads/document/file/1804955/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/04/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:52:30Z
-2021-04-13,1783229,https://cdn.www.gob.pe/uploads/document/file/1804956/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/04/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:52:30Z
-2021-04-14,1783229,https://cdn.www.gob.pe/uploads/document/file/1804972/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2014/04/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:52:31Z
-2021-04-15,1783229,https://cdn.www.gob.pe/uploads/document/file/1811929/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2015/04/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:52:32Z
-2021-04-16,1783229,https://cdn.www.gob.pe/uploads/document/file/1815971/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/04/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:52:32Z
-2021-04-19,1783229,https://cdn.www.gob.pe/uploads/document/file/1816013/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2019/04/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:52:33Z
+2021-04-06,1783229,https://cdn.www.gob.pe/uploads/document/file/1782457/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/04/21.pdf,ok,,2026-10-18T04:14:13Z
+2021-04-07,1783229,https://cdn.www.gob.pe/uploads/document/file/1783277/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2007/04/21.pdf,ok,,2026-10-18T04:14:14Z
+2021-04-08,1783229,https://cdn.www.gob.pe/uploads/document/file/1791304/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/04/21.pdf,ok,,2026-10-18T04:14:14Z
+2021-04-09,1783229,https://cdn.www.gob.pe/uploads/document/file/1794721/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/04/21.pdf,ok,,2026-10-18T04:14:15Z
+2021-04-10,1783229,https://cdn.www.gob.pe/uploads/document/file/1796951/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2010/04/21.pdf,ok,,2026-10-18T04:14:16Z
+2021-04-12,1783229,https://cdn.www.gob.pe/uploads/document/file/1804955/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/04/21.pdf,ok,,2026-10-18T04:14:17Z
+2021-04-13,1783229,https://cdn.www.gob.pe/uploads/document/file/1804956/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/04/21.pdf,ok,,2026-10-18T04:14:18Z
+2021-04-14,1783229,https://cdn.www.gob.pe/uploads/document/file/1804972/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2014/04/21.pdf,ok,,2026-10-18T04:14:19Z
+2021-04-15,1783229,https://cdn.www.gob.pe/uploads/document/file/1811929/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2015/04/21.pdf,ok,,2026-10-18T04:14:20Z
+2021-04-16,1783229,https://cdn.www.gob.pe/uploads/document/file/1815971/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/04/21.pdf,ok,,2026-10-18T04:14:21Z
+2021-04-19,1783229,https://cdn.www.gob.pe/uploads/document/file/1816013/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2019/04/21.pdf,ok,,2026-10-18T04:14:22Z
 2021-04-20,1783229,https://cdn.www.gob.pe/uploads/document/file/1823336/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2020/04/21.pdf,ok,,2026-10-18T03:52:34Z
 2021-04-21,1783229,https://cdn.www.gob.pe/uploads/document/file/1849904/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/04/21.pdf,ok,,2026-10-18T03:52:34Z
 2021-04-22,1783229,https://cdn.www.gob.pe/uploads/document/file/1851039/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/04/21.pdf,ok,,2026-10-18T03:52:36Z
@@ -437,8 +411,34 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2021-05-26,1894441,https://cdn.www.gob.pe/uploads/document/file/1919031/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2026/05/21.pdf,ok,,2026-10-18T03:52:57Z
 2021-05-27,1894441,https://cdn.www.gob.pe/uploads/document/file/1919068/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2027/05/21.pdf,ok,,2026-10-18T03:52:57Z
 2021-05-28,1894441,https://cdn.www.gob.pe/uploads/document/file/1919092/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/05/21.pdf,ok,,2026-10-18T03:52:58Z
-2021-05-29,1894441,https://cdn.www.gob.pe/uploads/document/file/1929757/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2029/05/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:52:59Z
+2021-05-29,1894441,https://cdn.www.gob.pe/uploads/document/file/1929757/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2029/05/21.pdf,ok,,2026-10-18T04:14:22Z
 2021-05-31,1894441,https://cdn.www.gob.pe/uploads/document/file/1929758/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2031/05/21.pdf,ok,,2026-10-18T03:52:59Z
+2021-06-01,1952612,https://cdn.www.gob.pe/uploads/document/file/1931912/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/03/21.pdf,ok,nombre de archivo dice 2021-03-01; se usa la fecha interna,2026-10-18T04:14:23Z
+2021-06-02,1952612,https://cdn.www.gob.pe/uploads/document/file/1933650/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2002/03/21.pdf,ok,nombre de archivo dice 2021-03-02; se usa la fecha interna,2026-10-18T04:14:24Z
+2021-06-03,1952612,https://cdn.www.gob.pe/uploads/document/file/1933674/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/03/21.pdf,ok,nombre de archivo dice 2021-03-03; se usa la fecha interna,2026-10-18T04:14:24Z
+2021-06-04,1952612,https://cdn.www.gob.pe/uploads/document/file/1933695/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2004/03/21.pdf,ok,nombre de archivo dice 2021-03-04; se usa la fecha interna,2026-10-18T04:14:26Z
+2021-06-05,1952612,https://cdn.www.gob.pe/uploads/document/file/1936859/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/03/21.pdf,ok,nombre de archivo dice 2021-03-05; se usa la fecha interna,2026-10-18T04:14:27Z
+2021-06-07,1952612,https://cdn.www.gob.pe/uploads/document/file/1936860/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2007/03/21.pdf,ok,nombre de archivo dice 2021-03-07; se usa la fecha interna,2026-10-18T04:14:28Z
+2021-06-08,1952612,https://cdn.www.gob.pe/uploads/document/file/1937146/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/03/21.pdf,ok,nombre de archivo dice 2021-03-08; se usa la fecha interna,2026-10-18T04:14:28Z
+2021-06-09,1952612,https://cdn.www.gob.pe/uploads/document/file/1942715/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/03/21.pdf,ok,nombre de archivo dice 2021-03-09; se usa la fecha interna,2026-10-18T04:14:29Z
+2021-06-10,1952612,https://cdn.www.gob.pe/uploads/document/file/1945048/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2010/03/21.pdf,ok,nombre de archivo dice 2021-03-10; se usa la fecha interna,2026-10-18T04:14:30Z
+2021-06-11,1952612,https://cdn.www.gob.pe/uploads/document/file/1945068/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2011/03/21.pdf,ok,nombre de archivo dice 2021-03-11; se usa la fecha interna,2026-10-18T04:14:30Z
+2021-06-12,1952612,https://cdn.www.gob.pe/uploads/document/file/1961011/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/03/21.pdf,ok,nombre de archivo dice 2021-03-12; se usa la fecha interna,2026-10-18T04:14:31Z
+2021-06-14,1952612,https://cdn.www.gob.pe/uploads/document/file/1961015/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2014/03/21.pdf,ok,nombre de archivo dice 2021-03-14; se usa la fecha interna,2026-10-18T04:14:32Z
+2021-06-15,1952612,https://cdn.www.gob.pe/uploads/document/file/1961331/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2015/03/21.pdf,ok,nombre de archivo dice 2021-03-15; se usa la fecha interna,2026-10-18T04:14:32Z
+2021-06-16,1952612,https://cdn.www.gob.pe/uploads/document/file/1961344/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/03/21.pdf,ok,nombre de archivo dice 2021-03-16; se usa la fecha interna,2026-10-18T04:14:33Z
+2021-06-17,1952612,https://cdn.www.gob.pe/uploads/document/file/1961399/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2017/03/21.pdf,ok,nombre de archivo dice 2021-03-17; se usa la fecha interna,2026-10-18T04:14:34Z
+2021-06-18,1952612,https://cdn.www.gob.pe/uploads/document/file/1961429/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2018/03/21.pdf,ok,nombre de archivo dice 2021-03-18; se usa la fecha interna,2026-10-18T04:14:34Z
+2021-06-19,1952612,https://cdn.www.gob.pe/uploads/document/file/1961497/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2019/03/21.pdf,ok,nombre de archivo dice 2021-03-19; se usa la fecha interna,2026-10-18T04:14:35Z
+2021-06-21,1952612,https://cdn.www.gob.pe/uploads/document/file/1961498/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/03/21.pdf,ok,nombre de archivo dice 2021-03-21; se usa la fecha interna,2026-10-18T04:14:36Z
+2021-06-22,1952612,https://cdn.www.gob.pe/uploads/document/file/1964130/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/03/21.pdf,ok,nombre de archivo dice 2021-03-22; se usa la fecha interna,2026-10-18T04:14:36Z
+2021-06-23,1952612,https://cdn.www.gob.pe/uploads/document/file/1969553/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/03/21.pdf,ok,nombre de archivo dice 2021-03-23; se usa la fecha interna,2026-10-18T04:14:37Z
+2021-06-24,1952612,https://cdn.www.gob.pe/uploads/document/file/1975812/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2024/03/21.pdf,ok,nombre de archivo dice 2021-03-24; se usa la fecha interna,2026-10-18T04:14:38Z
+2021-06-25,1952612,https://cdn.www.gob.pe/uploads/document/file/1976707/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2025/03/21.pdf,ok,nombre de archivo dice 2021-03-25; se usa la fecha interna,2026-10-18T04:14:38Z
+2021-06-26,1952612,https://cdn.www.gob.pe/uploads/document/file/1984398/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2026/03/21.pdf,ok,nombre de archivo dice 2021-03-26; se usa la fecha interna,2026-10-18T04:14:39Z
+2021-06-28,1952612,https://cdn.www.gob.pe/uploads/document/file/1984399/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/03/21.pdf,ok,nombre de archivo dice 2021-03-28; se usa la fecha interna,2026-10-18T04:14:40Z
+2021-06-29,1952612,https://cdn.www.gob.pe/uploads/document/file/1984433/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2029/03/21.pdf,ok,nombre de archivo dice 2021-03-29; se usa la fecha interna,2026-10-18T04:14:40Z
+2021-06-30,1952612,https://cdn.www.gob.pe/uploads/document/file/1984741/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2030/03/21.pdf,ok,nombre de archivo dice 2021-03-30; se usa la fecha interna,2026-10-18T04:14:41Z
 2021-07-01,2012866,https://cdn.www.gob.pe/uploads/document/file/2003731/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/07/21.pdf,ok,,2026-10-18T03:53:16Z
 2021-07-02,2012866,https://cdn.www.gob.pe/uploads/document/file/2003820/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2002/07/21.pdf,ok,,2026-10-18T03:53:19Z
 2021-07-03,2012866,https://cdn.www.gob.pe/uploads/document/file/2010614/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/07/21.pdf,ok,,2026-10-18T03:53:20Z
@@ -466,11 +466,11 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2021-07-31,2012866,https://cdn.www.gob.pe/uploads/document/file/2055197/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2031/07/21.pdf,ok,,2026-10-18T03:53:32Z
 2021-08-02,2053987,https://cdn.www.gob.pe/uploads/document/file/2062136/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2002/08/21.pdf,ok,,2026-10-18T03:53:33Z
 2021-08-03,2053987,https://cdn.www.gob.pe/uploads/document/file/2065154/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/08/21.pdf,ok,,2026-10-18T03:53:33Z
-2021-08-04,2053987,https://cdn.www.gob.pe/uploads/document/file/2065218/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2004/08/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:53:34Z
-2021-08-05,2053987,https://cdn.www.gob.pe/uploads/document/file/2067767/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/08/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:53:35Z
-2021-08-06,2053987,https://cdn.www.gob.pe/uploads/document/file/2067777/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/08/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:53:36Z
-2021-08-07,2053987,https://cdn.www.gob.pe/uploads/document/file/2072868/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2007/08/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:53:37Z
-2021-08-09,2053987,https://cdn.www.gob.pe/uploads/document/file/2072869/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/08/21.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:53:37Z
+2021-08-04,2053987,https://cdn.www.gob.pe/uploads/document/file/2065218/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2004/08/21.pdf,ok,,2026-10-18T04:14:42Z
+2021-08-05,2053987,https://cdn.www.gob.pe/uploads/document/file/2067767/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/08/21.pdf,ok,,2026-10-18T04:14:43Z
+2021-08-06,2053987,https://cdn.www.gob.pe/uploads/document/file/2067777/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/08/21.pdf,ok,,2026-10-18T04:14:43Z
+2021-08-07,2053987,https://cdn.www.gob.pe/uploads/document/file/2072868/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2007/08/21.pdf,ok,,2026-10-18T04:14:44Z
+2021-08-09,2053987,https://cdn.www.gob.pe/uploads/document/file/2072869/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/08/21.pdf,ok,,2026-10-18T04:14:45Z
 2021-08-10,2053987,https://cdn.www.gob.pe/uploads/document/file/2072870/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-10/08/21.pdf,ok,,2026-10-18T03:53:38Z
 2021-08-11,2053987,https://cdn.www.gob.pe/uploads/document/file/2075761/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-11/08/21.pdf,ok,,2026-10-18T03:53:38Z
 2021-08-12,2053987,https://cdn.www.gob.pe/uploads/document/file/2078720/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-12/08/21.pdf,ok,,2026-10-18T03:53:39Z
@@ -529,13 +529,13 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2021-10-25,2190411,https://cdn.www.gob.pe/uploads/document/file/2309746/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2025/10/21.pdf,ok,,2026-10-18T03:54:15Z
 2021-10-26,2190411,https://cdn.www.gob.pe/uploads/document/file/2320955/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2026/10/21.pdf,ok,,2026-10-18T03:54:15Z
 2021-10-27,2190411,https://cdn.www.gob.pe/uploads/document/file/2326309/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2027/10/21.pdf,ok,,2026-10-18T03:54:16Z
-2021-10-28,2190411,https://cdn.www.gob.pe/uploads/document/file/2349982/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/10/21.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:54:17Z
+2021-10-28,2190411,https://cdn.www.gob.pe/uploads/document/file/2349982/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/10/21.pdf,cuarentena,IndexError: list index out of range,2026-10-18T04:14:45Z
 2021-10-29,2190411,https://cdn.www.gob.pe/uploads/document/file/2350021/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2029/10/21.pdf,ok,,2026-10-18T03:54:18Z
 2021-11-03,2307798,https://cdn.www.gob.pe/uploads/document/file/2361388/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/11/21.pdf,ok,,2026-10-18T03:54:18Z
 2021-11-04,2307798,https://cdn.www.gob.pe/uploads/document/file/2366744/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2004/11/21.pdf,ok,,2026-10-18T03:54:19Z
 2021-11-05,2307798,https://cdn.www.gob.pe/uploads/document/file/2373625/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/11/21.pdf,ok,,2026-10-18T03:54:20Z
 2021-11-08,2307798,https://cdn.www.gob.pe/uploads/document/file/2380629/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/11/21.pdf,ok,,2026-10-18T03:54:20Z
-2021-11-09,2307798,https://cdn.www.gob.pe/uploads/document/file/2384616/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/11/21.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:54:21Z
+2021-11-09,2307798,https://cdn.www.gob.pe/uploads/document/file/2384616/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/11/21.pdf,cuarentena,IndexError: list index out of range,2026-10-18T04:14:46Z
 2021-11-10,2307798,https://cdn.www.gob.pe/uploads/document/file/2389997/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2010/11/21.pdf,ok,,2026-10-18T03:54:21Z
 2021-11-11,2307798,https://cdn.www.gob.pe/uploads/document/file/2397313/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2011/11/21.pdf,ok,,2026-10-18T03:54:22Z
 2021-11-12,2307798,https://cdn.www.gob.pe/uploads/document/file/2437519/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/11/21.pdf,ok,,2026-10-18T03:54:23Z
@@ -562,14 +562,14 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2021-12-16,2503149,https://cdn.www.gob.pe/uploads/document/file/2619109/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/12/21.pdf,ok,,2026-10-18T03:54:37Z
 2021-12-17,2503149,https://cdn.www.gob.pe/uploads/document/file/2629605/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2017/12/21.pdf,ok,,2026-10-18T03:54:38Z
 2021-12-20,2503149,https://cdn.www.gob.pe/uploads/document/file/2639635/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2020/12/21.pdf,ok,,2026-10-18T03:54:39Z
-2021-12-21,2503149,https://cdn.www.gob.pe/uploads/document/file/2639636/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/12/21.pdf,cuarentena,precio portada 7.32 vs tabla []; solo 0 filas diarias,2026-10-18T03:54:40Z
-2021-12-22,2503149,https://cdn.www.gob.pe/uploads/document/file/2640975/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/12/21.pdf,cuarentena,precio portada 7.52 vs tabla []; solo 0 filas diarias,2026-10-18T03:54:40Z
-2021-12-23,2503149,https://cdn.www.gob.pe/uploads/document/file/2660134/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/12/21.pdf,cuarentena,precio portada 7.52 vs tabla []; solo 0 filas diarias,2026-10-18T03:54:41Z
-2021-12-27,2503149,https://cdn.www.gob.pe/uploads/document/file/2660135/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2027/12/21.pdf,cuarentena,precio portada 7.52 vs tabla []; solo 0 filas diarias,2026-10-18T03:54:42Z
-2021-12-28,2503149,https://cdn.www.gob.pe/uploads/document/file/2660136/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/12/21.pdf,cuarentena,precio portada 7.52 vs tabla []; solo 0 filas diarias,2026-10-18T03:54:43Z
-2021-12-29,2503149,https://cdn.www.gob.pe/uploads/document/file/2662104/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2029/12/21.pdf,cuarentena,precio portada 7.52 vs tabla []; solo 0 filas diarias,2026-10-18T03:54:44Z
-2021-12-30,2503149,https://cdn.www.gob.pe/uploads/document/file/2684020/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2030/12/21.pdf,cuarentena,precio portada 7.12 vs tabla []; solo 0 filas diarias,2026-10-18T03:54:44Z
-2021-12-31,2503149,https://cdn.www.gob.pe/uploads/document/file/2684021/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2031/12/21.pdf,cuarentena,precio portada 7.12 vs tabla []; solo 0 filas diarias,2026-10-18T03:54:45Z
+2021-12-21,2503149,https://cdn.www.gob.pe/uploads/document/file/2639636/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/12/21.pdf,ok,,2026-10-18T04:14:48Z
+2021-12-22,2503149,https://cdn.www.gob.pe/uploads/document/file/2640975/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/12/21.pdf,ok,,2026-10-18T04:14:49Z
+2021-12-23,2503149,https://cdn.www.gob.pe/uploads/document/file/2660134/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/12/21.pdf,ok,,2026-10-18T04:14:50Z
+2021-12-27,2503149,https://cdn.www.gob.pe/uploads/document/file/2660135/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2027/12/21.pdf,ok,,2026-10-18T04:14:51Z
+2021-12-28,2503149,https://cdn.www.gob.pe/uploads/document/file/2660136/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/12/21.pdf,ok,,2026-10-18T04:14:52Z
+2021-12-29,2503149,https://cdn.www.gob.pe/uploads/document/file/2662104/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2029/12/21.pdf,ok,,2026-10-18T04:14:53Z
+2021-12-30,2503149,https://cdn.www.gob.pe/uploads/document/file/2684020/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2030/12/21.pdf,ok,,2026-10-18T04:14:53Z
+2021-12-31,2503149,https://cdn.www.gob.pe/uploads/document/file/2684021/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2031/12/21.pdf,ok,,2026-10-18T04:14:54Z
 2022-01-04,2619954,https://cdn.www.gob.pe/uploads/document/file/2748338/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2004/01/22.pdf,ok,,2026-10-18T03:54:45Z
 2022-01-05,2619954,https://cdn.www.gob.pe/uploads/document/file/2686520/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/01/22.pdf,ok,,2026-10-18T03:54:46Z
 2022-01-06,2619954,https://cdn.www.gob.pe/uploads/document/file/2691325/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/01/22.pdf,ok,,2026-10-18T03:54:47Z
@@ -653,8 +653,8 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2022-05-09,2944277,https://cdn.www.gob.pe/uploads/document/file/3073146/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/05/22.pdf,ok,,2026-10-18T03:55:41Z
 2022-05-10,2944277,https://cdn.www.gob.pe/uploads/document/file/3058430/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2010/05/22.pdf,ok,,2026-10-18T03:55:42Z
 2022-05-11,2944277,https://cdn.www.gob.pe/uploads/document/file/3086945/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2011/05/22.pdf,ok,,2026-10-18T03:55:42Z
-2022-05-12,2944277,https://cdn.www.gob.pe/uploads/document/file/3093936/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/05/22.pdf,cuarentena,precio portada 6.57 vs tabla []; solo 0 filas diarias,2026-10-18T03:55:43Z
-2022-05-13,2944277,https://cdn.www.gob.pe/uploads/document/file/3098135/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/05/22.pdf,cuarentena,precio portada 6.57 vs tabla []; solo 0 filas diarias,2026-10-18T03:55:44Z
+2022-05-12,2944277,https://cdn.www.gob.pe/uploads/document/file/3093936/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/05/22.pdf,ok,,2026-10-18T04:14:55Z
+2022-05-13,2944277,https://cdn.www.gob.pe/uploads/document/file/3098135/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/05/22.pdf,ok,,2026-10-18T04:14:55Z
 2022-05-16,2944277,https://cdn.www.gob.pe/uploads/document/file/3105077/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/05/22.pdf,ok,,2026-10-18T03:55:44Z
 2022-05-17,2944277,https://cdn.www.gob.pe/uploads/document/file/3107642/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2017/05/22.pdf,ok,,2026-10-18T03:55:45Z
 2022-05-18,2944277,https://cdn.www.gob.pe/uploads/document/file/3111136/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2018/05/22.pdf,ok,,2026-10-18T03:55:46Z
@@ -670,48 +670,48 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2022-06-01,3051445,https://cdn.www.gob.pe/uploads/document/file/3174450/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/06/22.pdf,ok,,2026-10-18T03:55:52Z
 2022-06-02,3051445,https://cdn.www.gob.pe/uploads/document/file/3177432/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2002/06/22.pdf,ok,,2026-10-18T03:55:53Z
 2022-06-03,3051445,https://cdn.www.gob.pe/uploads/document/file/3206057/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/06/22.pdf,ok,,2026-10-18T03:55:55Z
-2022-06-06,3051445,https://cdn.www.gob.pe/uploads/document/file/3212709/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/06/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:55:55Z
+2022-06-06,3051445,https://cdn.www.gob.pe/uploads/document/file/3212709/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/06/22.pdf,descartado,el PDF no contiene la tabla de precios del pollo,2026-10-18T04:14:56Z
 2022-06-07,3051445,https://cdn.www.gob.pe/uploads/document/file/3213412/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2007/06/22.pdf,ok,,2026-10-18T03:55:56Z
 2022-06-08,3051445,https://cdn.www.gob.pe/uploads/document/file/3239241/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/06/22.pdf,ok,,2026-10-18T03:55:57Z
 2022-06-09,3051445,https://cdn.www.gob.pe/uploads/document/file/3242990/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/06/22.pdf,ok,,2026-10-18T03:55:58Z
 2022-06-10,3051445,https://cdn.www.gob.pe/uploads/document/file/3246848/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2010/06/22.pdf,ok,,2026-10-18T03:55:59Z
 2022-06-14,3051445,https://cdn.www.gob.pe/uploads/document/file/3253730/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2014/06/22.pdf,ok,,2026-10-18T03:55:59Z
 2022-06-15,3051445,https://cdn.www.gob.pe/uploads/document/file/3259852/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2015/06/22.pdf,ok,,2026-10-18T03:56:00Z
-2022-06-16,3051445,https://cdn.www.gob.pe/uploads/document/file/3264566/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/06/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:01Z
-2022-06-17,3051445,https://cdn.www.gob.pe/uploads/document/file/3274396/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2017/06/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:02Z
-2022-06-20,3051445,https://cdn.www.gob.pe/uploads/document/file/3281139/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2020/06/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:03Z
-2022-06-21,3051445,https://cdn.www.gob.pe/uploads/document/file/3283854/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/06/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:04Z
-2022-06-22,3051445,https://cdn.www.gob.pe/uploads/document/file/3287117/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/06/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:05Z
-2022-06-23,3051445,https://cdn.www.gob.pe/uploads/document/file/3289877/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/06/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:06Z
-2022-06-27,3051445,https://cdn.www.gob.pe/uploads/document/file/3297722/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2027/06/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:07Z
-2022-06-28,3051445,https://cdn.www.gob.pe/uploads/document/file/3307312/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/06/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:08Z
-2022-06-30,3051445,https://cdn.www.gob.pe/uploads/document/file/3320528/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2030/06/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:09Z
-2022-07-01,3204788,https://cdn.www.gob.pe/uploads/document/file/3340821/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/07/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:10Z
-2022-07-04,3204788,https://cdn.www.gob.pe/uploads/document/file/3352437/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2004/07/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:11Z
-2022-07-05,3204788,https://cdn.www.gob.pe/uploads/document/file/3353858/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/07/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:12Z
-2022-07-06,3204788,https://cdn.www.gob.pe/uploads/document/file/3357103/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/07/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:13Z
-2022-07-07,3204788,https://cdn.www.gob.pe/uploads/document/file/3361584/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2007/07/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:13Z
-2022-07-08,3204788,https://cdn.www.gob.pe/uploads/document/file/3388331/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/07/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:14Z
-2022-07-11,3204788,https://cdn.www.gob.pe/uploads/document/file/3393405/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2011/07/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:15Z
-2022-07-12,3204788,https://cdn.www.gob.pe/uploads/document/file/3396271/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/07/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:15Z
-2022-07-13,3204788,https://cdn.www.gob.pe/uploads/document/file/3414120/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/07/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:16Z
-2022-07-14,3204788,https://cdn.www.gob.pe/uploads/document/file/3416472/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2014/07/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:17Z
-2022-07-15,3204788,https://cdn.www.gob.pe/uploads/document/file/3423538/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2015/07/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:17Z
-2022-07-18,3204788,https://cdn.www.gob.pe/uploads/document/file/3427551/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2018/07/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:18Z
-2022-07-19,3204788,https://cdn.www.gob.pe/uploads/document/file/3429222/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2019/07/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:19Z
-2022-07-20,3204788,https://cdn.www.gob.pe/uploads/document/file/3436005/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2020/07/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:20Z
-2022-07-21,3204788,https://cdn.www.gob.pe/uploads/document/file/3441336/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/07/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:21Z
-2022-07-22,3204788,https://cdn.www.gob.pe/uploads/document/file/3447600/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/07/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:21Z
-2022-07-25,3204788,https://cdn.www.gob.pe/uploads/document/file/3450030/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2025/07/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:22Z
-2022-07-26,3204788,https://cdn.www.gob.pe/uploads/document/file/3451432/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2026/07/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:23Z
+2022-06-16,3051445,https://cdn.www.gob.pe/uploads/document/file/3264566/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/06/22.pdf,ok,,2026-10-18T04:14:57Z
+2022-06-17,3051445,https://cdn.www.gob.pe/uploads/document/file/3274396/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2017/06/22.pdf,ok,,2026-10-18T04:14:59Z
+2022-06-20,3051445,https://cdn.www.gob.pe/uploads/document/file/3281139/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2020/06/22.pdf,ok,,2026-10-18T04:15:01Z
+2022-06-21,3051445,https://cdn.www.gob.pe/uploads/document/file/3283854/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/06/22.pdf,ok,,2026-10-18T04:15:01Z
+2022-06-22,3051445,https://cdn.www.gob.pe/uploads/document/file/3287117/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/06/22.pdf,ok,,2026-10-18T04:15:02Z
+2022-06-23,3051445,https://cdn.www.gob.pe/uploads/document/file/3289877/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/06/22.pdf,ok,,2026-10-18T04:15:03Z
+2022-06-27,3051445,https://cdn.www.gob.pe/uploads/document/file/3297722/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2027/06/22.pdf,ok,,2026-10-18T04:15:04Z
+2022-06-28,3051445,https://cdn.www.gob.pe/uploads/document/file/3307312/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/06/22.pdf,ok,,2026-10-18T04:15:05Z
+2022-06-30,3051445,https://cdn.www.gob.pe/uploads/document/file/3320528/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2030/06/22.pdf,ok,,2026-10-18T04:15:05Z
+2022-07-01,3204788,https://cdn.www.gob.pe/uploads/document/file/3340821/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/07/22.pdf,ok,,2026-10-18T04:15:06Z
+2022-07-04,3204788,https://cdn.www.gob.pe/uploads/document/file/3352437/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2004/07/22.pdf,ok,,2026-10-18T04:15:07Z
+2022-07-05,3204788,https://cdn.www.gob.pe/uploads/document/file/3353858/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/07/22.pdf,ok,,2026-10-18T04:15:07Z
+2022-07-06,3204788,https://cdn.www.gob.pe/uploads/document/file/3357103/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/07/22.pdf,ok,,2026-10-18T04:15:08Z
+2022-07-07,3204788,https://cdn.www.gob.pe/uploads/document/file/3361584/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2007/07/22.pdf,ok,,2026-10-18T04:15:09Z
+2022-07-08,3204788,https://cdn.www.gob.pe/uploads/document/file/3388331/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/07/22.pdf,ok,,2026-10-18T04:15:09Z
+2022-07-11,3204788,https://cdn.www.gob.pe/uploads/document/file/3393405/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2011/07/22.pdf,ok,,2026-10-18T04:15:10Z
+2022-07-12,3204788,https://cdn.www.gob.pe/uploads/document/file/3396271/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/07/22.pdf,ok,,2026-10-18T04:15:11Z
+2022-07-13,3204788,https://cdn.www.gob.pe/uploads/document/file/3414120/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/07/22.pdf,ok,,2026-10-18T04:15:12Z
+2022-07-14,3204788,https://cdn.www.gob.pe/uploads/document/file/3416472/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2014/07/22.pdf,ok,,2026-10-18T04:15:12Z
+2022-07-15,3204788,https://cdn.www.gob.pe/uploads/document/file/3423538/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2015/07/22.pdf,ok,,2026-10-18T04:15:13Z
+2022-07-18,3204788,https://cdn.www.gob.pe/uploads/document/file/3427551/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2018/07/22.pdf,ok,,2026-10-18T04:15:14Z
+2022-07-19,3204788,https://cdn.www.gob.pe/uploads/document/file/3429222/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2019/07/22.pdf,ok,,2026-10-18T04:15:15Z
+2022-07-20,3204788,https://cdn.www.gob.pe/uploads/document/file/3436005/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2020/07/22.pdf,ok,,2026-10-18T04:15:15Z
+2022-07-21,3204788,https://cdn.www.gob.pe/uploads/document/file/3441336/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/07/22.pdf,ok,,2026-10-18T04:15:16Z
+2022-07-22,3204788,https://cdn.www.gob.pe/uploads/document/file/3447600/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/07/22.pdf,ok,,2026-10-18T04:15:17Z
+2022-07-25,3204788,https://cdn.www.gob.pe/uploads/document/file/3450030/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2025/07/22.pdf,ok,,2026-10-18T04:15:17Z
+2022-07-26,3204788,https://cdn.www.gob.pe/uploads/document/file/3451432/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2026/07/22.pdf,ok,,2026-10-18T04:15:19Z
 2022-07-27,3204788,https://cdn.www.gob.pe/uploads/document/file/3457072/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2027/07/22.pdf,ok,,2026-10-18T03:56:24Z
 2022-07-28,3204788,https://cdn.www.gob.pe/uploads/document/file/3457073/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/07/22.pdf,ok,,2026-10-18T03:56:25Z
-2022-08-01,3306606,https://cdn.www.gob.pe/uploads/document/file/3459027/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/08/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:25Z
-2022-08-02,3306606,https://cdn.www.gob.pe/uploads/document/file/3463518/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2002/08/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:26Z
-2022-08-03,3306606,https://cdn.www.gob.pe/uploads/document/file/3467544/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/08/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:27Z
-2022-08-04,3306606,https://cdn.www.gob.pe/uploads/document/file/3472662/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2004/08/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:28Z
-2022-08-05,3306606,https://cdn.www.gob.pe/uploads/document/file/3476700/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/08/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:28Z
-2022-08-08,3306606,https://cdn.www.gob.pe/uploads/document/file/3478199/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/08/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:29Z
+2022-08-01,3306606,https://cdn.www.gob.pe/uploads/document/file/3459027/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/08/22.pdf,ok,,2026-10-18T04:15:20Z
+2022-08-02,3306606,https://cdn.www.gob.pe/uploads/document/file/3463518/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2002/08/22.pdf,ok,,2026-10-18T04:15:22Z
+2022-08-03,3306606,https://cdn.www.gob.pe/uploads/document/file/3467544/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/08/22.pdf,ok,,2026-10-18T04:15:22Z
+2022-08-04,3306606,https://cdn.www.gob.pe/uploads/document/file/3472662/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2004/08/22.pdf,ok,,2026-10-18T04:15:23Z
+2022-08-05,3306606,https://cdn.www.gob.pe/uploads/document/file/3476700/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/08/22.pdf,ok,,2026-10-18T04:15:24Z
+2022-08-08,3306606,https://cdn.www.gob.pe/uploads/document/file/3478199/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/08/22.pdf,ok,,2026-10-18T04:15:24Z
 2022-08-09,3306606,https://cdn.www.gob.pe/uploads/document/file/3485195/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/08/22.pdf,ok,,2026-10-18T03:56:30Z
 2022-08-10,3306606,https://cdn.www.gob.pe/uploads/document/file/3488883/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2010/08/22.pdf,ok,,2026-10-18T03:56:31Z
 2022-08-11,3306606,https://cdn.www.gob.pe/uploads/document/file/3510033/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2011/08/22.pdf,ok,,2026-10-18T03:56:32Z
@@ -726,46 +726,46 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2022-08-24,3306606,https://cdn.www.gob.pe/uploads/document/file/3541870/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2024/08/22.pdf,ok,,2026-10-18T03:56:40Z
 2022-08-25,3306606,https://cdn.www.gob.pe/uploads/document/file/3546945/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2025/08/22.pdf,ok,,2026-10-18T03:56:40Z
 2022-08-26,3306606,https://cdn.www.gob.pe/uploads/document/file/3560088/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2026/08/22.pdf,ok,,2026-10-18T03:56:41Z
-2022-08-31,3306606,https://cdn.www.gob.pe/uploads/document/file/3573812/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2031/08/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:42Z
-2022-09-01,3426642,https://cdn.www.gob.pe/uploads/document/file/3586043/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/09/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:42Z
+2022-08-31,3306606,https://cdn.www.gob.pe/uploads/document/file/3573812/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2031/08/22.pdf,ok,,2026-10-18T04:15:25Z
+2022-09-01,3426642,https://cdn.www.gob.pe/uploads/document/file/3586043/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/09/22.pdf,ok,,2026-10-18T04:15:26Z
 2022-09-02,3426642,https://cdn.www.gob.pe/uploads/document/file/3586042/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2002/09/22.pdf,ok,,2026-10-18T03:56:43Z
 2022-09-05,3426642,https://cdn.www.gob.pe/uploads/document/file/3592680/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/09/22.pdf,ok,,2026-10-18T03:56:43Z
 2022-09-06,3426642,https://cdn.www.gob.pe/uploads/document/file/3595333/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/09/22.pdf,ok,,2026-10-18T03:56:44Z
-2022-09-07,3426642,https://cdn.www.gob.pe/uploads/document/file/3607781/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2007/09/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:45Z
-2022-09-08,3426642,https://cdn.www.gob.pe/uploads/document/file/3611613/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/09/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:45Z
+2022-09-07,3426642,https://cdn.www.gob.pe/uploads/document/file/3607781/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2007/09/22.pdf,ok,,2026-10-18T04:15:26Z
+2022-09-08,3426642,https://cdn.www.gob.pe/uploads/document/file/3611613/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/09/22.pdf,ok,,2026-10-18T04:15:27Z
 2022-09-09,3426642,https://cdn.www.gob.pe/uploads/document/file/3619393/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/09/22.pdf,ok,,2026-10-18T03:56:46Z
-2022-09-12,3426642,https://cdn.www.gob.pe/uploads/document/file/3621363/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/09/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:47Z
-2022-09-13,3426642,https://cdn.www.gob.pe/uploads/document/file/3625615/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/09/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:47Z
-2022-09-14,3426642,https://cdn.www.gob.pe/uploads/document/file/3640185/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2014/09/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:48Z
-2022-09-15,3426642,https://cdn.www.gob.pe/uploads/document/file/3640186/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2015/09/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:49Z
+2022-09-12,3426642,https://cdn.www.gob.pe/uploads/document/file/3621363/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/09/22.pdf,ok,,2026-10-18T04:15:28Z
+2022-09-13,3426642,https://cdn.www.gob.pe/uploads/document/file/3625615/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/09/22.pdf,ok,,2026-10-18T04:15:29Z
+2022-09-14,3426642,https://cdn.www.gob.pe/uploads/document/file/3640185/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2014/09/22.pdf,ok,,2026-10-18T04:15:29Z
+2022-09-15,3426642,https://cdn.www.gob.pe/uploads/document/file/3640186/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2015/09/22.pdf,ok,,2026-10-18T04:15:31Z
 2022-09-16,3426642,https://cdn.www.gob.pe/uploads/document/file/3649967/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/09/22.pdf,ok,,2026-10-18T03:56:49Z
 2022-09-19,3426642,https://cdn.www.gob.pe/uploads/document/file/3652944/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2019/09/22.pdf,ok,,2026-10-18T03:56:50Z
 2022-09-20,3426642,https://cdn.www.gob.pe/uploads/document/file/3656624/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2020/09/22.pdf,ok,,2026-10-18T03:56:51Z
-2022-09-21,3426642,https://cdn.www.gob.pe/uploads/document/file/3661618/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/09/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:51Z
-2022-09-22,3426642,https://cdn.www.gob.pe/uploads/document/file/3667983/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/09/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:52Z
+2022-09-21,3426642,https://cdn.www.gob.pe/uploads/document/file/3661618/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/09/22.pdf,ok,,2026-10-18T04:15:32Z
+2022-09-22,3426642,https://cdn.www.gob.pe/uploads/document/file/3667983/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/09/22.pdf,ok,,2026-10-18T04:15:33Z
 2022-09-23,3426642,https://cdn.www.gob.pe/uploads/document/file/3690459/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/09/22.pdf,ok,,2026-10-18T03:56:52Z
 2022-09-26,3426642,https://cdn.www.gob.pe/uploads/document/file/3693107/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2026/09/22.pdf,ok,,2026-10-18T03:56:53Z
 2022-09-27,3426642,https://cdn.www.gob.pe/uploads/document/file/3695779/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2027/09/22.pdf,ok,,2026-10-18T03:56:54Z
-2022-09-28,3426642,https://cdn.www.gob.pe/uploads/document/file/3704574/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/09/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:54Z
-2022-09-29,3426642,https://cdn.www.gob.pe/uploads/document/file/3710695/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2029/09/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:55Z
+2022-09-28,3426642,https://cdn.www.gob.pe/uploads/document/file/3704574/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/09/22.pdf,ok,,2026-10-18T04:15:33Z
+2022-09-29,3426642,https://cdn.www.gob.pe/uploads/document/file/3710695/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2029/09/22.pdf,ok,,2026-10-18T04:15:34Z
 2022-09-30,3426642,https://cdn.www.gob.pe/uploads/document/file/3716451/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2030/09/22.pdf,ok,,2026-10-18T03:56:56Z
 2022-10-03,3567630,https://cdn.www.gob.pe/uploads/document/file/3790794/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/10/22.pdf,ok,,2026-10-18T03:56:56Z
 2022-10-04,3567630,https://cdn.www.gob.pe/uploads/document/file/3723336/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2004/10/22.pdf,ok,,2026-10-18T03:56:57Z
-2022-10-05,3567630,https://cdn.www.gob.pe/uploads/document/file/3732263/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/10/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:57Z
-2022-10-06,3567630,https://cdn.www.gob.pe/uploads/document/file/3737129/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/10/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:56:58Z
+2022-10-05,3567630,https://cdn.www.gob.pe/uploads/document/file/3732263/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/10/22.pdf,ok,,2026-10-18T04:15:35Z
+2022-10-06,3567630,https://cdn.www.gob.pe/uploads/document/file/3737129/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/10/22.pdf,ok,,2026-10-18T04:15:35Z
 2022-10-10,3567630,https://cdn.www.gob.pe/uploads/document/file/3744508/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2010/10/22.pdf,ok,,2026-10-18T03:56:59Z
 2022-10-11,3567630,https://cdn.www.gob.pe/uploads/document/file/3747221/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2011/10/22.pdf,ok,,2026-10-18T03:56:59Z
-2022-10-12,3567630,https://cdn.www.gob.pe/uploads/document/file/3754465/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/10/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:00Z
-2022-10-13,3567630,https://cdn.www.gob.pe/uploads/document/file/3755339/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/10/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:01Z
+2022-10-12,3567630,https://cdn.www.gob.pe/uploads/document/file/3754465/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/10/22.pdf,ok,,2026-10-18T04:15:36Z
+2022-10-13,3567630,https://cdn.www.gob.pe/uploads/document/file/3755339/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/10/22.pdf,ok,,2026-10-18T04:15:37Z
 2022-10-14,3567630,https://cdn.www.gob.pe/uploads/document/file/3766650/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2014/10/22.pdf,ok,,2026-10-18T03:57:01Z
 2022-10-17,3567630,https://cdn.www.gob.pe/uploads/document/file/3766651/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2017/10/22.pdf,ok,,2026-10-18T03:57:02Z
 2022-10-18,3567630,https://cdn.www.gob.pe/uploads/document/file/3777758/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2018/10/22.pdf,ok,,2026-10-18T03:57:03Z
-2022-10-19,3567630,https://cdn.www.gob.pe/uploads/document/file/3771340/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2019/10/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:03Z
-2022-10-20,3567630,https://cdn.www.gob.pe/uploads/document/file/3777717/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2020/10/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:04Z
+2022-10-19,3567630,https://cdn.www.gob.pe/uploads/document/file/3771340/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2019/10/22.pdf,ok,,2026-10-18T04:15:37Z
+2022-10-20,3567630,https://cdn.www.gob.pe/uploads/document/file/3777717/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2020/10/22.pdf,ok,,2026-10-18T04:15:38Z
 2022-10-21,3567630,https://cdn.www.gob.pe/uploads/document/file/3787189/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/10/22.pdf,ok,,2026-10-18T03:57:05Z
 2022-10-24,3567630,https://cdn.www.gob.pe/uploads/document/file/3787190/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2024/10/22.pdf,ok,,2026-10-18T03:57:05Z
 2022-10-25,3567630,https://cdn.www.gob.pe/uploads/document/file/3790633/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2025/10/22.pdf,ok,,2026-10-18T03:57:06Z
-2022-10-26,3567630,https://cdn.www.gob.pe/uploads/document/file/3793926/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2026/10/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:06Z
+2022-10-26,3567630,https://cdn.www.gob.pe/uploads/document/file/3793926/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2026/10/22.pdf,ok,,2026-10-18T04:15:39Z
 2022-10-27,3567630,https://cdn.www.gob.pe/uploads/document/file/3797280/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2027/10/22.pdf,ok,,2026-10-18T03:57:07Z
 2022-10-28,3567630,https://cdn.www.gob.pe/uploads/document/file/3800415/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/10/22.pdf,ok,,2026-10-18T03:57:08Z
 2022-11-02,3630067,https://cdn.www.gob.pe/uploads/document/file/3805777/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2002/11/22.pdf,ok,,2026-10-18T03:57:09Z
@@ -773,157 +773,157 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2022-11-04,3630067,https://cdn.www.gob.pe/uploads/document/file/3811616/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2004/11/22.pdf,ok,,2026-10-18T03:57:10Z
 2022-11-07,3630067,https://cdn.www.gob.pe/uploads/document/file/3816711/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2007/11/22.pdf,ok,,2026-10-18T03:57:11Z
 2022-11-08,3630067,https://cdn.www.gob.pe/uploads/document/file/3819604/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/11/22.pdf,ok,,2026-10-18T03:57:11Z
-2022-11-09,3630067,https://cdn.www.gob.pe/uploads/document/file/3825442/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/11/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:12Z
-2022-11-10,3630067,https://cdn.www.gob.pe/uploads/document/file/3829821/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2010/11/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:13Z
+2022-11-09,3630067,https://cdn.www.gob.pe/uploads/document/file/3825442/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/11/22.pdf,ok,,2026-10-18T04:15:39Z
+2022-11-10,3630067,https://cdn.www.gob.pe/uploads/document/file/3829821/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2010/11/22.pdf,ok,,2026-10-18T04:15:40Z
 2022-11-11,3630067,https://cdn.www.gob.pe/uploads/document/file/3833192/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2011/11/22.pdf,ok,,2026-10-18T03:57:13Z
 2022-11-14,3630067,https://cdn.www.gob.pe/uploads/document/file/3836254/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2014/11/22.pdf,ok,,2026-10-18T03:57:14Z
 2022-11-15,3630067,https://cdn.www.gob.pe/uploads/document/file/3840022/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2015/11/22.pdf,ok,,2026-10-18T03:57:15Z
-2022-11-16,3630067,https://cdn.www.gob.pe/uploads/document/file/3845662/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/11/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:15Z
-2022-11-17,3630067,https://cdn.www.gob.pe/uploads/document/file/3848522/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2017/11/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:16Z
+2022-11-16,3630067,https://cdn.www.gob.pe/uploads/document/file/3845662/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/11/22.pdf,ok,,2026-10-18T04:15:41Z
+2022-11-17,3630067,https://cdn.www.gob.pe/uploads/document/file/3848522/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2017/11/22.pdf,ok,,2026-10-18T04:15:42Z
 2022-11-18,3630067,https://cdn.www.gob.pe/uploads/document/file/3853080/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2018/11/22.pdf,ok,,2026-10-18T03:57:17Z
 2022-11-21,3630067,https://cdn.www.gob.pe/uploads/document/file/3860229/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-21/11/22.pdf,ok,,2026-10-18T03:57:17Z
 2022-11-22,3630067,https://cdn.www.gob.pe/uploads/document/file/3861023/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/11/22.pdf,ok,,2026-10-18T03:57:18Z
-2022-11-23,3630067,https://cdn.www.gob.pe/uploads/document/file/3869030/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/11/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:19Z
-2022-11-24,3630067,https://cdn.www.gob.pe/uploads/document/file/3872778/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2024/11/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:19Z
+2022-11-23,3630067,https://cdn.www.gob.pe/uploads/document/file/3869030/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/11/22.pdf,ok,,2026-10-18T04:15:42Z
+2022-11-24,3630067,https://cdn.www.gob.pe/uploads/document/file/3872778/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2024/11/22.pdf,ok,,2026-10-18T04:15:43Z
 2022-11-25,3630067,https://cdn.www.gob.pe/uploads/document/file/3877209/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2025/11/22.pdf,ok,,2026-10-18T03:57:20Z
 2022-11-28,3630067,https://cdn.www.gob.pe/uploads/document/file/3884710/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/11/22.pdf,ok,,2026-10-18T03:57:20Z
-2022-11-29,3630067,https://cdn.www.gob.pe/uploads/document/file/3886546/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2029/11/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:21Z
-2022-11-30,3630067,https://cdn.www.gob.pe/uploads/document/file/3892165/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2030/11/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:22Z
-2022-12-01,3702503,https://cdn.www.gob.pe/uploads/document/file/3898592/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/12/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:22Z
+2022-11-29,3630067,https://cdn.www.gob.pe/uploads/document/file/3886546/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2029/11/22.pdf,ok,,2026-10-18T04:15:44Z
+2022-11-30,3630067,https://cdn.www.gob.pe/uploads/document/file/3892165/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2030/11/22.pdf,ok,,2026-10-18T04:15:44Z
+2022-12-01,3702503,https://cdn.www.gob.pe/uploads/document/file/3898592/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/12/22.pdf,ok,,2026-10-18T04:15:45Z
 2022-12-02,3702503,https://cdn.www.gob.pe/uploads/document/file/3902399/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2002/12/22.pdf,ok,,2026-10-18T03:57:23Z
 2022-12-05,3702503,https://cdn.www.gob.pe/uploads/document/file/3907732/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/12/22.pdf,ok,,2026-10-18T03:57:24Z
 2022-12-06,3702503,https://cdn.www.gob.pe/uploads/document/file/3912270/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/12/22.pdf,ok,,2026-10-18T03:57:24Z
 2022-12-07,3702503,https://cdn.www.gob.pe/uploads/document/file/3920754/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2007/12/22.pdf,ok,,2026-10-18T03:57:25Z
 2022-12-12,3702503,https://cdn.www.gob.pe/uploads/document/file/3926742/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/12/22.pdf,ok,,2026-10-18T03:57:26Z
 2022-12-13,3702503,https://cdn.www.gob.pe/uploads/document/file/3930736/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/12/22.pdf,ok,,2026-10-18T03:57:26Z
-2022-12-14,3702503,https://cdn.www.gob.pe/uploads/document/file/3933806/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2014/12/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:27Z
-2022-12-15,3702503,https://cdn.www.gob.pe/uploads/document/file/3941668/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2015/12/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:28Z
+2022-12-14,3702503,https://cdn.www.gob.pe/uploads/document/file/3933806/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2014/12/22.pdf,ok,,2026-10-18T04:15:46Z
+2022-12-15,3702503,https://cdn.www.gob.pe/uploads/document/file/3941668/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2015/12/22.pdf,ok,,2026-10-18T04:15:47Z
 2022-12-16,3702503,https://cdn.www.gob.pe/uploads/document/file/3947900/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/12/22.pdf,ok,,2026-10-18T03:57:28Z
 2022-12-19,3702503,https://cdn.www.gob.pe/uploads/document/file/3950610/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2019/12/22.pdf,ok,,2026-10-18T03:57:29Z
 2022-12-20,3702503,https://cdn.www.gob.pe/uploads/document/file/3958197/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2020/12/22.pdf,ok,,2026-10-18T03:57:30Z
-2022-12-21,3702503,https://cdn.www.gob.pe/uploads/document/file/3964301/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/12/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:30Z
-2022-12-22,3702503,https://cdn.www.gob.pe/uploads/document/file/3971851/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/12/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:31Z
+2022-12-21,3702503,https://cdn.www.gob.pe/uploads/document/file/3964301/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/12/22.pdf,ok,,2026-10-18T04:15:47Z
+2022-12-22,3702503,https://cdn.www.gob.pe/uploads/document/file/3971851/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/12/22.pdf,ok,,2026-10-18T04:15:48Z
 2022-12-23,3702503,https://cdn.www.gob.pe/uploads/document/file/3978019/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/12/22.pdf,ok,,2026-10-18T03:57:32Z
 2022-12-27,3702503,https://cdn.www.gob.pe/uploads/document/file/3991228/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2027/12/22.pdf,ok,,2026-10-18T03:57:33Z
-2022-12-28,3702503,https://cdn.www.gob.pe/uploads/document/file/4004542/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/12/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:33Z
-2022-12-29,3702503,https://cdn.www.gob.pe/uploads/document/file/4007351/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2029/12/22.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:34Z
-2023-01-03,3819343,https://cdn.www.gob.pe/uploads/document/file/4016469/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/01/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:35Z
-2023-01-04,3819343,https://cdn.www.gob.pe/uploads/document/file/4021451/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2004/01/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:35Z
-2023-01-05,3819343,https://cdn.www.gob.pe/uploads/document/file/4023256/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/01/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:36Z
+2022-12-28,3702503,https://cdn.www.gob.pe/uploads/document/file/4004542/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/12/22.pdf,ok,,2026-10-18T04:15:49Z
+2022-12-29,3702503,https://cdn.www.gob.pe/uploads/document/file/4007351/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2029/12/22.pdf,ok,,2026-10-18T04:15:50Z
+2023-01-03,3819343,https://cdn.www.gob.pe/uploads/document/file/4016469/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/01/23.pdf,ok,,2026-10-18T04:15:50Z
+2023-01-04,3819343,https://cdn.www.gob.pe/uploads/document/file/4021451/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2004/01/23.pdf,ok,,2026-10-18T04:15:51Z
+2023-01-05,3819343,https://cdn.www.gob.pe/uploads/document/file/4023256/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/01/23.pdf,ok,,2026-10-18T04:15:52Z
 2023-01-06,3819343,https://cdn.www.gob.pe/uploads/document/file/4027098/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/01/23.pdf,ok,,2026-10-18T03:57:37Z
 2023-01-09,3819343,https://cdn.www.gob.pe/uploads/document/file/4030941/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/01/23.pdf,ok,,2026-10-18T03:57:39Z
 2023-01-10,3819343,https://cdn.www.gob.pe/uploads/document/file/4034625/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2010/01/23.pdf,ok,,2026-10-18T03:57:40Z
-2023-01-11,3819343,https://cdn.www.gob.pe/uploads/document/file/4038146/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2011/01/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:40Z
-2023-01-12,3819343,https://cdn.www.gob.pe/uploads/document/file/4040027/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/01/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:41Z
+2023-01-11,3819343,https://cdn.www.gob.pe/uploads/document/file/4038146/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2011/01/23.pdf,ok,,2026-10-18T04:15:52Z
+2023-01-12,3819343,https://cdn.www.gob.pe/uploads/document/file/4040027/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/01/23.pdf,ok,,2026-10-18T04:15:53Z
 2023-01-13,3819343,https://cdn.www.gob.pe/uploads/document/file/4042864/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/01/23.pdf,ok,,2026-10-18T03:57:41Z
 2023-01-16,3819343,https://cdn.www.gob.pe/uploads/document/file/4046428/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/01/23.pdf,ok,,2026-10-18T03:57:42Z
 2023-01-17,3819343,https://cdn.www.gob.pe/uploads/document/file/4050008/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2017/01/23.pdf,ok,,2026-10-18T03:57:43Z
-2023-01-18,3819343,https://cdn.www.gob.pe/uploads/document/file/4054505/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2018/01/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:45Z
+2023-01-18,3819343,https://cdn.www.gob.pe/uploads/document/file/4054505/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2018/01/23.pdf,ok,,2026-10-18T04:15:54Z
 2023-01-19,3819343,https://cdn.www.gob.pe/uploads/document/file/4056264/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2019/01/23.pdf,ok,,2026-10-18T03:57:45Z
 2023-01-20,3819343,https://cdn.www.gob.pe/uploads/document/file/4057038/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2020/01/23.pdf,ok,,2026-10-18T03:57:46Z
 2023-01-23,3819343,https://cdn.www.gob.pe/uploads/document/file/4061364/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/01/23.pdf,ok,,2026-10-18T03:57:47Z
 2023-01-24,3819343,https://cdn.www.gob.pe/uploads/document/file/4069400/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2024/01/23.pdf,ok,,2026-10-18T03:57:47Z
-2023-01-25,3819343,https://cdn.www.gob.pe/uploads/document/file/4069401/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2025/01/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:48Z
+2023-01-25,3819343,https://cdn.www.gob.pe/uploads/document/file/4069401/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2025/01/23.pdf,ok,,2026-10-18T04:15:54Z
 2023-01-26,3819343,https://cdn.www.gob.pe/uploads/document/file/4077304/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2026/01/23.pdf,ok,,2026-10-18T03:57:48Z
 2023-01-27,3819343,https://cdn.www.gob.pe/uploads/document/file/4077305/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2027/01/23.pdf,ok,,2026-10-18T03:57:49Z
 2023-01-30,3819343,https://cdn.www.gob.pe/uploads/document/file/4078279/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2030/01/23.pdf,ok,,2026-10-18T03:57:51Z
 2023-01-31,3819343,https://cdn.www.gob.pe/uploads/document/file/4083109/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2031/01/23.pdf,ok,,2026-10-18T03:57:52Z
-2023-02-01,3868752,https://cdn.www.gob.pe/uploads/document/file/4094503/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/02/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:52Z
-2023-02-02,3868752,https://cdn.www.gob.pe/uploads/document/file/4094502/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2002/02/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:53Z
+2023-02-01,3868752,https://cdn.www.gob.pe/uploads/document/file/4094503/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/02/23.pdf,ok,,2026-10-18T04:15:55Z
+2023-02-02,3868752,https://cdn.www.gob.pe/uploads/document/file/4094502/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2002/02/23.pdf,ok,,2026-10-18T04:15:56Z
 2023-02-03,3868752,https://cdn.www.gob.pe/uploads/document/file/4094501/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/02/23.pdf,ok,,2026-10-18T03:57:54Z
 2023-02-06,3868752,https://cdn.www.gob.pe/uploads/document/file/4085681/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/02/23.pdf,ok,,2026-10-18T03:57:54Z
-2023-02-07,3868752,https://cdn.www.gob.pe/uploads/document/file/4098242/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2007/02/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:55Z
-2023-02-08,3868752,https://cdn.www.gob.pe/uploads/document/file/4100997/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/02/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:56Z
-2023-02-09,3868752,https://cdn.www.gob.pe/uploads/document/file/4105240/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/02/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:57:57Z
+2023-02-07,3868752,https://cdn.www.gob.pe/uploads/document/file/4098242/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2007/02/23.pdf,ok,,2026-10-18T04:15:56Z
+2023-02-08,3868752,https://cdn.www.gob.pe/uploads/document/file/4100997/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/02/23.pdf,ok,,2026-10-18T04:15:58Z
+2023-02-09,3868752,https://cdn.www.gob.pe/uploads/document/file/4105240/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/02/23.pdf,ok,,2026-10-18T04:15:59Z
 2023-02-10,3868752,https://cdn.www.gob.pe/uploads/document/file/4112679/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2010/02/23.pdf,ok,,2026-10-18T03:57:57Z
 2023-02-13,3868752,https://cdn.www.gob.pe/uploads/document/file/4117711/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/02/23.pdf,ok,,2026-10-18T03:57:58Z
 2023-02-14,3868752,https://cdn.www.gob.pe/uploads/document/file/4121248/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2014/02/23.pdf,ok,,2026-10-18T03:57:59Z
-2023-02-15,3868752,https://cdn.www.gob.pe/uploads/document/file/4124451/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2015/02/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:00Z
-2023-02-16,3868752,https://cdn.www.gob.pe/uploads/document/file/4134568/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/02/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:01Z
+2023-02-15,3868752,https://cdn.www.gob.pe/uploads/document/file/4124451/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2015/02/23.pdf,ok,,2026-10-18T04:15:59Z
+2023-02-16,3868752,https://cdn.www.gob.pe/uploads/document/file/4134568/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/02/23.pdf,ok,,2026-10-18T04:16:00Z
 2023-02-17,3868752,https://cdn.www.gob.pe/uploads/document/file/4138514/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2017/02/23.pdf,ok,,2026-10-18T03:58:01Z
 2023-02-20,3868752,https://cdn.www.gob.pe/uploads/document/file/4149411/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2020/02/23.pdf,ok,,2026-10-18T03:58:02Z
-2023-02-21,3868752,https://cdn.www.gob.pe/uploads/document/file/4158772/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/02/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:03Z
-2023-02-22,3868752,https://cdn.www.gob.pe/uploads/document/file/4164016/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/02/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:04Z
-2023-02-23,3868752,https://cdn.www.gob.pe/uploads/document/file/4168466/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/02/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:04Z
+2023-02-21,3868752,https://cdn.www.gob.pe/uploads/document/file/4158772/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/02/23.pdf,descartado,el PDF no contiene la tabla de precios del pollo,2026-10-18T04:16:01Z
+2023-02-22,3868752,https://cdn.www.gob.pe/uploads/document/file/4164016/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/02/23.pdf,ok,,2026-10-18T04:16:02Z
+2023-02-23,3868752,https://cdn.www.gob.pe/uploads/document/file/4168466/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/02/23.pdf,ok,,2026-10-18T04:16:02Z
 2023-02-24,3868752,https://cdn.www.gob.pe/uploads/document/file/4178908/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2024/02/23.pdf,ok,,2026-10-18T03:58:05Z
 2023-02-27,3868752,https://cdn.www.gob.pe/uploads/document/file/4201153/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2027/02/23.pdf,ok,,2026-10-18T03:58:06Z
-2023-02-28,3868752,https://cdn.www.gob.pe/uploads/document/file/4201689/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/02/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:06Z
-2023-03-01,3960138,https://cdn.www.gob.pe/uploads/document/file/4206063/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/03/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:07Z
-2023-03-02,3960138,https://cdn.www.gob.pe/uploads/document/file/4209770/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2002/03/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:08Z
+2023-02-28,3868752,https://cdn.www.gob.pe/uploads/document/file/4201689/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/02/23.pdf,ok,,2026-10-18T04:16:03Z
+2023-03-01,3960138,https://cdn.www.gob.pe/uploads/document/file/4206063/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/03/23.pdf,ok,,2026-10-18T04:16:04Z
+2023-03-02,3960138,https://cdn.www.gob.pe/uploads/document/file/4209770/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2002/03/23.pdf,ok,,2026-10-18T04:16:05Z
 2023-03-03,3960138,https://cdn.www.gob.pe/uploads/document/file/4216972/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/03/23.pdf,ok,,2026-10-18T03:58:08Z
 2023-03-06,3960138,https://cdn.www.gob.pe/uploads/document/file/4222059/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/03/23.pdf,ok,,2026-10-18T03:58:09Z
-2023-03-07,3960138,https://cdn.www.gob.pe/uploads/document/file/4227344/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2007/03/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:10Z
-2023-03-08,3960138,https://cdn.www.gob.pe/uploads/document/file/4232619/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/03/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:10Z
-2023-03-09,3960138,https://cdn.www.gob.pe/uploads/document/file/4234780/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/03/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:11Z
+2023-03-07,3960138,https://cdn.www.gob.pe/uploads/document/file/4227344/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2007/03/23.pdf,ok,,2026-10-18T04:16:06Z
+2023-03-08,3960138,https://cdn.www.gob.pe/uploads/document/file/4232619/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/03/23.pdf,ok,,2026-10-18T04:16:07Z
+2023-03-09,3960138,https://cdn.www.gob.pe/uploads/document/file/4234780/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/03/23.pdf,ok,,2026-10-18T04:16:07Z
 2023-03-10,3960138,https://cdn.www.gob.pe/uploads/document/file/4241888/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2010/03/23.pdf,ok,,2026-10-18T03:58:11Z
 2023-03-13,3960138,https://cdn.www.gob.pe/uploads/document/file/4248673/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/03/23.pdf,ok,,2026-10-18T03:58:12Z
-2023-03-14,3960138,https://cdn.www.gob.pe/uploads/document/file/4254371/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2014/03/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:13Z
+2023-03-14,3960138,https://cdn.www.gob.pe/uploads/document/file/4254371/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2014/03/23.pdf,ok,,2026-10-18T04:16:08Z
 2023-03-15,3960138,https://cdn.www.gob.pe/uploads/document/file/4261749/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2015/03/23.pdf,ok,,2026-10-18T03:58:14Z
-2023-03-16,3960138,https://cdn.www.gob.pe/uploads/document/file/4272354/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/03/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:14Z
+2023-03-16,3960138,https://cdn.www.gob.pe/uploads/document/file/4272354/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/03/23.pdf,ok,,2026-10-18T04:16:09Z
 2023-03-17,3960138,https://cdn.www.gob.pe/uploads/document/file/4278359/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2017/03/23.pdf,ok,,2026-10-18T03:58:15Z
 2023-03-20,3960138,https://cdn.www.gob.pe/uploads/document/file/4295458/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2020/03/23.pdf,ok,,2026-10-18T03:58:15Z
-2023-03-21,3960138,https://cdn.www.gob.pe/uploads/document/file/4304138/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/03/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:16Z
-2023-03-22,3960138,https://cdn.www.gob.pe/uploads/document/file/4306840/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/03/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:17Z
-2023-03-23,3960138,https://cdn.www.gob.pe/uploads/document/file/4312112/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/03/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:17Z
+2023-03-21,3960138,https://cdn.www.gob.pe/uploads/document/file/4304138/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/03/23.pdf,ok,,2026-10-18T04:16:10Z
+2023-03-22,3960138,https://cdn.www.gob.pe/uploads/document/file/4306840/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/03/23.pdf,ok,,2026-10-18T04:16:10Z
+2023-03-23,3960138,https://cdn.www.gob.pe/uploads/document/file/4312112/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/03/23.pdf,ok,,2026-10-18T04:16:11Z
 2023-03-24,3960138,https://cdn.www.gob.pe/uploads/document/file/4321818/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2024/03/23.pdf,ok,,2026-10-18T03:58:18Z
 2023-03-27,3960138,https://cdn.www.gob.pe/uploads/document/file/4330713/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2027/03/23.pdf,ok,,2026-10-18T03:58:19Z
-2023-03-28,3960138,https://cdn.www.gob.pe/uploads/document/file/4335283/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/03/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:19Z
-2023-03-29,3960138,https://cdn.www.gob.pe/uploads/document/file/4341504/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2029/03/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:20Z
-2023-03-30,3960138,https://cdn.www.gob.pe/uploads/document/file/4360441/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2030/03/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:21Z
+2023-03-28,3960138,https://cdn.www.gob.pe/uploads/document/file/4335283/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2028/03/23.pdf,ok,,2026-10-18T04:16:12Z
+2023-03-29,3960138,https://cdn.www.gob.pe/uploads/document/file/4341504/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2029/03/23.pdf,ok,,2026-10-18T04:16:12Z
+2023-03-30,3960138,https://cdn.www.gob.pe/uploads/document/file/4360441/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2030/03/23.pdf,ok,,2026-10-18T04:16:13Z
 2023-03-31,3960138,https://cdn.www.gob.pe/uploads/document/file/4388303/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2031/03/23.pdf,ok,,2026-10-18T03:58:21Z
 2023-04-03,4102792,https://cdn.www.gob.pe/uploads/document/file/4406811/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/04/23.pdf,ok,,2026-10-18T03:58:22Z
-2023-04-04,4102792,https://cdn.www.gob.pe/uploads/document/file/4400773/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2004/04/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:22Z
-2023-04-05,4102792,https://cdn.www.gob.pe/uploads/document/file/4396069/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/04/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:23Z
+2023-04-04,4102792,https://cdn.www.gob.pe/uploads/document/file/4400773/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2004/04/23.pdf,ok,,2026-10-18T04:16:14Z
+2023-04-05,4102792,https://cdn.www.gob.pe/uploads/document/file/4396069/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/04/23.pdf,ok,,2026-10-18T04:16:14Z
 2023-04-10,4102792,https://cdn.www.gob.pe/uploads/document/file/4413634/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2010/04/23.pdf,ok,,2026-10-18T03:58:24Z
-2023-04-11,4102792,https://cdn.www.gob.pe/uploads/document/file/4419887/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2011/04/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:24Z
-2023-04-12,4102792,https://cdn.www.gob.pe/uploads/document/file/4428112/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/04/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:25Z
-2023-04-13,4102792,https://cdn.www.gob.pe/uploads/document/file/4428113/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/04/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:26Z
+2023-04-11,4102792,https://cdn.www.gob.pe/uploads/document/file/4419887/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2011/04/23.pdf,ok,,2026-10-18T04:16:15Z
+2023-04-12,4102792,https://cdn.www.gob.pe/uploads/document/file/4428112/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/04/23.pdf,ok,,2026-10-18T04:16:17Z
+2023-04-13,4102792,https://cdn.www.gob.pe/uploads/document/file/4428113/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/04/23.pdf,ok,,2026-10-18T04:16:18Z
 2023-04-14,4102792,https://cdn.www.gob.pe/uploads/document/file/4434347/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2014/04/23.pdf,ok,,2026-10-18T03:58:26Z
 2023-04-17,4102792,https://cdn.www.gob.pe/uploads/document/file/4442037/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2017/04/23.pdf,ok,,2026-10-18T03:58:28Z
-2023-04-18,4102792,https://cdn.www.gob.pe/uploads/document/file/4448754/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2018/04/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:29Z
-2023-04-19,4102792,https://cdn.www.gob.pe/uploads/document/file/4454935/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2019/04/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:29Z
-2023-04-20,4102792,https://cdn.www.gob.pe/uploads/document/file/4460507/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2020/04/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:30Z
+2023-04-18,4102792,https://cdn.www.gob.pe/uploads/document/file/4448754/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2018/04/23.pdf,ok,,2026-10-18T04:16:19Z
+2023-04-19,4102792,https://cdn.www.gob.pe/uploads/document/file/4454935/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2019/04/23.pdf,ok,,2026-10-18T04:16:20Z
+2023-04-20,4102792,https://cdn.www.gob.pe/uploads/document/file/4460507/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2020/04/23.pdf,ok,,2026-10-18T04:16:22Z
 2023-04-21,4102792,https://cdn.www.gob.pe/uploads/document/file/4465219/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/04/23.pdf,ok,,2026-10-18T03:58:31Z
 2023-04-24,4102792,https://cdn.www.gob.pe/uploads/document/file/4473248/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2024/04/23.pdf,ok,,2026-10-18T03:58:31Z
-2023-04-25,4102792,https://cdn.www.gob.pe/uploads/document/file/4478737/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2025/04/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:33Z
-2023-04-26,4102792,https://cdn.www.gob.pe/uploads/document/file/4483883/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2026/04/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:34Z
-2023-04-27,4102792,https://cdn.www.gob.pe/uploads/document/file/4488349/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2027/04/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:36Z
-2023-05-02,4178277,https://cdn.www.gob.pe/uploads/document/file/4581846/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2002/05/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:37Z
-2023-05-03,4178277,https://cdn.www.gob.pe/uploads/document/file/4515059/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/05/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:37Z
-2023-05-04,4178277,https://cdn.www.gob.pe/uploads/document/file/4515060/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2004/05/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:38Z
+2023-04-25,4102792,https://cdn.www.gob.pe/uploads/document/file/4478737/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2025/04/23.pdf,ok,,2026-10-18T04:16:23Z
+2023-04-26,4102792,https://cdn.www.gob.pe/uploads/document/file/4483883/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2026/04/23.pdf,ok,,2026-10-18T04:16:25Z
+2023-04-27,4102792,https://cdn.www.gob.pe/uploads/document/file/4488349/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2027/04/23.pdf,ok,,2026-10-18T04:16:25Z
+2023-05-02,4178277,https://cdn.www.gob.pe/uploads/document/file/4581846/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2002/05/23.pdf,ok,,2026-10-18T04:16:26Z
+2023-05-03,4178277,https://cdn.www.gob.pe/uploads/document/file/4515059/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/05/23.pdf,ok,,2026-10-18T04:16:27Z
+2023-05-04,4178277,https://cdn.www.gob.pe/uploads/document/file/4515060/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2004/05/23.pdf,ok,,2026-10-18T04:16:28Z
 2023-05-05,4178277,https://cdn.www.gob.pe/uploads/document/file/4520097/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/05/23.pdf,ok,,2026-10-18T03:58:39Z
 2023-05-08,4178277,https://cdn.www.gob.pe/uploads/document/file/4535596/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/05/23.pdf,ok,,2026-10-18T03:58:41Z
-2023-05-09,4178277,https://cdn.www.gob.pe/uploads/document/file/4535610/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/05/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:41Z
-2023-05-10,4178277,https://cdn.www.gob.pe/uploads/document/file/4560009/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2010/05/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:42Z
-2023-05-11,4178277,https://cdn.www.gob.pe/uploads/document/file/4560008/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2011/05/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:43Z
+2023-05-09,4178277,https://cdn.www.gob.pe/uploads/document/file/4535610/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/05/23.pdf,ok,,2026-10-18T04:16:28Z
+2023-05-10,4178277,https://cdn.www.gob.pe/uploads/document/file/4560009/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2010/05/23.pdf,ok,,2026-10-18T04:16:29Z
+2023-05-11,4178277,https://cdn.www.gob.pe/uploads/document/file/4560008/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2011/05/23.pdf,ok,,2026-10-18T04:16:30Z
 2023-05-12,4178277,https://cdn.www.gob.pe/uploads/document/file/4560007/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/05/23.pdf,ok,,2026-10-18T03:58:43Z
 2023-05-15,4178277,https://cdn.www.gob.pe/uploads/document/file/4561047/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2015/05/23.pdf,ok,,2026-10-18T03:58:44Z
 2023-05-16,4178277,https://cdn.www.gob.pe/uploads/document/file/4566948/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/05/23.pdf,ok,,2026-10-18T03:58:45Z
-2023-05-17,4178277,https://cdn.www.gob.pe/uploads/document/file/4571440/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2017/05/23.pdf,cuarentena,precio portada 8.37 vs tabla [7.97],2026-10-18T03:58:45Z
+2023-05-17,4178277,https://cdn.www.gob.pe/uploads/document/file/4571440/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2017/05/23.pdf,cuarentena,precio portada 8.37 vs tabla [7.97],2026-10-18T04:16:30Z
 2023-05-18,4178277,https://cdn.www.gob.pe/uploads/document/file/4576380/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2018/05/23.pdf,ok,,2026-10-18T03:58:46Z
 2023-05-19,4178277,https://cdn.www.gob.pe/uploads/document/file/4581847/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2019/05/23.pdf,ok,,2026-10-18T03:58:47Z
 2023-05-22,4178277,https://cdn.www.gob.pe/uploads/document/file/4597281/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/05/23.pdf,ok,,2026-10-18T03:58:48Z
-2023-05-23,4178277,https://cdn.www.gob.pe/uploads/document/file/4597282/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/05/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:48Z
-2023-05-24,4178277,https://cdn.www.gob.pe/uploads/document/file/4599414/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2024/05/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:49Z
-2023-05-25,4178277,https://cdn.www.gob.pe/uploads/document/file/4610598/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2025/05/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:50Z
-2023-05-26,4178277,https://cdn.www.gob.pe/uploads/document/file/4628097/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-26/05/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:50Z
-2023-05-29,4178277,https://cdn.www.gob.pe/uploads/document/file/4628098/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2029/05/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:52Z
-2023-05-30,4178277,https://cdn.www.gob.pe/uploads/document/file/4629266/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2030/05/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:53Z
-2023-05-31,4178277,https://cdn.www.gob.pe/uploads/document/file/4640517/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2031/05/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:53Z
-2023-06-01,4284390,https://cdn.www.gob.pe/uploads/document/file/4642933/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/06/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:54Z
-2023-06-02,4284390,https://cdn.www.gob.pe/uploads/document/file/4642932/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2002/06/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:55Z
+2023-05-23,4178277,https://cdn.www.gob.pe/uploads/document/file/4597282/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/05/23.pdf,ok,,2026-10-18T04:16:31Z
+2023-05-24,4178277,https://cdn.www.gob.pe/uploads/document/file/4599414/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2024/05/23.pdf,ok,,2026-10-18T04:16:32Z
+2023-05-25,4178277,https://cdn.www.gob.pe/uploads/document/file/4610598/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2025/05/23.pdf,ok,,2026-10-18T04:16:33Z
+2023-05-26,4178277,https://cdn.www.gob.pe/uploads/document/file/4628097/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-26/05/23.pdf,ok,,2026-10-18T04:16:33Z
+2023-05-29,4178277,https://cdn.www.gob.pe/uploads/document/file/4628098/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2029/05/23.pdf,ok,,2026-10-18T04:16:34Z
+2023-05-30,4178277,https://cdn.www.gob.pe/uploads/document/file/4629266/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2030/05/23.pdf,ok,,2026-10-18T04:16:35Z
+2023-05-31,4178277,https://cdn.www.gob.pe/uploads/document/file/4640517/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2031/05/23.pdf,ok,,2026-10-18T04:16:36Z
+2023-06-01,4284390,https://cdn.www.gob.pe/uploads/document/file/4642933/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/06/23.pdf,ok,,2026-10-18T04:16:36Z
+2023-06-02,4284390,https://cdn.www.gob.pe/uploads/document/file/4642932/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2002/06/23.pdf,ok,,2026-10-18T04:16:37Z
 2023-06-05,4284390,https://cdn.www.gob.pe/uploads/document/file/4652945/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2005/06/23.pdf,ok,,2026-10-18T03:58:55Z
-2023-06-06,4284390,https://cdn.www.gob.pe/uploads/document/file/4655036/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/06/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:56Z
+2023-06-06,4284390,https://cdn.www.gob.pe/uploads/document/file/4655036/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/06/23.pdf,ok,,2026-10-18T04:16:38Z
 2023-06-07,4284390,https://cdn.www.gob.pe/uploads/document/file/4658530/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2007/06/23.pdf,ok,,2026-10-18T03:58:57Z
 2023-06-08,4284390,https://cdn.www.gob.pe/uploads/document/file/4663142/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/06/23.pdf,ok,,2026-10-18T03:58:57Z
 2023-06-09,4284390,https://cdn.www.gob.pe/uploads/document/file/4667681/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2009/06/23.pdf,ok,,2026-10-18T03:58:58Z
-2023-06-12,4284390,https://cdn.www.gob.pe/uploads/document/file/4673826/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/06/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:59Z
-2023-06-13,4284390,https://cdn.www.gob.pe/uploads/document/file/4681977/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/06/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:58:59Z
-2023-06-14,4284390,https://cdn.www.gob.pe/uploads/document/file/4684439/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2014/06/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:59:00Z
-2023-06-15,4284390,https://cdn.www.gob.pe/uploads/document/file/4689532/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2015/06/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:59:01Z
-2023-06-16,4284390,https://cdn.www.gob.pe/uploads/document/file/4705467/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/06/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:59:01Z
-2023-06-19,4284390,https://cdn.www.gob.pe/uploads/document/file/4705468/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2019/06/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:59:02Z
-2023-06-20,4284390,https://cdn.www.gob.pe/uploads/document/file/4708127/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2020/06/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:59:03Z
+2023-06-12,4284390,https://cdn.www.gob.pe/uploads/document/file/4673826/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2012/06/23.pdf,ok,,2026-10-18T04:16:38Z
+2023-06-13,4284390,https://cdn.www.gob.pe/uploads/document/file/4681977/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2013/06/23.pdf,ok,,2026-10-18T04:16:39Z
+2023-06-14,4284390,https://cdn.www.gob.pe/uploads/document/file/4684439/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2014/06/23.pdf,ok,,2026-10-18T04:16:41Z
+2023-06-15,4284390,https://cdn.www.gob.pe/uploads/document/file/4689532/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2015/06/23.pdf,ok,,2026-10-18T04:16:42Z
+2023-06-16,4284390,https://cdn.www.gob.pe/uploads/document/file/4705467/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2016/06/23.pdf,ok,,2026-10-18T04:16:42Z
+2023-06-19,4284390,https://cdn.www.gob.pe/uploads/document/file/4705468/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2019/06/23.pdf,ok,,2026-10-18T04:16:43Z
+2023-06-20,4284390,https://cdn.www.gob.pe/uploads/document/file/4708127/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2020/06/23.pdf,ok,,2026-10-18T04:16:44Z
 2023-06-21,4284390,https://cdn.www.gob.pe/uploads/document/file/4714391/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/06/23.pdf,ok,,2026-10-18T03:59:03Z
 2023-06-22,4284390,https://cdn.www.gob.pe/uploads/document/file/4723611/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2022/06/23.pdf,ok,,2026-10-18T03:59:04Z
 2023-06-23,4284390,https://cdn.www.gob.pe/uploads/document/file/4760788/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2023/06/23.pdf,ok,,2026-10-18T03:59:06Z
@@ -948,7 +948,7 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2023-07-24,4392392,https://cdn.www.gob.pe/uploads/document/file/4898443/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2024/07/23.pdf,ok,,2026-10-18T03:59:18Z
 2023-07-25,4392392,https://cdn.www.gob.pe/uploads/document/file/4922702/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2025/07/23.pdf,ok,,2026-10-18T03:59:19Z
 2023-07-26,4392392,https://cdn.www.gob.pe/uploads/document/file/4922703/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2026/07/23.pdf,ok,,2026-10-18T03:59:20Z
-2023-07-31,4392392,https://cdn.www.gob.pe/uploads/document/file/4922704/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2031/07/23.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:59:20Z
+2023-07-31,4392392,https://cdn.www.gob.pe/uploads/document/file/4922704/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2031/07/23.pdf,ok,,2026-10-18T04:16:44Z
 2023-08-01,4484922,https://cdn.www.gob.pe/uploads/document/file/4930041/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2001/08/23.pdf,ok,,2026-10-18T03:59:21Z
 2023-08-02,4484922,https://cdn.www.gob.pe/uploads/document/file/4933550/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2002/08/23.pdf,ok,,2026-10-18T03:59:22Z
 2023-08-03,4484922,https://cdn.www.gob.pe/uploads/document/file/4940226/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/08/23.pdf,ok,,2026-10-18T03:59:22Z
@@ -1085,11 +1085,11 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2024-02-14,5141955,https://cdn.www.gob.pe/uploads/document/file/5860880/5141955-boletin-de-abastecimiento-y-precios-de-aves-14-02-2024.pdf,ok,,2026-10-18T04:01:26Z
 2024-02-15,5141955,https://cdn.www.gob.pe/uploads/document/file/5865141/5141955-boletin-de-abastecimiento-y-precios-de-aves-15-02-2024.pdf,ok,,2026-10-18T04:01:28Z
 2024-02-16,5141955,https://cdn.www.gob.pe/uploads/document/file/5869969/5141955-boletin-de-abastecimiento-y-precios-de-aves-16-02-2024.pdf,ok,,2026-10-18T04:01:28Z
-2024-02-19,5141955,https://cdn.www.gob.pe/uploads/document/file/5884001/5141955-boletin-de-abastecimiento-y-precios-de-aves-19-02-2024.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T04:01:29Z
+2024-02-19,5141955,https://cdn.www.gob.pe/uploads/document/file/5884001/5141955-boletin-de-abastecimiento-y-precios-de-aves-19-02-2024.pdf,descartado,el PDF no contiene la tabla de precios del pollo,2026-10-18T04:16:45Z
 2024-02-20,5141955,https://cdn.www.gob.pe/uploads/document/file/5892546/5141955-boletin-de-abastecimiento-y-precios-de-aves-20-02-2024.pdf,ok,,2026-10-18T04:01:30Z
-2024-02-21,5141955,https://cdn.www.gob.pe/uploads/document/file/5899175/5141955-boletin-de-abastecimiento-y-precios-de-aves-21-02-2024.pdf,cuarentena,precio portada 7.22 vs tabla [7.52],2026-10-18T04:01:30Z
+2024-02-21,5141955,https://cdn.www.gob.pe/uploads/document/file/5899175/5141955-boletin-de-abastecimiento-y-precios-de-aves-21-02-2024.pdf,cuarentena,precio portada 7.22 vs tabla [7.52],2026-10-18T04:16:46Z
 2024-02-22,5141955,https://cdn.www.gob.pe/uploads/document/file/5912231/5141955-boletin-de-abastecimiento-y-precios-de-aves-22-02-2024.pdf,ok,,2026-10-18T04:01:31Z
-2024-02-23,5141955,https://cdn.www.gob.pe/uploads/document/file/5929417/5141955-boletin-de-abastecimiento-y-precios-de-aves-23-02-2024.pdf,cuarentena,IndexError: list index out of range,2026-10-18T04:01:32Z
+2024-02-23,5141955,https://cdn.www.gob.pe/uploads/document/file/5929417/5141955-boletin-de-abastecimiento-y-precios-de-aves-23-02-2024.pdf,cuarentena,IndexError: list index out of range,2026-10-18T04:16:47Z
 2024-02-26,5141955,https://cdn.www.gob.pe/uploads/document/file/5936386/5141955-boletin-de-abastecimiento-y-precios-de-aves-26-02-2024.pdf,ok,,2026-10-18T04:01:33Z
 2024-02-27,5141955,https://cdn.www.gob.pe/uploads/document/file/5940864/5141955-boletin-de-abastecimiento-y-precios-de-aves-27-02-2024.pdf,ok,,2026-10-18T04:01:35Z
 2024-02-28,5141955,https://cdn.www.gob.pe/uploads/document/file/5947617/5141955-boletin-de-abastecimiento-y-precios-de-aves-28-02-2024.pdf,ok,,2026-10-18T04:01:36Z
@@ -1105,13 +1105,13 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2024-03-13,5283981,https://cdn.www.gob.pe/uploads/document/file/6041429/5283981-boletin-de-abastecimiento-y-precios-de-aves-13-03-2024.pdf,ok,,2026-10-18T04:01:47Z
 2024-03-14,5283981,https://cdn.www.gob.pe/uploads/document/file/6051110/5283981-boletin-de-abastecimiento-y-precios-de-aves-14-03-2024.pdf,ok,,2026-10-18T04:01:48Z
 2024-03-15,5283981,https://cdn.www.gob.pe/uploads/document/file/6066809/5283981-boletin-de-abastecimiento-y-precios-de-aves-15-03-2024.pdf,ok,,2026-10-18T04:01:49Z
-2024-03-18,5283981,https://cdn.www.gob.pe/uploads/document/file/6077131/5283981-boletin-de-abastecimiento-y-precios-de-aves-18-03-2024.pdf,cuarentena,IndexError: list index out of range,2026-10-18T04:01:51Z
+2024-03-18,5283981,https://cdn.www.gob.pe/uploads/document/file/6077131/5283981-boletin-de-abastecimiento-y-precios-de-aves-18-03-2024.pdf,cuarentena,IndexError: list index out of range,2026-10-18T04:16:48Z
 2024-03-19,5283981,https://cdn.www.gob.pe/uploads/document/file/6087775/5283981-boletin-de-abastecimiento-y-precios-de-aves-19-03-2024.pdf,ok,,2026-10-18T04:01:53Z
 2024-03-20,5283981,https://cdn.www.gob.pe/uploads/document/file/6087774/5283981-boletin-de-abastecimiento-y-precios-de-aves-20-03-2024.pdf,ok,,2026-10-18T04:01:54Z
 2024-03-21,5283981,https://cdn.www.gob.pe/uploads/document/file/6091011/5283981-boletin-de-abastecimiento-y-precios-de-aves-21-03-2024.pdf,ok,,2026-10-18T04:01:56Z
 2024-03-22,5283981,https://cdn.www.gob.pe/uploads/document/file/6102406/5283981-boletin-de-abastecimiento-y-precios-de-aves-22-03-2024.pdf,ok,,2026-10-18T04:01:57Z
 2024-03-25,5283981,https://cdn.www.gob.pe/uploads/document/file/6117598/5283981-boletin-de-abastecimiento-y-precios-de-aves-25-03-2024.pdf,ok,,2026-10-18T04:01:57Z
-2024-03-26,5283981,https://cdn.www.gob.pe/uploads/document/file/6117599/5283981-boletin-de-abastecimiento-y-precios-de-aves-26-03-2024.pdf,cuarentena,IndexError: list index out of range,2026-10-18T04:01:58Z
+2024-03-26,5283981,https://cdn.www.gob.pe/uploads/document/file/6117599/5283981-boletin-de-abastecimiento-y-precios-de-aves-26-03-2024.pdf,cuarentena,IndexError: list index out of range,2026-10-18T04:16:49Z
 2024-03-27,5283981,https://cdn.www.gob.pe/uploads/document/file/6125525/5283981-boletin-de-abastecimiento-y-precios-de-aves-27-03-2024.pdf,ok,,2026-10-18T04:01:58Z
 2024-04-01,5415684,https://cdn.www.gob.pe/uploads/document/file/6128660/5415684-boletin-de-abastecimiento-y-precios-de-aves-01-04-2024.pdf,ok,,2026-10-18T04:02:00Z
 2024-04-02,5415684,https://cdn.www.gob.pe/uploads/document/file/6133610/5415684-boletin-de-abastecimiento-y-precios-de-aves-02-04-2024.pdf,ok,,2026-10-18T04:02:02Z
@@ -1144,7 +1144,7 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2024-05-10,5520742,https://cdn.www.gob.pe/uploads/document/file/6334847/5520742-boletin-de-abastecimiento-y-precios-de-aves-10-05-2024.pdf,ok,,2026-10-18T04:02:30Z
 2024-05-13,5520742,https://cdn.www.gob.pe/uploads/document/file/6339641/5520742-boletin-de-abastecimiento-y-precios-de-aves-13-05-2024.pdf,ok,,2026-10-18T04:02:31Z
 2024-05-14,5520742,https://cdn.www.gob.pe/uploads/document/file/6346820/5520742-boletin-de-abastecimiento-y-precios-de-aves-14-05-2024.pdf,ok,,2026-10-18T04:02:32Z
-2024-05-15,5520742,https://cdn.www.gob.pe/uploads/document/file/6353162/5520742-boletin-de-abastecimiento-y-precios-de-aves-15-05-2024.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T04:02:32Z
+2024-05-15,5520742,https://cdn.www.gob.pe/uploads/document/file/6353162/5520742-boletin-de-abastecimiento-y-precios-de-aves-15-05-2024.pdf,ok,,2026-10-18T04:16:49Z
 2024-05-16,5520742,https://cdn.www.gob.pe/uploads/document/file/6363683/5520742-boletin-de-abastecimiento-y-precios-de-aves-16-05-2024.pdf,ok,,2026-10-18T04:02:33Z
 2024-05-17,5520742,https://cdn.www.gob.pe/uploads/document/file/6368385/5520742-boletin-de-abastecimiento-y-precios-de-aves-17-05-2024.pdf,ok,,2026-10-18T04:02:33Z
 2024-05-20,5520742,https://cdn.www.gob.pe/uploads/document/file/6372744/5520742-boletin-de-abastecimiento-y-precios-de-aves-20-05-2024.pdf,ok,,2026-10-18T04:02:34Z
@@ -1158,7 +1158,7 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2024-05-30,5520742,https://cdn.www.gob.pe/uploads/document/file/6421972/5520742-boletin-de-abastecimiento-y-precios-de-aves-30-05-2024.pdf,ok,,2026-10-18T04:02:40Z
 2024-05-31,5520742,https://cdn.www.gob.pe/uploads/document/file/6430429/5520742-boletin-de-abastecimiento-y-precios-de-aves-31-05-2024.pdf,ok,,2026-10-18T04:02:41Z
 2024-06-03,5630204,https://cdn.www.gob.pe/uploads/document/file/6434536/5630204-boletin-de-abastecimiento-y-precios-de-aves-03-06-2024.pdf,ok,,2026-10-18T04:02:42Z
-2024-06-04,5630204,https://cdn.www.gob.pe/uploads/document/file/6443861/5630204-boletin-de-abastecimiento-y-precios-de-aves-04-06-2024.pdf,cuarentena,IndexError: list index out of range,2026-10-18T04:02:42Z
+2024-06-04,5630204,https://cdn.www.gob.pe/uploads/document/file/6443861/5630204-boletin-de-abastecimiento-y-precios-de-aves-04-06-2024.pdf,cuarentena,IndexError: list index out of range,2026-10-18T04:16:50Z
 2024-06-05,5630204,https://cdn.www.gob.pe/uploads/document/file/6447447/5630204-boletin-de-abastecimiento-y-precios-de-aves-05-06-2024.pdf,ok,,2026-10-18T04:02:44Z
 2024-06-06,5630204,https://cdn.www.gob.pe/uploads/document/file/6452809/5630204-boletin-de-abastecimiento-y-precios-de-aves-06-06-2024.pdf,ok,,2026-10-18T04:02:45Z
 2024-06-10,5630204,https://cdn.www.gob.pe/uploads/document/file/6465239/5630204-boletin-de-abastecimiento-y-precios-de-aves-10-06-2024.pdf,ok,,2026-10-18T04:02:45Z
@@ -1195,11 +1195,11 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2024-07-24,5716453,https://cdn.www.gob.pe/uploads/document/file/6700058/5716453-boletin-de-abastecimiento-y-precios-de-aves-24-07-2024.pdf,ok,,2026-10-18T04:03:08Z
 2024-07-25,5716453,https://cdn.www.gob.pe/uploads/document/file/6700059/5716453-boletin-de-abastecimiento-y-precios-de-aves-25-07-2024.pdf,ok,,2026-10-18T04:03:10Z
 2024-07-30,5716453,https://cdn.www.gob.pe/uploads/document/file/6705037/5716453-boletin-de-abastecimiento-y-precios-de-aves-30-07-2024.pdf,ok,,2026-10-18T04:03:11Z
-2024-07-31,5716453,https://cdn.www.gob.pe/uploads/document/file/6716354/5716453-boletin-de-abastecimiento-y-precios-de-aves-31-07-2024.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T04:03:11Z
-2024-08-01,5835024,https://cdn.www.gob.pe/uploads/document/file/6723812/5835024-boletin-de-abastecimiento-y-precios-de-aves-01-08-2024.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T04:03:12Z
-2024-08-02,5835024,https://cdn.www.gob.pe/uploads/document/file/6730491/5835024-boletin-de-abastecimiento-y-precios-de-aves-02-08-2024.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T04:03:12Z
-2024-08-05,5835024,https://cdn.www.gob.pe/uploads/document/file/6739805/5835024-boletin-de-abastecimiento-y-precios-de-aves-05-08-2024.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T04:03:13Z
-2024-08-07,5835024,https://cdn.www.gob.pe/uploads/document/file/6746012/5835024-boletin-de-abastecimiento-y-precios-de-aves-07-08-2024.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T04:03:14Z
+2024-07-31,5716453,https://cdn.www.gob.pe/uploads/document/file/6716354/5716453-boletin-de-abastecimiento-y-precios-de-aves-31-07-2024.pdf,ok,,2026-10-18T04:16:51Z
+2024-08-01,5835024,https://cdn.www.gob.pe/uploads/document/file/6723812/5835024-boletin-de-abastecimiento-y-precios-de-aves-01-08-2024.pdf,ok,,2026-10-18T04:16:52Z
+2024-08-02,5835024,https://cdn.www.gob.pe/uploads/document/file/6730491/5835024-boletin-de-abastecimiento-y-precios-de-aves-02-08-2024.pdf,ok,,2026-10-18T04:16:52Z
+2024-08-05,5835024,https://cdn.www.gob.pe/uploads/document/file/6739805/5835024-boletin-de-abastecimiento-y-precios-de-aves-05-08-2024.pdf,ok,,2026-10-18T04:16:53Z
+2024-08-07,5835024,https://cdn.www.gob.pe/uploads/document/file/6746012/5835024-boletin-de-abastecimiento-y-precios-de-aves-07-08-2024.pdf,ok,,2026-10-18T04:16:54Z
 2024-08-08,5835024,https://cdn.www.gob.pe/uploads/document/file/6752073/5835024-boletin-de-abastecimiento-y-precios-de-aves-08-08-2024.pdf,ok,,2026-10-18T04:03:14Z
 2024-08-09,5835024,https://cdn.www.gob.pe/uploads/document/file/6757676/5835024-boletin-de-abastecimiento-y-precios-de-aves-09-08-2024.pdf,ok,,2026-10-18T04:03:15Z
 2024-08-12,5835024,https://cdn.www.gob.pe/uploads/document/file/6766375/5835024-boletin-de-abastecimiento-y-precios-de-aves-12-08-2024.pdf,ok,,2026-10-18T04:03:16Z
@@ -1303,11 +1303,11 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2025-01-15,6342784,https://cdn.www.gob.pe/uploads/document/file/7494790/6342784-boletin-de-abastecimiento-y-precios-de-aves-15-01-2025.pdf,ok,,2026-10-18T04:04:30Z
 2025-01-16,6342784,https://cdn.www.gob.pe/uploads/document/file/7499929/6342784-boletin-de-abastecimiento-y-precios-de-aves-16-01-2025.pdf,ok,,2026-10-18T04:04:31Z
 2025-01-17,6342784,https://cdn.www.gob.pe/uploads/document/file/7505466/6342784-boletin-de-abastecimiento-y-precios-de-aves-17-01-2025.pdf,ok,,2026-10-18T04:04:31Z
-2025-01-20,6342784,https://cdn.www.gob.pe/uploads/document/file/7516091/6342784-boletin-de-abastecimiento-y-precios-de-aves-20-01-2025.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T04:04:32Z
-2025-01-21,6342784,https://cdn.www.gob.pe/uploads/document/file/7520778/6342784-boletin-de-abastecimiento-y-precios-de-aves-21-01-2025.pdf,cuarentena,precio portada 4.9 vs tabla [4.67],2026-10-18T04:04:32Z
-2025-01-22,6342784,https://cdn.www.gob.pe/uploads/document/file/7529498/6342784-boletin-de-abastecimiento-y-precios-de-aves-22-01-2025.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T04:04:33Z
-2025-01-23,6342784,https://cdn.www.gob.pe/uploads/document/file/7556873/6342784-boletin-de-abastecimiento-y-precios-de-aves-23-01-2025.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T04:04:34Z
-2025-01-24,6342784,https://cdn.www.gob.pe/uploads/document/file/7556882/6342784-boletin-de-abastecimiento-y-precios-de-aves-24-01-2025.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T04:04:35Z
+2025-01-20,6342784,https://cdn.www.gob.pe/uploads/document/file/7516091/6342784-boletin-de-abastecimiento-y-precios-de-aves-20-01-2025.pdf,ok,,2026-10-18T04:16:54Z
+2025-01-21,6342784,https://cdn.www.gob.pe/uploads/document/file/7520778/6342784-boletin-de-abastecimiento-y-precios-de-aves-21-01-2025.pdf,cuarentena,precio portada 4.9 vs tabla [4.67],2026-10-18T04:16:55Z
+2025-01-22,6342784,https://cdn.www.gob.pe/uploads/document/file/7529498/6342784-boletin-de-abastecimiento-y-precios-de-aves-22-01-2025.pdf,cuarentena,precio portada 4.9 vs tabla [4.65],2026-10-18T04:16:56Z
+2025-01-23,6342784,https://cdn.www.gob.pe/uploads/document/file/7556873/6342784-boletin-de-abastecimiento-y-precios-de-aves-23-01-2025.pdf,cuarentena,precio portada 4.62 vs tabla [4.9],2026-10-18T04:16:56Z
+2025-01-24,6342784,https://cdn.www.gob.pe/uploads/document/file/7556882/6342784-boletin-de-abastecimiento-y-precios-de-aves-24-01-2025.pdf,cuarentena,precio portada 4.57 vs tabla [4.9],2026-10-18T04:16:57Z
 2025-01-27,6342784,https://cdn.www.gob.pe/uploads/document/file/7556909/6342784-boletin-de-abastecimiento-y-precios-de-aves-27-01-2025.pdf,ok,,2026-10-18T04:04:36Z
 2025-01-28,6342784,https://cdn.www.gob.pe/uploads/document/file/7556958/6342784-boletin-de-abastecimiento-y-precios-de-aves-28-01-2025.pdf,ok,,2026-10-18T04:04:36Z
 2025-01-29,6342784,https://cdn.www.gob.pe/uploads/document/file/7556976/6342784-boletin-de-abastecimiento-y-precios-de-aves-29-01-2025.pdf,ok,,2026-10-18T04:04:37Z
@@ -1354,7 +1354,7 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2025-03-27,6528385,https://cdn.www.gob.pe/uploads/document/file/7840534/6528385-boletin-de-abastecimiento-y-precios-de-aves-27-03-2025.pdf,ok,,2026-10-18T04:05:11Z
 2025-03-28,6528385,https://cdn.www.gob.pe/uploads/document/file/7846479/6528385-boletin-de-abastecimiento-y-precios-de-aves-28-03-2025.pdf,ok,,2026-10-18T04:05:11Z
 2025-03-31,6528385,https://cdn.www.gob.pe/uploads/document/file/7853876/6528385-boletin-de-abastecimiento-y-precios-de-aves-31-03-2025.pdf,ok,,2026-10-18T04:05:12Z
-2025-04-01,6624454,https://cdn.www.gob.pe/uploads/document/file/7859652/6624454-boletin-de-abastecimiento-y-precios-de-aves-01-04-2025.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T04:05:12Z
+2025-04-01,6624454,https://cdn.www.gob.pe/uploads/document/file/7859652/6624454-boletin-de-abastecimiento-y-precios-de-aves-01-04-2025.pdf,ok,,2026-10-18T04:16:58Z
 2025-04-02,6624454,https://cdn.www.gob.pe/uploads/document/file/7866974/6624454-boletin-de-abastecimiento-y-precios-de-aves-02-04-2025.pdf,ok,,2026-10-18T04:05:13Z
 2025-04-03,6624454,https://cdn.www.gob.pe/uploads/document/file/7873573/6624454-boletin-de-abastecimiento-y-precios-de-aves-03-04-2025.pdf,ok,,2026-10-18T04:05:14Z
 2025-04-04,6624454,https://cdn.www.gob.pe/uploads/document/file/7881977/6624454-boletin-de-abastecimiento-y-precios-de-aves-04-04-2025.pdf,ok,,2026-10-18T04:05:14Z
@@ -1372,7 +1372,7 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2025-04-24,6624454,https://cdn.www.gob.pe/uploads/document/file/7978859/6624454-boletin-de-abastecimiento-y-precios-de-aves-24-04-2025.pdf,ok,,2026-10-18T04:05:21Z
 2025-04-25,6624454,https://cdn.www.gob.pe/uploads/document/file/7984399/6624454-boletin-de-abastecimiento-y-precios-de-aves-25-04-2025.pdf,ok,,2026-10-18T04:05:22Z
 2025-04-28,6624454,https://cdn.www.gob.pe/uploads/document/file/7992252/6624454-boletin-de-abastecimiento-y-precios-de-aves-28-04-2025.pdf,ok,,2026-10-18T04:05:22Z
-2025-04-29,6624454,https://cdn.www.gob.pe/uploads/document/file/8000209/6624454-boletin-de-abastecimiento-y-precios-de-aves-29-04-2025.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T04:05:23Z
+2025-04-29,6624454,https://cdn.www.gob.pe/uploads/document/file/8000209/6624454-boletin-de-abastecimiento-y-precios-de-aves-29-04-2025.pdf,ok,,2026-10-18T04:16:58Z
 2025-04-30,6624454,https://cdn.www.gob.pe/uploads/document/file/8006882/6624454-boletin-de-abastecimiento-y-precios-de-aves-30-04-2025.pdf,ok,,2026-10-18T04:05:24Z
 2025-05-05,6734716,https://cdn.www.gob.pe/uploads/document/file/8017469/6734716-boletin-de-abastecimiento-y-precios-de-aves-05-05-2025.pdf,ok,,2026-10-18T04:05:24Z
 2025-05-06,6734716,https://cdn.www.gob.pe/uploads/document/file/8023983/6734716-boletin-de-abastecimiento-y-precios-de-aves-06-05-2025.pdf,ok,,2026-10-18T04:05:25Z
@@ -1436,22 +1436,17 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2025-07-30,6920754,https://cdn.www.gob.pe/uploads/document/file/8422037/6920754-boletin-de-abastecimiento-y-precios-de-aves-30-07-2025.pdf,ok,,2026-10-18T04:06:02Z
 2025-07-31,6920754,https://cdn.www.gob.pe/uploads/document/file/8429788/6920754-boletin-de-abastecimiento-y-precios-de-aves-31-07-2025.pdf,ok,,2026-10-18T04:06:03Z
 2025-08-01,7005774,https://cdn.www.gob.pe/uploads/document/file/8436956/7005774-boletin-de-abastecimiento-y-precios-de-aves-01-08-2025.pdf,ok,,2026-10-18T04:06:03Z
-2025-08-01,7102366,https://cdn.www.gob.pe/uploads/document/file/8580826/7102366-boletin-de-abastecimiento-y-precios-de-aves-01-08-2025.pdf,cuarentena,fecha interna 2025-09-01 != nombre de archivo 2025-08-01,2026-10-18T04:06:19Z
-2025-08-02,7102366,https://cdn.www.gob.pe/uploads/document/file/8587971/7102366-boletin-de-abastecimiento-y-precios-de-aves-02-08-2025.pdf,cuarentena,fecha interna 2025-09-02 != nombre de archivo 2025-08-02,2026-10-18T04:06:20Z
-2025-08-03,7102366,https://cdn.www.gob.pe/uploads/document/file/8597586/7102366-boletin-de-abastecimiento-y-precios-de-aves-03-08-2025.pdf,cuarentena,fecha interna 2025-09-03 != nombre de archivo 2025-08-03,2026-10-18T04:06:20Z
 2025-08-04,7005774,https://cdn.www.gob.pe/uploads/document/file/8445806/7005774-boletin-de-abastecimiento-y-precios-de-aves-04-08-2025.pdf,ok,,2026-10-18T04:06:04Z
-2025-08-04,7102366,https://cdn.www.gob.pe/uploads/document/file/8601817/7102366-boletin-de-abastecimiento-y-precios-de-aves-04-08-2025.pdf,cuarentena,fecha interna 2025-09-04 != nombre de archivo 2025-08-04,2026-10-18T04:06:21Z
 2025-08-05,7005774,https://cdn.www.gob.pe/uploads/document/file/8449986/7005774-boletin-de-abastecimiento-y-precios-de-aves-05-08-2025.pdf,ok,,2026-10-18T04:06:05Z
-2025-08-05,7102366,https://cdn.www.gob.pe/uploads/document/file/8614537/7102366-boletin-de-abastecimiento-y-precios-de-aves-05-08-2025.pdf,cuarentena,fecha interna 2025-09-05 != nombre de archivo 2025-08-05,2026-10-18T04:06:21Z
-2025-08-06,7005774,https://cdn.www.gob.pe/uploads/document/file/8456574/7005774-boletin-de-abastecimiento-y-precios-de-aves-06-08-2025.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T04:06:05Z
-2025-08-07,7005774,https://cdn.www.gob.pe/uploads/document/file/8456431/7005774-boletin-de-abastecimiento-y-precios-de-aves-07-08-2025.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T04:06:06Z
+2025-08-06,7005774,https://cdn.www.gob.pe/uploads/document/file/8456574/7005774-boletin-de-abastecimiento-y-precios-de-aves-06-08-2025.pdf,ok,,2026-10-18T04:16:59Z
+2025-08-07,7005774,https://cdn.www.gob.pe/uploads/document/file/8456431/7005774-boletin-de-abastecimiento-y-precios-de-aves-07-08-2025.pdf,ok,,2026-10-18T04:17:00Z
 2025-08-08,7005774,https://cdn.www.gob.pe/uploads/document/file/8463781/7005774-boletin-de-abastecimiento-y-precios-de-aves-08-08-2025.pdf,ok,,2026-10-18T04:06:07Z
 2025-08-11,7005774,https://cdn.www.gob.pe/uploads/document/file/8471294/7005774-boletin-de-abastecimiento-y-precios-de-aves-11-08-2025.pdf,ok,,2026-10-18T04:06:07Z
 2025-08-12,7005774,https://cdn.www.gob.pe/uploads/document/file/8478693/7005774-boletin-de-abastecimiento-y-precios-de-aves-12-08-2025.pdf,ok,,2026-10-18T04:06:08Z
 2025-08-13,7005774,https://cdn.www.gob.pe/uploads/document/file/8485894/7005774-boletin-de-abastecimiento-y-precios-de-aves-13-08-2025.pdf,ok,,2026-10-18T04:06:08Z
 2025-08-14,7005774,https://cdn.www.gob.pe/uploads/document/file/8492405/7005774-boletin-de-abastecimiento-y-precios-de-aves-14-08-2025.pdf,ok,,2026-10-18T04:06:09Z
 2025-08-15,7005774,https://cdn.www.gob.pe/uploads/document/file/8498570/7005774-boletin-de-abastecimiento-y-precios-de-aves-15-08-2025.pdf,ok,,2026-10-18T04:06:10Z
-2025-08-18,7005774,https://cdn.www.gob.pe/uploads/document/file/8506915/7005774-boletin-de-abastecimiento-y-precios-de-aves-18-08-2025.pdf,cuarentena,precio portada 5.4 vs tabla [5.2],2026-10-18T04:06:10Z
+2025-08-18,7005774,https://cdn.www.gob.pe/uploads/document/file/8506915/7005774-boletin-de-abastecimiento-y-precios-de-aves-18-08-2025.pdf,cuarentena,precio portada 5.4 vs tabla [5.2],2026-10-18T04:17:00Z
 2025-08-19,7005774,https://cdn.www.gob.pe/uploads/document/file/8516332/7005774-boletin-de-abastecimiento-y-precios-de-aves-19-08-2025.pdf,ok,,2026-10-18T04:06:11Z
 2025-08-20,7005774,https://cdn.www.gob.pe/uploads/document/file/8522482/7005774-boletin-de-abastecimiento-y-precios-de-aves-20-08-2025.pdf,ok,,2026-10-18T04:06:12Z
 2025-08-21,7005774,https://cdn.www.gob.pe/uploads/document/file/8529663/7005774-boletin-de-abastecimiento-y-precios-de-aves-21-08-2025.pdf,ok,,2026-10-18T04:06:12Z
@@ -1461,6 +1456,11 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2025-08-27,7005774,https://cdn.www.gob.pe/uploads/document/file/8558857/7005774-boletin-de-abastecimiento-y-precios-de-aves-27-08-2025.pdf,ok,,2026-10-18T04:06:16Z
 2025-08-28,7005774,https://cdn.www.gob.pe/uploads/document/file/8565700/7005774-boletin-de-abastecimiento-y-precios-de-aves-28-08-2025.pdf,ok,,2026-10-18T04:06:17Z
 2025-08-29,7005774,https://cdn.www.gob.pe/uploads/document/file/8572510/7005774-boletin-de-abastecimiento-y-precios-de-aves-29-08-2025.pdf,ok,,2026-10-18T04:06:17Z
+2025-09-01,7102366,https://cdn.www.gob.pe/uploads/document/file/8580826/7102366-boletin-de-abastecimiento-y-precios-de-aves-01-08-2025.pdf,ok,nombre de archivo dice 2025-08-01; se usa la fecha interna,2026-10-18T04:17:01Z
+2025-09-02,7102366,https://cdn.www.gob.pe/uploads/document/file/8587971/7102366-boletin-de-abastecimiento-y-precios-de-aves-02-08-2025.pdf,ok,nombre de archivo dice 2025-08-02; se usa la fecha interna,2026-10-18T04:17:02Z
+2025-09-03,7102366,https://cdn.www.gob.pe/uploads/document/file/8597586/7102366-boletin-de-abastecimiento-y-precios-de-aves-03-08-2025.pdf,ok,nombre de archivo dice 2025-08-03; se usa la fecha interna,2026-10-18T04:17:02Z
+2025-09-04,7102366,https://cdn.www.gob.pe/uploads/document/file/8601817/7102366-boletin-de-abastecimiento-y-precios-de-aves-04-08-2025.pdf,ok,nombre de archivo dice 2025-08-04; se usa la fecha interna,2026-10-18T04:17:03Z
+2025-09-05,7102366,https://cdn.www.gob.pe/uploads/document/file/8614537/7102366-boletin-de-abastecimiento-y-precios-de-aves-05-08-2025.pdf,ok,nombre de archivo dice 2025-08-05; se usa la fecha interna,2026-10-18T04:17:04Z
 2025-09-08,7102366,https://cdn.www.gob.pe/uploads/document/file/8616610/7102366-boletin-de-abastecimiento-y-precios-de-aves-08-09-2025.pdf,ok,,2026-10-18T04:06:22Z
 2025-09-09,7102366,https://cdn.www.gob.pe/uploads/document/file/8624174/7102366-boletin-de-abastecimiento-y-precios-de-aves-09-09-2025.pdf,ok,,2026-10-18T04:06:24Z
 2025-09-10,7102366,https://cdn.www.gob.pe/uploads/document/file/8631909/7102366-boletin-de-abastecimiento-y-precios-de-aves-10-09-2025.pdf,ok,,2026-10-18T04:06:26Z
@@ -1509,7 +1509,7 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2025-11-11,7360754,https://cdn.www.gob.pe/uploads/document/file/8981629/7360754-boletin-de-abastecimiento-y-precios-de-aves-11-11-2025.pdf,ok,,2026-10-18T04:06:56Z
 2025-11-12,7360754,https://cdn.www.gob.pe/uploads/document/file/8987012/7360754-boletin-de-abastecimiento-y-precios-de-aves-12-11-2025.pdf,ok,,2026-10-18T04:06:57Z
 2025-11-13,7360754,https://cdn.www.gob.pe/uploads/document/file/8994799/7360754-boletin-de-abastecimiento-y-precios-de-aves-13-11-2025.pdf,ok,,2026-10-18T04:06:58Z
-2025-11-14,7360754,https://cdn.www.gob.pe/uploads/document/file/8999521/7360754-boletin-de-abastecimiento-y-precios-de-aves-14-11-2025.pdf,cuarentena,precio portada 4.9 vs tabla [5.6],2026-10-18T04:06:58Z
+2025-11-14,7360754,https://cdn.www.gob.pe/uploads/document/file/8999521/7360754-boletin-de-abastecimiento-y-precios-de-aves-14-11-2025.pdf,cuarentena,precio portada 4.9 vs tabla [5.6],2026-10-18T04:17:04Z
 2025-11-17,7360754,https://cdn.www.gob.pe/uploads/document/file/9009020/7360754-boletin-de-abastecimiento-y-precios-de-aves-17-11-2025.pdf,ok,,2026-10-18T04:06:59Z
 2025-11-18,7360754,https://cdn.www.gob.pe/uploads/document/file/9015708/7360754-boletin-de-abastecimiento-y-precios-de-aves-18-11-2025.pdf,ok,,2026-10-18T04:06:59Z
 2025-11-19,7360754,https://cdn.www.gob.pe/uploads/document/file/9021868/7360754-boletin-de-abastecimiento-y-precios-de-aves-19-11-2025.pdf,ok,,2026-10-18T04:07:01Z
@@ -1519,7 +1519,7 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2025-11-25,7360754,https://cdn.www.gob.pe/uploads/document/file/9053247/7360754-boletin-de-abastecimiento-y-precios-de-aves-25-11-2025.pdf,ok,,2026-10-18T04:07:04Z
 2025-11-26,7360754,https://cdn.www.gob.pe/uploads/document/file/9061035/7360754-boletin-de-abastecimiento-y-precios-de-aves-26-11-2025.pdf,ok,,2026-10-18T04:07:04Z
 2025-11-27,7360754,https://cdn.www.gob.pe/uploads/document/file/9068159/7360754-boletin-de-abastecimiento-y-precios-de-aves-27-11-2025.pdf,ok,,2026-10-18T04:07:05Z
-2025-11-28,7360754,https://cdn.www.gob.pe/uploads/document/file/9074133/7360754-boletin-de-abastecimiento-y-precios-de-aves-28-11-2025.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T04:07:06Z
+2025-11-28,7360754,https://cdn.www.gob.pe/uploads/document/file/9074133/7360754-boletin-de-abastecimiento-y-precios-de-aves-28-11-2025.pdf,ok,,2026-10-18T04:17:05Z
 2025-12-01,7458001,https://cdn.www.gob.pe/uploads/document/file/9082329/7458001-boletin-de-abastecimiento-y-precios-de-aves-01-12-2025.pdf,ok,,2026-10-18T04:07:06Z
 2025-12-02,7458001,https://cdn.www.gob.pe/uploads/document/file/9091046/7458001-boletin-de-abastecimiento-y-precios-de-aves-02-12-2025.pdf,ok,,2026-10-18T04:07:08Z
 2025-12-03,7458001,https://cdn.www.gob.pe/uploads/document/file/9100624/7458001-boletin-de-abastecimiento-y-precios-de-aves-03-12-2025.pdf,ok,,2026-10-18T04:07:10Z
@@ -1575,7 +1575,7 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2026-02-19,7685540,https://cdn.www.gob.pe/uploads/document/file/9474487/7685540-boletin-de-abastecimiento-y-precios-de-aves-19-02-2026.pdf,ok,,2026-10-18T03:40:05Z
 2026-02-20,7685540,https://cdn.www.gob.pe/uploads/document/file/9481963/7685540-boletin-de-abastecimiento-y-precios-de-aves-20-02-2026.pdf,ok,,2026-10-18T03:40:06Z
 2026-02-23,7685540,https://cdn.www.gob.pe/uploads/document/file/9489855/7685540-boletin-de-abastecimiento-y-precios-de-aves-23-02-2026.pdf,ok,,2026-10-18T03:40:07Z
-2026-02-24,7685540,https://cdn.www.gob.pe/uploads/document/file/9498927/7685540-boletin-de-abastecimiento-y-precios-de-aves-24-02-2026.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:40:08Z
+2026-02-24,7685540,https://cdn.www.gob.pe/uploads/document/file/9498927/7685540-boletin-de-abastecimiento-y-precios-de-aves-24-02-2026.pdf,ok,,2026-10-18T04:17:06Z
 2026-02-25,7685540,https://cdn.www.gob.pe/uploads/document/file/9505660/7685540-boletin-de-abastecimiento-y-precios-de-aves-25-02-2026.pdf,ok,,2026-10-18T03:40:09Z
 2026-02-26,7685540,https://cdn.www.gob.pe/uploads/document/file/9516487/7685540-boletin-de-abastecimiento-y-precios-de-aves-26-02-2026.pdf,ok,,2026-10-18T03:40:10Z
 2026-02-27,7685540,https://cdn.www.gob.pe/uploads/document/file/9524674/7685540-boletin-de-abastecimiento-y-precios-de-aves-27-02-2026.pdf,ok,,2026-10-18T03:40:11Z
@@ -1625,15 +1625,16 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2026-05-05,8083635,https://cdn.www.gob.pe/uploads/document/file/9919671/8083635-boletin-de-abastecimiento-y-precios-de-aves-05-05-2026.pdf,ok,,2026-10-18T03:40:49Z
 2026-05-06,8083635,https://cdn.www.gob.pe/uploads/document/file/9926293/8083635-boletin-de-abastecimiento-y-precios-de-aves-06-05-2026.pdf,ok,,2026-10-18T03:40:50Z
 2026-05-07,8083635,https://cdn.www.gob.pe/uploads/document/file/9934487/8083635-boletin-de-abastecimiento-y-precios-de-aves-07-05-2026.pdf,ok,,2026-10-18T03:40:51Z
+2026-05-08,8083635,https://cdn.www.gob.pe/uploads/document/file/9938776/8083635-boletin-de-abastecimiento-y-precios-de-aves-08-05-20266.pdf,ok,,2026-10-18T04:17:07Z
 2026-05-11,8083635,https://cdn.www.gob.pe/uploads/document/file/9948227/8083635-boletin-de-abastecimiento-y-precios-de-aves-11-05-2026.pdf,ok,,2026-10-18T03:40:52Z
 2026-05-12,8083635,https://cdn.www.gob.pe/uploads/document/file/9957973/8083635-boletin-de-abastecimiento-y-precios-de-aves-12-05-2026.pdf,ok,,2026-10-18T03:40:53Z
-2026-05-13,8083635,https://cdn.www.gob.pe/uploads/document/file/9964499/8083635-boletin-de-abastecimiento-y-precios-de-aves-13-05-2026.pdf,cuarentena,ValueError: Excel: no se encontró el encabezado de fechas,2026-10-18T03:40:54Z
-2026-05-14,8083635,https://cdn.www.gob.pe/uploads/document/file/9977005/8083635-boletin-de-abastecimiento-y-precios-de-aves-14-05-2026.pdf,cuarentena,precio portada 6.3 vs tabla [6.2],2026-10-18T03:40:54Z
+2026-05-13,8083635,https://cdn.www.gob.pe/uploads/document/file/9964499/8083635-boletin-de-abastecimiento-y-precios-de-aves-13-05-2026.pdf,ok,,2026-10-18T04:17:07Z
+2026-05-14,8083635,https://cdn.www.gob.pe/uploads/document/file/9977005/8083635-boletin-de-abastecimiento-y-precios-de-aves-14-05-2026.pdf,cuarentena,precio portada 6.3 vs tabla [6.2],2026-10-18T04:17:08Z
 2026-05-15,8083635,https://cdn.www.gob.pe/uploads/document/file/9983996/8083635-boletin-de-abastecimiento-y-precios-de-aves-15-05-2026.pdf,ok,,2026-10-18T03:40:55Z
 2026-05-18,8083635,https://cdn.www.gob.pe/uploads/document/file/9985682/8083635-boletin-de-abastecimiento-y-precios-de-aves-18-05-2026.pdf,ok,,2026-10-18T03:40:56Z
 2026-05-19,8083635,https://cdn.www.gob.pe/uploads/document/file/10001020/8083635-boletin-de-abastecimiento-y-precios-de-aves-19-05-2026.pdf,ok,,2026-10-18T03:40:57Z
 2026-05-20,8083635,https://cdn.www.gob.pe/uploads/document/file/10012481/8083635-boletin-de-abastecimiento-y-precios-de-aves-20-05-2026.pdf,ok,,2026-10-18T03:41:00Z
-2026-05-21,8083635,https://cdn.www.gob.pe/uploads/document/file/10021326/8083635-boletin-de-abastecimiento-y-precios-de-aves-21-05-2026.pdf,cuarentena,precio portada 4.99 vs tabla [5.2],2026-10-18T03:41:01Z
+2026-05-21,8083635,https://cdn.www.gob.pe/uploads/document/file/10021326/8083635-boletin-de-abastecimiento-y-precios-de-aves-21-05-2026.pdf,cuarentena,precio portada 4.99 vs tabla [5.2],2026-10-18T04:17:09Z
 2026-05-22,8083635,https://cdn.www.gob.pe/uploads/document/file/10029232/8083635-boletin-de-abastecimiento-y-precios-de-aves-22-05-2026.pdf,ok,,2026-10-18T03:41:02Z
 2026-05-25,8083635,https://cdn.www.gob.pe/uploads/document/file/10034904/8083635-boletin-de-abastecimiento-y-precios-de-aves-25-05-2026.pdf,ok,,2026-10-18T03:41:03Z
 2026-05-26,8083635,https://cdn.www.gob.pe/uploads/document/file/10041955/8083635-boletin-de-abastecimiento-y-precios-de-aves-26-05-2026.pdf,ok,,2026-10-18T03:41:04Z
@@ -1647,7 +1648,7 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2026-06-05,8205044,https://cdn.www.gob.pe/uploads/document/file/10107959/8205044-boletin-de-abastecimiento-y-precios-de-aves-05-06-2026.pdf,ok,,2026-10-18T03:41:12Z
 2026-06-08,8205044,https://cdn.www.gob.pe/uploads/document/file/10121228/8205044-boletin-de-abastecimiento-y-precios-de-aves-08-06-2026.pdf,ok,,2026-10-18T03:41:13Z
 2026-06-09,8205044,https://cdn.www.gob.pe/uploads/document/file/10129098/8205044-boletin-de-abastecimiento-y-precios-de-aves-09-06-2026.pdf,ok,,2026-10-18T03:41:14Z
-2026-06-10,8205044,https://cdn.www.gob.pe/uploads/document/file/10136762/8205044-boletin-de-abastecimiento-y-precios-de-aves-10-06-2026.pdf,cuarentena,precio portada 3.54 vs tabla [3.7],2026-10-18T03:41:14Z
+2026-06-10,8205044,https://cdn.www.gob.pe/uploads/document/file/10136762/8205044-boletin-de-abastecimiento-y-precios-de-aves-10-06-2026.pdf,cuarentena,precio portada 3.54 vs tabla [3.7],2026-10-18T04:17:09Z
 2026-06-11,8205044,https://cdn.www.gob.pe/uploads/document/file/10143899/8205044-boletin-de-abastecimiento-y-precios-de-aves-11-06-2026.pdf,ok,,2026-10-18T03:41:15Z
 2026-06-12,8205044,https://cdn.www.gob.pe/uploads/document/file/10151263/8205044-boletin-de-abastecimiento-y-precios-de-aves-12-06-2026.pdf,ok,,2026-10-18T03:41:16Z
 2026-06-15,8205044,https://cdn.www.gob.pe/uploads/document/file/10158551/8205044-boletin-de-abastecimiento-y-precios-de-aves-15-06-2026.pdf,ok,,2026-10-18T03:41:17Z
@@ -1655,7 +1656,7 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2026-06-17,8205044,https://cdn.www.gob.pe/uploads/document/file/10171843/8205044-boletin-de-abastecimiento-y-precios-de-aves-17-06-2026.pdf,ok,,2026-10-18T03:41:19Z
 2026-06-18,8205044,https://cdn.www.gob.pe/uploads/document/file/10179216/8205044-boletin-de-abastecimiento-y-precios-de-aves-18-06-2026.pdf,ok,,2026-10-18T03:41:20Z
 2026-06-19,8205044,https://cdn.www.gob.pe/uploads/document/file/10184604/8205044-boletin-de-abastecimiento-y-precios-de-aves-19-06-2026.pdf,ok,,2026-10-18T03:41:21Z
-2026-06-22,8205044,https://cdn.www.gob.pe/uploads/document/file/10191780/8205044-boletin-de-abastecimiento-y-precios-de-aves-22-06-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T03:41:22Z
+2026-06-22,8205044,https://cdn.www.gob.pe/uploads/document/file/10191780/8205044-boletin-de-abastecimiento-y-precios-de-aves-22-06-2026.pdf,cuarentena,IndexError: list index out of range,2026-10-18T04:17:10Z
 2026-06-23,8205044,https://cdn.www.gob.pe/uploads/document/file/10198607/8205044-boletin-de-abastecimiento-y-precios-de-aves-23-06-2026.pdf,ok,,2026-10-18T03:41:23Z
 2026-06-24,8205044,https://cdn.www.gob.pe/uploads/document/file/10204155/8205044-boletin-de-abastecimiento-y-precios-de-aves-24-06-2026.pdf,ok,,2026-10-18T03:41:24Z
 2026-06-25,8205044,https://cdn.www.gob.pe/uploads/document/file/10210572/8205044-boletin-de-abastecimiento-y-precios-de-aves-25-06-2026.pdf,ok,,2026-10-18T03:41:25Z
@@ -1677,11 +1678,11 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2026-07-20,8319970,https://cdn.www.gob.pe/uploads/document/file/10347881/8319970-boletin-de-abastecimiento-y-precios-de-aves-20-07-2026.pdf,ok,,2026-10-18T03:41:39Z
 2026-07-21,8319970,https://cdn.www.gob.pe/uploads/document/file/10353801/8319970-boletin-de-abastecimiento-y-precios-de-aves-21-07-2026.pdf,ok,,2026-10-18T03:41:40Z
 2026-07-22,8319970,https://cdn.www.gob.pe/uploads/document/file/10357354/8319970-boletin-de-abastecimiento-y-precios-de-aves-22-07-2026.pdf,ok,,2026-10-18T03:41:41Z
-2026-07-24,8319970,https://cdn.www.gob.pe/uploads/document/file/10371668/8319970-boletin-de-abastecimiento-y-precios-de-aves-24-07-2026.pdf,cuarentena,precio portada 7.2 vs tabla [7.05],2026-10-18T03:41:42Z
+2026-07-24,8319970,https://cdn.www.gob.pe/uploads/document/file/10371668/8319970-boletin-de-abastecimiento-y-precios-de-aves-24-07-2026.pdf,cuarentena,precio portada 7.2 vs tabla [7.05],2026-10-18T04:17:11Z
 2026-07-30,8319970,https://cdn.www.gob.pe/uploads/document/file/10379010/8319970-boletin-de-abastecimiento-y-precios-de-aves-30-07-2026.pdf,ok,,2026-10-18T03:41:42Z
-2026-07-31,8319970,https://cdn.www.gob.pe/uploads/document/file/10386890/8319970-boletin-de-abastecimiento-y-precios-de-aves-31-07-2026.pdf,cuarentena,precio portada None vs tabla [6.5],2026-10-18T03:41:43Z
-2026-08-03,8437905,https://cdn.www.gob.pe/uploads/document/file/10394459/8437905-boletin-de-abastecimiento-y-precios-de-aves-03-08-2026.pdf,cuarentena,precio portada None vs tabla [6.5],2026-10-18T03:41:44Z
-2026-08-04,8437905,https://cdn.www.gob.pe/uploads/document/file/10399981/8437905-boletin-de-abastecimiento-y-precios-de-aves-04-08-2026.pdf,cuarentena,precio portada None vs tabla [6.5],2026-10-18T03:41:45Z
+2026-07-31,8319970,https://cdn.www.gob.pe/uploads/document/file/10386890/8319970-boletin-de-abastecimiento-y-precios-de-aves-31-07-2026.pdf,ok,,2026-10-18T04:17:11Z
+2026-08-03,8437905,https://cdn.www.gob.pe/uploads/document/file/10394459/8437905-boletin-de-abastecimiento-y-precios-de-aves-03-08-2026.pdf,ok,,2026-10-18T04:17:12Z
+2026-08-04,8437905,https://cdn.www.gob.pe/uploads/document/file/10399981/8437905-boletin-de-abastecimiento-y-precios-de-aves-04-08-2026.pdf,ok,,2026-10-18T04:17:13Z
 2026-08-05,8437905,https://cdn.www.gob.pe/uploads/document/file/10409007/8437905-boletin-de-abastecimiento-y-precios-de-aves-05-08-2026.pdf,ok,,2026-10-18T03:41:46Z
 2026-08-10,8437905,https://cdn.www.gob.pe/uploads/document/file/10426548/8437905-boletin-de-abastecimiento-y-precios-de-aves-10-08-2026.pdf,ok,,2026-10-18T03:41:47Z
 2026-08-11,8437905,https://cdn.www.gob.pe/uploads/document/file/10432060/8437905-boletin-de-abastecimiento-y-precios-de-aves-11-08-2026.pdf,ok,,2026-10-18T03:41:48Z
@@ -1706,6 +1707,7 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2026-09-08,8542327,https://cdn.www.gob.pe/uploads/document/file/10589972/8542327-boletin-de-abastecimiento-y-precios-de-aves-08-09-2026.pdf,ok,,2026-10-18T03:35:14Z
 2026-09-09,8542327,https://cdn.www.gob.pe/uploads/document/file/10597800/8542327-boletin-de-abastecimiento-y-precios-de-aves-09-09-2026.pdf,ok,,2026-10-18T03:35:15Z
 2026-09-10,8542327,https://cdn.www.gob.pe/uploads/document/file/10603550/8542327-boletin-de-abastecimiento-y-precios-de-aves-10-09-2026.pdf,ok,,2026-10-18T03:35:17Z
+2026-09-11,8542327,https://cdn.www.gob.pe/uploads/document/file/10611167/8542327-boletin-de-abastecimiento-y-precios-de-aves-01-09-2026.pdf,ok,,2026-10-18T04:17:13Z
 2026-09-14,8542327,https://cdn.www.gob.pe/uploads/document/file/10622207/8542327-boletin-de-abastecimiento-y-precios-de-aves-14-09-2026.pdf,ok,,2026-10-18T03:35:18Z
 2026-09-15,8542327,https://cdn.www.gob.pe/uploads/document/file/10625452/8542327-boletin-de-abastecimiento-y-precios-de-aves-15-09-2026.pdf,ok,,2026-10-18T03:35:19Z
 2026-09-16,8542327,https://cdn.www.gob.pe/uploads/document/file/10637592/8542327-boletin-de-abastecimiento-y-precios-de-aves-16-09-2026.pdf,ok,,2026-10-18T03:35:21Z
@@ -1719,6 +1721,7 @@ fecha,pub_id,url,estado,detalle,procesado_utc
 2026-09-28,8542327,https://cdn.www.gob.pe/uploads/document/file/10702431/8542327-boletin-de-abastecimiento-y-precios-de-aves-28-09-2026.pdf,ok,,2026-10-18T03:35:31Z
 2026-09-29,8542327,https://cdn.www.gob.pe/uploads/document/file/10707410/8542327-boletin-de-abastecimiento-y-precios-de-aves-29-09-2026.pdf,ok,,2026-10-18T03:35:32Z
 2026-09-30,8542327,https://cdn.www.gob.pe/uploads/document/file/10715180/8542327-boletin-de-abastecimiento-y-precios-de-aves-30-09-2026.pdf,ok,,2026-10-18T03:35:33Z
+2026-10-01,8667279,https://cdn.www.gob.pe/uploads/document/file/10722238/8667279-boletin-de-abastecimiento-y-precios-de-aves-01-10-2026%282%29.pdf,ok,,2026-10-18T04:17:14Z
 2026-10-02,8667279,https://cdn.www.gob.pe/uploads/document/file/10732126/8667279-boletin-de-abastecimiento-y-precios-de-aves-02-10-2026.pdf,ok,,2026-10-18T03:35:34Z
 2026-10-05,8667279,https://cdn.www.gob.pe/uploads/document/file/10741614/8667279-boletin-de-abastecimiento-y-precios-de-aves-05-10-2026.pdf,ok,,2026-10-18T03:35:35Z
 2026-10-06,8667279,https://cdn.www.gob.pe/uploads/document/file/10750964/8667279-boletin-de-abastecimiento-y-precios-de-aves-06-10-2026.pdf,ok,,2026-10-18T03:35:37Z
