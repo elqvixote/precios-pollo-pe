@@ -1,0 +1,11 @@
+m1.pdf https://cdn.www.gob.pe/uploads/document/file/569600/sisap-aves-23mar20.pdf
+m2.pdf https://cdn.www.gob.pe/uploads/document/file/1585679/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2026/01/21.pdf
+m3.pdf https://cdn.www.gob.pe/uploads/document/file/3212709/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2006/06/22.pdf
+m4.pdf https://cdn.www.gob.pe/uploads/document/file/4016469/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2003/01/23.pdf
+m5.pdf https://cdn.www.gob.pe/uploads/document/file/5884001/5141955-boletin-de-abastecimiento-y-precios-de-aves-19-02-2024.pdf
+m6.pdf https://cdn.www.gob.pe/uploads/document/file/7516091/6342784-boletin-de-abastecimiento-y-precios-de-aves-20-01-2025.pdf
+m7.pdf https://cdn.www.gob.pe/uploads/document/file/9498927/7685540-boletin-de-abastecimiento-y-precios-de-aves-24-02-2026.pdf
+m8.pdf https://cdn.www.gob.pe/uploads/document/file/1307716/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2021/09/20.pdf
+m9.pdf https://cdn.www.gob.pe/uploads/document/file/1694119/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2024/02/21.pdf
+m10.pdf https://cdn.www.gob.pe/uploads/document/file/533108/sisap-aves-20feb20.pdf
+m11.pdf https://cdn.www.gob.pe/uploads/document/file/1735501/Bolet%C3%ADn%20de%20abastecimiento%20y%20precios%20de%20AVES%20-%2008/03/21.pdf
