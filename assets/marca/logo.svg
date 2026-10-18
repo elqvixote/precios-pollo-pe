@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" width="640" height="640">
+  <!-- Fondo: azul de la marca -->
+  <rect width="640" height="640" fill="#2a78d6"/>
+  <!-- Línea de precio (tendencia) detrás de la cabeza -->
+  <polyline points="70,560 170,535 250,565 350,520 440,545 575,470"
+            fill="none" stroke="#ffffff" stroke-opacity="0.45" stroke-width="22"
+            stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Cresta -->
+  <circle cx="245" cy="200" r="46" fill="#eb6834"/>
+  <circle cx="305" cy="172" r="54" fill="#eb6834"/>
+  <circle cx="368" cy="200" r="46" fill="#eb6834"/>
+  <!-- Cabeza -->
+  <circle cx="310" cy="345" r="150" fill="#ffffff"/>
+  <!-- Pico -->
+  <path d="M448 318 L540 352 L448 386 Z" fill="#eda100" stroke="#eda100" stroke-width="10" stroke-linejoin="round"/>
+  <!-- Barbilla -->
+  <ellipse cx="438" cy="430" rx="24" ry="40" fill="#eb6834"/>
+  <!-- Ojo -->
+  <circle cx="378" cy="310" r="19" fill="#0b0b0b"/>
+  <circle cx="384" cy="304" r="6" fill="#ffffff"/>
+</svg>
