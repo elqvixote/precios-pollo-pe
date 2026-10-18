@@ -17,6 +17,10 @@ on:
         description: "Procesar hasta (AAAA-MM-DD). Opcional"
         required: false
         default: ""
+      prueba_telegram:
+        description: "Reenviar la última imagen a Telegram (prueba)"
+        type: boolean
+        default: false
       reintentar_cuarentena:
         description: "Reintentar PDFs en cuarentena"
         type: boolean
@@ -54,11 +58,12 @@ jobs:
         id: imagen
         run: python scripts/imagen_diaria.py --solo-si-nueva
       - name: Enviar a Telegram (si están configurados los secretos)
-        if: steps.imagen.outputs.nueva != '' && env.TG_TOKEN != ''
+        if: (steps.imagen.outputs.nueva != '' || inputs.prueba_telegram) && env.TG_TOKEN != ''
         run: |
-          curl -sS -F chat_id="$TG_CHAT" -F photo=@"${{ steps.imagen.outputs.nueva }}" \
+          IMG="${{ steps.imagen.outputs.nueva }}"; [ -z "$IMG" ] && IMG="imagenes/ultima.png"
+          curl -sS --fail-with-body -F chat_id="$TG_CHAT" -F photo=@"$IMG" \
             -F caption="Precio del pollo en Lima · fuente MIDAGRI" \
-            "https://api.telegram.org/bot$TG_TOKEN/sendPhoto" > /dev/null && echo "Enviada"
+            "https://api.telegram.org/bot$TG_TOKEN/sendPhoto" | head -c 200; echo
       - name: Guardar datos
         if: always()
         run: |
