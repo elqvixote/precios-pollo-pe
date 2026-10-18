@@ -1,0 +1,92 @@
+l1 HTTP 200 208480B https://www.gob.pe/institucion/midagri/informes-publicaciones
+  links aves:
+    informes-publicaciones/8542327-boletin-de-comercializacion-y-precios-de-aves-setiembre-2026
+    informes-publicaciones/8667279-boletin-de-comercializacion-y-precios-de-aves-octubre-2026
+  paginación:
+    href="/institucion/midagri/buscador?contenido=publicaciones&amp;sheet=1&amp;sort_by=recent"
+    href="/institucion/midagri/informes-publicaciones?sheet=2"
+    href="/institucion/midagri/informes-publicaciones?sheet=3"
+    href="/institucion/midagri/informes-publicaciones?sheet=4"
+    href="/institucion/midagri/informes-publicaciones?sheet=5"
+  apis/json:
+    "https://www.gob.pe/searches_autocomplete.json"
+l2 HTTP 200 208598B https://www.gob.pe/institucion/midagri/informes-publicaciones?term=aves
+  links aves:
+    informes-publicaciones/8542327-boletin-de-comercializacion-y-precios-de-aves-setiembre-2026
+    informes-publicaciones/8667279-boletin-de-comercializacion-y-precios-de-aves-octubre-2026
+  paginación:
+    href="/institucion/midagri/buscador?contenido=publicaciones&amp;sheet=1&amp;sort_by=recent"
+    href="/institucion/midagri/informes-publicaciones?sheet=2&amp;term=aves"
+    href="/institucion/midagri/informes-publicaciones?sheet=3&amp;term=aves"
+    href="/institucion/midagri/informes-publicaciones?sheet=4&amp;term=aves"
+    href="/institucion/midagri/informes-publicaciones?sheet=5&amp;term=aves"
+  apis/json:
+    "https://www.gob.pe/searches_autocomplete.json"
+l3 HTTP 200 208967B https://www.gob.pe/institucion/midagri/informes-publicaciones?term=boletin+de+comercializacion+y+precios+de+aves
+  links aves:
+    informes-publicaciones/8542327-boletin-de-comercializacion-y-precios-de-aves-setiembre-2026
+    informes-publicaciones/8667279-boletin-de-comercializacion-y-precios-de-aves-octubre-2026
+  paginación:
+    href="/institucion/midagri/buscador?contenido=publicaciones&amp;sheet=1&amp;sort_by=recent"
+    href="/institucion/midagri/informes-publicaciones?sheet=2&amp;term=boletin+de+comercializacion+y+precios+de+aves"
+    href="/institucion/midagri/informes-publicaciones?sheet=3&amp;term=boletin+de+comercializacion+y+precios+de+aves"
+    href="/institucion/midagri/informes-publicaciones?sheet=4&amp;term=boletin+de+comercializacion+y+precios+de+aves"
+    href="/institucion/midagri/informes-publicaciones?sheet=5&amp;term=boletin+de+comercializacion+y+precios+de+aves"
+  apis/json:
+    "https://www.gob.pe/searches_autocomplete.json"
+l4 HTTP 200 86617B https://www.gob.pe/busquedas?contenido[]=publicaciones&institucion[]=midagri&term=precios+de+aves
+  links aves:
+    informes-publicaciones/1198322-boletin-de-comercializacion-y-precios-de-aves-setiembre-2020
+    informes-publicaciones/1239907-boletin-de-comercializacion-y-precios-de-aves-octubre-2020
+    informes-publicaciones/1377365-boletin-de-comercializacion-y-precios-de-aves-diciembre-2020
+    informes-publicaciones/1952612-boletin-de-comercializacion-y-precios-de-aves-junio-2021
+    informes-publicaciones/2130054-boletin-de-comercializacion-y-precios-de-aves-septiembre-2021
+    informes-publicaciones/2307798-boletin-de-comercializacion-y-precios-de-aves-noviembre-2021
+    informes-publicaciones/2503149-boletin-de-comercializacion-y-precios-de-aves-diciembre-2021
+    informes-publicaciones/2778599-boletin-de-comercializacion-y-precios-de-aves-marzo-2022
+    informes-publicaciones/2944277-boletin-de-comercializacion-y-precios-de-aves-mayo-2022
+    informes-publicaciones/3306606-boletin-de-comercializacion-y-precios-de-aves-agosto-2022
+    informes-publicaciones/3630067-boletin-de-comercializacion-y-precios-de-aves-noviembre-2022
+    informes-publicaciones/3702503-boletin-de-comercializacion-y-precios-de-aves-diciembre-2022
+    informes-publicaciones/3819343-boletin-de-comercializacion-y-precios-de-aves-enero-2023
+    informes-publicaciones/3960138-boletin-de-comercializacion-y-precios-de-aves-marzo-2023
+    informes-publicaciones/4596689-boletin-de-comercializacion-y-precios-de-aves-septiembre-2023
+    informes-publicaciones/4700554-boletin-de-comercializacion-y-precios-de-aves-octubre-2023
+    informes-publicaciones/4988874-boletin-de-comercializacion-y-precios-de-aves-enero-2024
+    informes-publicaciones/5141955-boletin-de-comercializacion-y-precios-de-aves-febrero-2024
+    informes-publicaciones/5944586-boletin-de-comercializacion-y-precios-de-aves-setiembre2024
+    informes-publicaciones/6146437-boletin-de-comercializacion-y-precios-de-aves-noviembre-2024
+    informes-publicaciones/6528385-boletin-de-comercializacion-y-precios-de-aves-marzo-2025
+    informes-publicaciones/6827057-boletin-de-comercializacion-y-precios-de-aves-junio-2025
+    informes-publicaciones/7005774-boletin-de-comercializacion-y-precios-de-aves-agosto-2025
+    informes-publicaciones/8205044-boletin-de-comercializacion-y-precios-de-aves-junio-2026
+  paginación:
+  apis/json:
+l5 HTTP 200 86656B https://www.gob.pe/busquedas?institucion[]=midagri&term=boletin+de+comercializacion+y+precios+de+aves&sort_by=recent
+  links aves:
+    informes-publicaciones/1198322-boletin-de-comercializacion-y-precios-de-aves-setiembre-2020
+    informes-publicaciones/1239907-boletin-de-comercializacion-y-precios-de-aves-octubre-2020
+    informes-publicaciones/1377365-boletin-de-comercializacion-y-precios-de-aves-diciembre-2020
+    informes-publicaciones/1952612-boletin-de-comercializacion-y-precios-de-aves-junio-2021
+    informes-publicaciones/2130054-boletin-de-comercializacion-y-precios-de-aves-septiembre-2021
+    informes-publicaciones/2307798-boletin-de-comercializacion-y-precios-de-aves-noviembre-2021
+    informes-publicaciones/2503149-boletin-de-comercializacion-y-precios-de-aves-diciembre-2021
+    informes-publicaciones/2778599-boletin-de-comercializacion-y-precios-de-aves-marzo-2022
+    informes-publicaciones/2944277-boletin-de-comercializacion-y-precios-de-aves-mayo-2022
+    informes-publicaciones/3306606-boletin-de-comercializacion-y-precios-de-aves-agosto-2022
+    informes-publicaciones/3630067-boletin-de-comercializacion-y-precios-de-aves-noviembre-2022
+    informes-publicaciones/3702503-boletin-de-comercializacion-y-precios-de-aves-diciembre-2022
+    informes-publicaciones/3819343-boletin-de-comercializacion-y-precios-de-aves-enero-2023
+    informes-publicaciones/3960138-boletin-de-comercializacion-y-precios-de-aves-marzo-2023
+    informes-publicaciones/4596689-boletin-de-comercializacion-y-precios-de-aves-septiembre-2023
+    informes-publicaciones/4700554-boletin-de-comercializacion-y-precios-de-aves-octubre-2023
+    informes-publicaciones/4988874-boletin-de-comercializacion-y-precios-de-aves-enero-2024
+    informes-publicaciones/5141955-boletin-de-comercializacion-y-precios-de-aves-febrero-2024
+    informes-publicaciones/5944586-boletin-de-comercializacion-y-precios-de-aves-setiembre2024
+    informes-publicaciones/6146437-boletin-de-comercializacion-y-precios-de-aves-noviembre-2024
+    informes-publicaciones/6528385-boletin-de-comercializacion-y-precios-de-aves-marzo-2025
+    informes-publicaciones/6827057-boletin-de-comercializacion-y-precios-de-aves-junio-2025
+    informes-publicaciones/7005774-boletin-de-comercializacion-y-precios-de-aves-agosto-2025
+    informes-publicaciones/8205044-boletin-de-comercializacion-y-precios-de-aves-junio-2026
+  paginación:
+  apis/json:
