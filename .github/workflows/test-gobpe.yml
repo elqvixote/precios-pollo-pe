@@ -3,15 +3,22 @@ name: Prueba acceso gob.pe
 on:
   workflow_dispatch:   # se ejecuta a mano desde la pestaña Actions
 
+permissions:
+  contents: write
+
 jobs:
   probar:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - name: IP y ubicación del runner
-        run: curl -s https://ipinfo.io | head -20
+        run: |
+          mkdir -p diagnostico
+          curl -s https://ipinfo.io | head -20 | tee diagnostico/gobpe.txt
 
       - name: Probar URLs (curl por defecto y con User-Agent de navegador)
         run: |
+          exec > >(tee -a diagnostico/gobpe.txt) 2>&1
           UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36"
           URLS=(
             "https://www.gob.pe/institucion/midagri/informes-publicaciones/6617104-boletin-estadistico-mensual-del-sector-avicola-2025"
@@ -36,3 +43,11 @@ jobs:
               grep -o 'cdn\.www\.gob\.pe/uploads/document/file/[^"]*\.pdf' /tmp/resp | head -5 || echo "(ninguno)"
             done
           done
+
+      - name: Guardar diagnóstico en el repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add diagnostico/gobpe.txt
+          git commit -m "Diagnóstico de acceso a gob.pe" || echo "sin cambios"
+          git push
