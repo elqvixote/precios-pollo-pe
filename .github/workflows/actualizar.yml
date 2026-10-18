@@ -61,11 +61,14 @@ jobs:
         if: (steps.imagen.outputs.nueva != '' || inputs.prueba_telegram) && env.TG_TOKEN != ''
         run: |
           IMG="${{ steps.imagen.outputs.nueva }}"; [ -z "$IMG" ] && IMG="imagenes/ultima.png"
-          RESP=$(curl -sS -F chat_id="$TG_CHAT" -F photo=@"$IMG" \
-            -F caption="Precio del pollo en Lima · fuente MIDAGRI" \
-            "https://api.telegram.org/bot$TG_TOKEN/sendPhoto")
-          if echo "$RESP" | grep -q '"ok":true'; then echo "Enviada a Telegram"
-          else echo "Telegram rechazó el envío: $(echo "$RESP" | grep -o '"description":"[^"]*"')"; exit 1; fi
+          CHAT=$(echo "$TG_CHAT" | tr -d '[:space:]')
+          # --form-string: el valor se envía literal (con -F, un valor que empieza con @ o < se lee como archivo)
+          RESP=$(curl -sS --form-string chat_id="$CHAT" -F photo=@"$IMG" \
+            --form-string caption="Precio del pollo en Lima · fuente MIDAGRI" \
+            "https://api.telegram.org/bot$(echo "$TG_TOKEN" | tr -d '[:space:]')/sendPhoto") || true
+          FORMATO="chat id de ${#CHAT} caracteres, empieza con '${CHAT:0:1}'"
+          if echo "$RESP" | grep -q '"ok":true'; then echo "::notice::Enviada a Telegram ($FORMATO)"
+          else echo "::error::Telegram rechazó el envío ($FORMATO): $(echo "$RESP" | grep -o '"description":"[^"]*"')"; exit 1; fi
       - name: Guardar datos
         if: always()
         run: |
