@@ -34,7 +34,7 @@ C = dict(
     serie1="#2a78d6",   # pollo vivo mayorista
     serie2="#eb6834",   # granja
 )
-MARCA = "@preciopollo.pe"   # reemplazar por el handle real
+MARCA = "preciopollo.pe"
 DIAS = ["lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "domingo"]
 MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto",
          "septiembre", "octubre", "noviembre", "diciembre"]
