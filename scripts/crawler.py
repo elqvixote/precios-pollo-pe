@@ -12,6 +12,7 @@ Uso:
   python scripts/crawler.py --ultimos-meses 2             # corrida diaria
 """
 import argparse, csv, re, sys, tempfile, time, traceback
+from urllib.parse import unquote
 from datetime import date, datetime, timezone
 from pathlib import Path
 
@@ -71,20 +72,32 @@ def paginas_mensuales():
     return sorted(out, key=lambda x: (x[1], x[2]))
 
 
-def pdfs_de_pagina(pub_id, url):
-    """[(fecha, url_pdf)] de una página mensual."""
+def pdfs_de_pagina(pub_id, url, anio, mes):
+    """[(fecha, url_pdf)] de una página mensual.
+    Formatos de nombre: '<pub_id>-boletin-...-dd-mm-aaaa.pdf' (2024+) y
+    'Boletín de abastecimiento y precios de AVES - dd/mm/aa.pdf' (años previos).
+    Si el nombre no trae fecha, se usa el día 1 del mes y la fecha real se toma del PDF."""
     html = get(url).text
-    urls = re.findall(r'https://cdn\.www\.gob\.pe/uploads/document/file/\d+/[^"\'\s<>]+?\.pdf', html)
+    urls = re.findall(r'https://cdn\.www\.gob\.pe/uploads/document/file/\d+/[^"\'<>]+?\.pdf', html)
     out = {}
-    for u in urls:
-        nombre = u.rsplit("/", 1)[-1]
-        if not nombre.startswith(f"{pub_id}-"):
-            continue  # links a otras publicaciones
-        m = re.search(r"(\d{2})-(\d{2})-(\d{4})\.pdf$", nombre)
+    for u in dict.fromkeys(urls):
+        ruta = unquote(u.split("/uploads/document/file/", 1)[1].split("/", 1)[1])
+        prefijo = re.match(r"(\d+)-", ruta)
+        if prefijo and prefijo.group(1) != pub_id:
+            continue  # link a otra publicación
+        if not prefijo and "aves" not in ruta.lower():
+            continue
+        m = re.search(r"(\d{2})-(\d{2})-(\d{4})\.pdf$", ruta) or re.search(r"(\d{2})/(\d{2})/(\d{2,4})\.pdf$", ruta)
         if m:
-            f = date(int(m.group(3)), int(m.group(2)), int(m.group(1)))
-            out[f] = u
-    return sorted(out.items())
+            a = int(m.group(3)); a = a + 2000 if a < 100 else a
+            try:
+                f = date(a, int(m.group(2)), int(m.group(1)))
+            except ValueError:
+                f = date(anio, mes, 1)
+        else:
+            f = date(anio, mes, 1)
+        out[u] = f
+    return sorted(((f, u) for u, f in out.items()))
 
 
 # ---------------------------------------------------------------- almacenamiento
@@ -154,6 +167,7 @@ def validar_uno(fb, kpi, diario, ingreso):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--desde", type=date.fromisoformat, help="procesar boletines desde esta fecha")
+    ap.add_argument("--hasta", type=date.fromisoformat, help="procesar boletines hasta esta fecha")
     ap.add_argument("--ultimos-meses", type=int, default=None, help="revisar solo las N páginas mensuales más recientes")
     ap.add_argument("--reintentar-cuarentena", action="store_true")
     a = ap.parse_args()
@@ -164,14 +178,18 @@ def main():
     print(f"Colección: {len(meses)} páginas mensuales ({meses[0][1]}-{meses[0][2]:02d} a {meses[-1][1]}-{meses[-1][2]:02d})")
     if a.desde:
         meses = [m for m in meses if (m[1], m[2]) >= (a.desde.year, a.desde.month)]
+    if a.hasta:
+        meses = [m for m in meses if (m[1], m[2]) <= (a.hasta.year, a.hasta.month)]
     if a.ultimos_meses:
         meses = meses[-a.ultimos_meses:]
 
     pendientes = []
     for pub_id, anio, mes, url in meses:
-        pdfs = pdfs_de_pagina(pub_id, url)
+        pdfs = pdfs_de_pagina(pub_id, url, anio, mes)
         for f, u in pdfs:
-            if a.desde and f < a.desde:
+            if a.desde and f < a.desde.replace(day=1):
+                continue
+            if a.hasta and f > a.hasta:
                 continue
             est = manifest.get(u, {}).get("estado")
             if est == "ok" or (est == "cuarentena" and not a.reintentar_cuarentena):
@@ -182,6 +200,15 @@ def main():
 
     print(f"Pendientes: {len(pendientes)}")
     D, M, I = [], [], []
+
+    def guardar():
+        anexar("diario", D, ["region", "serie", "metrica", "fecha_dato", "fecha_boletin"])
+        anexar("mensual", M, ["region", "anio", "mes"])     # foto del boletín más reciente por mes
+        anexar("ingreso", I, ["region", "fecha_dato"])       # valor del boletín más reciente
+        construir_series()
+        escribir_manifest(manifest)
+        D.clear(); M.clear(); I.clear()
+
     ok = cuar = 0
     with tempfile.TemporaryDirectory() as tmp:
         for f, pub_id, u in pendientes:
@@ -192,6 +219,8 @@ def main():
                 ruta.write_bytes(get(u).content)
                 fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
                 probs = validar_uno(fb, kpi, diario, ingreso)
+                if f.day == 1 and fb.replace(day=1) == f:
+                    f = fb; fila["fecha"] = fb.isoformat()  # nombre sin fecha: se usa la del PDF
                 if fb != f:
                     probs.append(f"fecha interna {fb} != nombre de archivo {f}")
                 if probs:
@@ -204,16 +233,12 @@ def main():
                 fila.update(estado="cuarentena", detalle=f"{type(e).__name__}: {e}"[:300]); cuar += 1
                 traceback.print_exc(limit=1)
             manifest[u] = fila
-            print(f"  {f} {fila['estado']} {fila['detalle']}")
-            time.sleep(0.5)
+            print(f"  {f} {fila['estado']} {fila['detalle']}", flush=True)
+            if (ok + cuar) % 100 == 0:
+                guardar()
+            time.sleep(0.3)
 
-    anexar("diario", D, ["region", "serie", "metrica", "fecha_dato", "fecha_boletin"])
-    # mensual: se conserva la foto del boletín más reciente para cada mes
-    anexar("mensual", M, ["region", "anio", "mes"])
-    # ingreso: el gráfico repite 31 días; se conserva el valor del boletín más reciente
-    anexar("ingreso", I, ["region", "fecha_dato"])
-    construir_series()
-    escribir_manifest(manifest)
+    guardar()
     print(f"\nResumen: {ok} ok, {cuar} en cuarentena, {len(pendientes)} procesados")
 
 
