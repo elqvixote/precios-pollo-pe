@@ -1,0 +1,102 @@
+{
+  "ip": "172.185.54.246",
+  "city": "San Jose",
+  "region": "California",
+  "country": "US",
+  "loc": "37.3394,-121.8950",
+  "org": "AS8075 Microsoft Corporation",
+  "postal": "95110",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+}==================================================
+URL:  https://www.gob.pe/institucion/midagri/informes-publicaciones/6617104-boletin-estadistico-mensual-del-sector-avicola-2025
+Modo: default
+HTTP 200 | 82289 bytes | 1.147230s | tipo: text/html; charset=utf-8
+--- headers relevantes ---
+Set-Cookie: HWWAFSESID=5caa98b676cf546c29; path=/
+Set-Cookie: HWWAFSESTIME=1792293925735; path=/
+Server: elb
+--- primeras líneas de la respuesta ---
+<!DOCTYPE html><html lang="es-pe"><head><meta content="&amp;nbsp;Aquí podrá encontrar estadística sobre el sector avícola mensualizado.La avicultura nacional, tiene una significativa participación dentro del Valor Bruto de la Producción Agropecuaria y se caracteriza como una actividad económi
+--- ¿trae links a PDFs? ---
+cdn.www.gob.pe/uploads/document/file/9492042/6617104-boletin-sobre-produccion-y-comercializacion-avicola-diciembre-2025.pdf
+cdn.www.gob.pe/uploads/document/file/9492042/6617104-boletin-sobre-produccion-y-comercializacion-avicola-diciembre-2025.pdf
+cdn.www.gob.pe/uploads/document/file/9313150/6617104-boletin-sobre-produccion-y-comercializacion-avicola-noviembre-2025.pdf
+cdn.www.gob.pe/uploads/document/file/9313150/6617104-boletin-sobre-produccion-y-comercializacion-avicola-noviembre-2025.pdf
+cdn.www.gob.pe/uploads/document/file/9239796/6617104-boletin-sobre-produccion-y-comercializacion-avicola-octubre-2025.pdf
+==================================================
+URL:  https://www.gob.pe/institucion/midagri/informes-publicaciones/6617104-boletin-estadistico-mensual-del-sector-avicola-2025
+Modo: navegador
+HTTP 200 | 82289 bytes | 1.093794s | tipo: text/html; charset=utf-8
+--- headers relevantes ---
+Set-Cookie: HWWAFSESID=5caa9157676cf546c29; path=/
+Set-Cookie: HWWAFSESTIME=1792293925735; path=/
+Server: elb
+--- primeras líneas de la respuesta ---
+<!DOCTYPE html><html lang="es-pe"><head><meta content="&amp;nbsp;Aquí podrá encontrar estadística sobre el sector avícola mensualizado.La avicultura nacional, tiene una significativa participación dentro del Valor Bruto de la Producción Agropecuaria y se caracteriza como una actividad económi
+--- ¿trae links a PDFs? ---
+cdn.www.gob.pe/uploads/document/file/9492042/6617104-boletin-sobre-produccion-y-comercializacion-avicola-diciembre-2025.pdf
+cdn.www.gob.pe/uploads/document/file/9492042/6617104-boletin-sobre-produccion-y-comercializacion-avicola-diciembre-2025.pdf
+cdn.www.gob.pe/uploads/document/file/9313150/6617104-boletin-sobre-produccion-y-comercializacion-avicola-noviembre-2025.pdf
+cdn.www.gob.pe/uploads/document/file/9313150/6617104-boletin-sobre-produccion-y-comercializacion-avicola-noviembre-2025.pdf
+cdn.www.gob.pe/uploads/document/file/9239796/6617104-boletin-sobre-produccion-y-comercializacion-avicola-octubre-2025.pdf
+==================================================
+URL:  https://www.gob.pe/institucion/midagri/informes-publicaciones/8319970-boletin-de-comercializacion-y-precios-de-aves-julio-2026
+Modo: default
+HTTP 200 | 70255 bytes | 0.973113s | tipo: text/html; charset=utf-8
+--- headers relevantes ---
+Set-Cookie: HWWAFSESID=5caa91e7676cf546c29; path=/
+Set-Cookie: HWWAFSESTIME=1792293925735; path=/
+Server: elb
+--- primeras líneas de la respuesta ---
+<!DOCTYPE html><html lang="es-pe"><head><meta content="Precio del pollo por kg. en los mercados minoristas. Se incluye además el costo al por mayor de la gallina, del huevo rosado por kilogramo y el precio del pollo por toneladas en los centros de acopio correspondiente al mes de JULIO 2026Para may
+--- ¿trae links a PDFs? ---
+cdn.www.gob.pe/uploads/document/file/10386890/8319970-boletin-de-abastecimiento-y-precios-de-aves-31-07-2026.pdf
+cdn.www.gob.pe/uploads/document/file/10386890/8319970-boletin-de-abastecimiento-y-precios-de-aves-31-07-2026.pdf
+cdn.www.gob.pe/uploads/document/file/10379010/8319970-boletin-de-abastecimiento-y-precios-de-aves-30-07-2026.pdf
+cdn.www.gob.pe/uploads/document/file/10379010/8319970-boletin-de-abastecimiento-y-precios-de-aves-30-07-2026.pdf
+cdn.www.gob.pe/uploads/document/file/10371668/8319970-boletin-de-abastecimiento-y-precios-de-aves-24-07-2026.pdf
+grep: write error: Broken pipe
+==================================================
+URL:  https://www.gob.pe/institucion/midagri/informes-publicaciones/8319970-boletin-de-comercializacion-y-precios-de-aves-julio-2026
+Modo: navegador
+HTTP 200 | 70255 bytes | 0.928552s | tipo: text/html; charset=utf-8
+--- headers relevantes ---
+Set-Cookie: HWWAFSESID=5caa927a676cf546c29; path=/
+Set-Cookie: HWWAFSESTIME=1792293925735; path=/
+Server: elb
+--- primeras líneas de la respuesta ---
+<!DOCTYPE html><html lang="es-pe"><head><meta content="Precio del pollo por kg. en los mercados minoristas. Se incluye además el costo al por mayor de la gallina, del huevo rosado por kilogramo y el precio del pollo por toneladas en los centros de acopio correspondiente al mes de JULIO 2026Para may
+--- ¿trae links a PDFs? ---
+cdn.www.gob.pe/uploads/document/file/10386890/8319970-boletin-de-abastecimiento-y-precios-de-aves-31-07-2026.pdf
+cdn.www.gob.pe/uploads/document/file/10386890/8319970-boletin-de-abastecimiento-y-precios-de-aves-31-07-2026.pdf
+cdn.www.gob.pe/uploads/document/file/10379010/8319970-boletin-de-abastecimiento-y-precios-de-aves-30-07-2026.pdf
+cdn.www.gob.pe/uploads/document/file/10379010/8319970-boletin-de-abastecimiento-y-precios-de-aves-30-07-2026.pdf
+cdn.www.gob.pe/uploads/document/file/10371668/8319970-boletin-de-abastecimiento-y-precios-de-aves-24-07-2026.pdf
+grep: write error: Broken pipe
+==================================================
+URL:  https://cdn.www.gob.pe/uploads/document/file/10810108/8667279-boletin-de-abastecimiento-y-precios-de-aves-16-10-2026.pdf
+Modo: default
+HTTP 200 | 3117351 bytes | 2.250217s | tipo: application/pdf
+--- headers relevantes ---
+Server: openresty
+--- primeras líneas de la respuesta ---
+%PDF-1.4
+%����
+1 0 obj
+<</Title <FEFF0042006F006C006500740069006E00200050006F006C006C006F0020002D00200048006F006A006100730020006400650020006300E1006C00630075006C006F00200064006500200047006F006F0067006C0065>
+/Creator (Mozilla/5.0 \(Windows NT 10.0; Win64; x64\) AppleWebKit/537.36 \(KHTML, like Gecko\
+--- ¿trae links a PDFs? ---
+==================================================
+URL:  https://cdn.www.gob.pe/uploads/document/file/10810108/8667279-boletin-de-abastecimiento-y-precios-de-aves-16-10-2026.pdf
+Modo: navegador
+HTTP 200 | 3117351 bytes | 1.092138s | tipo: application/pdf
+--- headers relevantes ---
+Server: openresty
+--- primeras líneas de la respuesta ---
+%PDF-1.4
+%����
+1 0 obj
+<</Title <FEFF0042006F006C006500740069006E00200050006F006C006C006F0020002D00200048006F006A006100730020006400650020006300E1006C00630075006C006F00200064006500200047006F006F0067006C0065>
+/Creator (Mozilla/5.0 \(Windows NT 10.0; Win64; x64\) AppleWebKit/537.36 \(KHTML, like Gecko\
+--- ¿trae links a PDFs? ---
