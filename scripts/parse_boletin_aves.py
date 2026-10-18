@@ -64,7 +64,7 @@ def lines_of(words, tol=3.5):
 
 def fecha_boletin(pdf):
     t = pdf.pages[0].extract_text() or ""
-    m = re.search(r"(\d{1,2}) de (\w+) de (\d{4})", t)
+    m = re.search(r"(\d{1,2}) de (\w+) del? (\d{4})", t)
     if not m:
         raise ValueError("No se encontró la fecha del boletín")
     return date(int(m.group(3)), MESES[m.group(2).lower()], int(m.group(1)))
@@ -214,9 +214,73 @@ def validar(D, I, kpis):
     return alertas
 
 
+# ======================================================================
+# Familia "Excel" (2020 -> 18-08-2026): una hoja de Excel exportada a PDF.
+# Las filas traen etiqueta + 4 tokens: prom_7d, día anterior, día, var%.
+# Un "-" significa sin dato y se respeta la posición.
+# ======================================================================
+TOK = r"(-?\d+\.\d+%?|-)"  # número primero: si no, "-0.2%" se lee como "-"
+FILAS_EXCEL = [
+    (r"(?:Granja \(pollo vivo\)|Precio en granja \(S/ x kg\))", "pollo_vivo_granja", "S/ por kg"),
+    (r"(?:Centros de Distribuci[oó]n \(pollo vivo\)|Precio en Centros de (?:Acopio|Distribuci[oó]n) \(S/ x kg\))",
+     "pollo_vivo_mayorista", "S/ por kg"),
+    (r"(?:Mercados Minoristas \(pollo eviscerado\)|Precio en Mercados Minoristas \(S/ x kg\))",
+     "pollo_eviscerado_consumidor", "S/ por kg"),
+    (r"Peso promedio por pollo \(kg x unid\.\)", "peso_promedio_pollo_vivo", "kg por unidad"),
+    (r"Gallina colorada", "gallina_colorada", "S/ por kg"),
+    (r"Gallina reproductora:?", "gallina_reproductora", "S/ por kg"),
+    (r"Huevo rosado", "huevo_rosado", "S/ por kg"),
+]
+MES_LARGO = r"(Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Setiembre|Septiembre|Octubre|Noviembre|Diciembre|" \
+            r"Ene|Feb|Mar|Abr|May|Jun|Jul|Ago|Set|Sep|Oct|Nov|Dic)"
+VOL = r"(\d{1,3}(?:,\d{3})+)"
+
+
+def es_excel(pdf):
+    return "excel" in (pdf.metadata.get("Creator") or "").lower()
+
+
+def parse_excel(pdf, fb):
+    t = pdf.pages[0].extract_text() or ""
+    diario = []
+    h = re.search(r"Promedio\s+\w{3}-(\d{2})\s+\w{3}-(\d{2})", t)
+    if not h:
+        raise ValueError("Excel: no se encontró el encabezado de fechas")
+    d_ant, d_hoy = resolver_dia(h.group(1), fb), resolver_dia(h.group(2), fb)
+    if d_hoy != fb:
+        raise ValueError(f"Excel: encabezado {d_hoy} no coincide con boletín {fb}")
+    for patron, serie, unidad in FILAS_EXCEL:
+        m = re.search(patron + r"\s+(?:[ab]\s+)?" + r"\s+".join([TOK] * 4), t)
+        if not m:
+            continue
+        for metrica, fecha, tok in (("prom_7d", fb, m.group(1)), ("valor", d_ant, m.group(2)),
+                                    ("valor", d_hoy, m.group(3)), ("var_pct", fb, m.group(4))):
+            if tok == "-":
+                continue
+            diario.append(dict(fecha_boletin=fb, region="Lima", serie=serie, unidad=unidad,
+                               metrica=metrica, fecha_dato=fecha, valor=to_num(tok)))
+    mensual = []
+    for linea in t.splitlines():
+        for m in re.finditer(MES_LARGO + r"\s+(?:1\s+)?" + VOL + r"\s+(?:" + VOL + r"\s+-?[\d.]+%\s+)?(\d+\.\d+)"
+                             r"(?:\s+(\d+\.\d+)\s+-?[\d.]+%)?", linea):
+            mes = MESES[m.group(1).lower()]
+            mensual.append(dict(fecha_boletin=fb, region="Lima", anio=fb.year - 1, mes=mes,
+                                oferta_t=to_num(m.group(2)), precio_kg=float(m.group(4))))
+            if m.group(3):
+                mensual.append(dict(fecha_boletin=fb, region="Lima", anio=fb.year, mes=mes,
+                                    oferta_t=to_num(m.group(3)),
+                                    precio_kg=float(m.group(5)) if m.group(5) else None))
+    k = re.search(r"vendi[oó]\s*(?:a|en)\s*S/\s*(\d+\.\d+)", t.replace(" ", ""))
+    kpi = (float(k.group(1)) if k else None, None)  # la familia Excel no trae oferta diaria confiable
+    return kpi, diario, mensual, []
+
+
 def parse_pdf(path):
     with pdfplumber.open(path) as pdf:
         fb = fecha_boletin(pdf)
+        if es_excel(pdf):
+            kpi, diario, mensual, ingreso = parse_excel(pdf, fb)
+            return fb, kpi, diario, mensual, ingreso
         kpi = kpis_portada(pdf)
         p_lima, p_aqp = pdf.pages[1], pdf.pages[2]
         diario = parse_tablas_diarias(p_lima, fb, "Lima") + parse_tablas_diarias(p_aqp, fb, "Arequipa")

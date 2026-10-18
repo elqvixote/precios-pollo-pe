@@ -141,10 +141,11 @@ def validar_uno(fb, kpi, diario, ingreso):
            and r["metrica"] == "valor" and r["fecha_dato"] == fb]
     if precio is None or not may or abs(may[0] - precio) > 0.005:
         probs.append(f"precio portada {precio} vs tabla {may}")
-    ing = [r["oferta_t"] for r in ingreso if r["fecha_dato"] == fb]
-    if oferta is None or not ing or abs(ing[0] - oferta) > 1:
-        probs.append(f"oferta portada {oferta} vs gráfico {ing}")
-    if len(diario) < 25:
+    if oferta is not None:  # None = la plantilla no reporta oferta diaria (familia Excel)
+        ing = [r["oferta_t"] for r in ingreso if r["fecha_dato"] == fb]
+        if not ing or abs(ing[0] - oferta) > 1:
+            probs.append(f"oferta portada {oferta} vs gráfico {ing}")
+    if len(diario) < 12:
         probs.append(f"solo {len(diario)} filas diarias")
     return probs
 
