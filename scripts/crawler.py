@@ -20,7 +20,7 @@ import pandas as pd
 import requests
 
 sys.path.insert(0, str(Path(__file__).parent))
-from parse_boletin_aves import parse_pdf  # noqa: E402
+from parse_boletin_aves import parse_pdf, NoEsBoletinAves  # noqa: E402
 
 BASE = "https://www.gob.pe"
 COLECCION = BASE + "/institucion/midagri/colecciones/4-boletin-diario-de-comercializacion-y-precio-de-aves"
@@ -152,7 +152,10 @@ def validar_uno(fb, kpi, diario, ingreso):
     probs = []
     may = [r["valor"] for r in diario if r["region"] == "Lima" and r["serie"] == "pollo_vivo_mayorista"
            and r["metrica"] == "valor" and r["fecha_dato"] == fb]
-    if precio is None or not may or abs(may[0] - precio) > 0.005:
+    if not may:
+        probs.append("sin precio mayorista del día en la tabla")
+    elif precio is not None and abs(may[0] - precio) > 0.005:
+        # precio None = el texto no lo menciona; se acepta la tabla
         probs.append(f"precio portada {precio} vs tabla {may}")
     if oferta is not None:  # None = la plantilla no reporta oferta diaria (familia Excel)
         ing = [r["oferta_t"] for r in ingreso if r["fecha_dato"] == fb]
@@ -219,16 +222,20 @@ def main():
                 ruta.write_bytes(get(u).content)
                 fb, kpi, diario, mensual, ingreso = parse_pdf(ruta)
                 probs = validar_uno(fb, kpi, diario, ingreso)
-                if f.day == 1 and fb.replace(day=1) == f:
-                    f = fb; fila["fecha"] = fb.isoformat()  # nombre sin fecha: se usa la del PDF
+                nota = ""
                 if fb != f:
-                    probs.append(f"fecha interna {fb} != nombre de archivo {f}")
+                    # El contenido manda: a veces el nombre del archivo trae otra fecha.
+                    if not (f.day == 1 and fb.replace(day=1) == f):
+                        nota = f"nombre de archivo dice {f}; se usa la fecha interna"
+                    fila["fecha"] = fb.isoformat()
                 if probs:
                     fila.update(estado="cuarentena", detalle="; ".join(probs)); cuar += 1
                 else:
                     D += diario; M += mensual; I += ingreso
-                    fila.update(estado="ok", detalle=""); ok += 1
+                    fila.update(estado="ok", detalle=nota); ok += 1
                 ruta.unlink()
+            except NoEsBoletinAves as e:
+                fila.update(estado="descartado", detalle=str(e)); cuar += 1
             except Exception as e:
                 fila.update(estado="cuarentena", detalle=f"{type(e).__name__}: {e}"[:300]); cuar += 1
                 traceback.print_exc(limit=1)

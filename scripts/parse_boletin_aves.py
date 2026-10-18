@@ -219,7 +219,15 @@ def validar(D, I, kpis):
 # Las filas traen etiqueta + 4 tokens: prom_7d, día anterior, día, var%.
 # Un "-" significa sin dato y se respeta la posición.
 # ======================================================================
-TOK = r"(-?\d+\.\d+%?|-)"  # número primero: si no, "-0.2%" se lee como "-"
+TOK = r"(-?\d+[.,]\d+%?|-)"  # número primero: si no, "-0.2%" se lee como "-". 2020-21 usa coma decimal
+
+
+class NoEsBoletinAves(ValueError):
+    """El PDF publicado en la colección no es un boletín de aves (error de carga de MIDAGRI)."""
+
+
+def num_dec(tok):
+    return float(tok.replace(",", ".").replace("%", ""))
 FILAS_EXCEL = [
     (r"(?:Granja \(pollo vivo\)|Precio en granja \(S/ x kg\))", "pollo_vivo_granja", "S/ por kg"),
     (r"(?:Centros de Distribuci[oó]n \(pollo vivo\)|Precio en Centros de (?:Acopio|Distribuci[oó]n) \(S/ x kg\))",
@@ -242,36 +250,41 @@ def es_excel(pdf):
 
 def parse_excel(pdf, fb):
     t = pdf.pages[0].extract_text() or ""
+    if not re.search(r"Peso promedio por pollo|Centros? de (?:Acopio|Distribuci[oó]n)", t):
+        raise NoEsBoletinAves("el PDF no contiene la tabla de precios del pollo")
     diario = []
-    h = re.search(r"Promedio\s+\w{3}-(\d{2})\s+\w{3}-(\d{2})", t)
-    if not h:
-        raise ValueError("Excel: no se encontró el encabezado de fechas")
-    d_ant, d_hoy = resolver_dia(h.group(1), fb), resolver_dia(h.group(2), fb)
-    if d_hoy != fb:
-        raise ValueError(f"Excel: encabezado {d_hoy} no coincide con boletín {fb}")
+    h = re.search(r"Promedio\s+\w{2,3}-(\d{2})\s+\w{2,3}-(\d{2})", t)
+    if h:
+        d_ant, d_hoy = resolver_dia(h.group(1), fb), resolver_dia(h.group(2), fb)
+        if d_hoy != fb:
+            raise ValueError(f"Excel: encabezado {d_hoy} no coincide con boletín {fb}")
+    else:
+        # Algunas plantillas 2021-2023 no imprimen las fechas de las columnas:
+        # se conserva el promedio y el valor del día; el del día anterior se omite.
+        d_ant, d_hoy = None, fb
     for patron, serie, unidad in FILAS_EXCEL:
         m = re.search(patron + r"\s+(?:[ab]\s+)?" + r"\s+".join([TOK] * 4), t)
         if not m:
             continue
         for metrica, fecha, tok in (("prom_7d", fb, m.group(1)), ("valor", d_ant, m.group(2)),
                                     ("valor", d_hoy, m.group(3)), ("var_pct", fb, m.group(4))):
-            if tok == "-":
+            if tok == "-" or fecha is None:
                 continue
             diario.append(dict(fecha_boletin=fb, region="Lima", serie=serie, unidad=unidad,
-                               metrica=metrica, fecha_dato=fecha, valor=to_num(tok)))
+                               metrica=metrica, fecha_dato=fecha, valor=num_dec(tok)))
     mensual = []
     for linea in t.splitlines():
-        for m in re.finditer(MES_LARGO + r"\s+(?:1\s+)?" + VOL + r"\s+(?:" + VOL + r"\s+-?[\d.]+%\s+)?(\d+\.\d+)"
-                             r"(?:\s+(\d+\.\d+)\s+-?[\d.]+%)?", linea):
+        for m in re.finditer(MES_LARGO + r"\s+(?:1\s+)?" + VOL + r"\s+(?:" + VOL + r"\s+-?[\d.,]+%\s+)?(\d+[.,]\d{2})\b"
+                             r"(?:\s+(\d+[.,]\d{2})\s+-?[\d.,]+%)?", linea):
             mes = MESES[m.group(1).lower()]
             mensual.append(dict(fecha_boletin=fb, region="Lima", anio=fb.year - 1, mes=mes,
-                                oferta_t=to_num(m.group(2)), precio_kg=float(m.group(4))))
+                                oferta_t=to_num(m.group(2)), precio_kg=num_dec(m.group(4))))
             if m.group(3):
                 mensual.append(dict(fecha_boletin=fb, region="Lima", anio=fb.year, mes=mes,
                                     oferta_t=to_num(m.group(3)),
-                                    precio_kg=float(m.group(5)) if m.group(5) else None))
-    k = re.search(r"vendi[oó]\s*(?:a|en)\s*S/\s*(\d+\.\d+)", t.replace(" ", ""))
-    kpi = (float(k.group(1)) if k else None, None)  # la familia Excel no trae oferta diaria confiable
+                                    precio_kg=num_dec(m.group(5)) if m.group(5) else None))
+    k = re.search(r"vendi[oó]\s*(?:a|en)\s*S/\s*(\d+[.,]\d+)", t.replace(" ", ""))
+    kpi = (num_dec(k.group(1)) if k else None, None)  # la familia Excel no trae oferta diaria confiable
     return kpi, diario, mensual, []
 
 
