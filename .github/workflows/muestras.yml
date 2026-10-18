@@ -1,0 +1,30 @@
+name: Bajar PDFs de muestra
+
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "URLs de PDFs separadas por espacio"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  bajar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar a la rama 'muestras'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin muestras && git checkout muestras || git checkout --orphan muestras
+          git rm -rq --cached . 2>/dev/null || true
+          find . -mindepth 1 -maxdepth 1 ! -name .git ! -name pdfs -exec rm -rf {} +
+          mkdir -p pdfs
+          for u in ${{ inputs.urls }}; do curl -sS -L --max-time 60 -o "pdfs/$(basename "$u")" "$u"; done
+          ls -la pdfs
+          git add pdfs
+          git commit -m "Muestras PDF" || echo "sin cambios"
+          git push origin muestras
