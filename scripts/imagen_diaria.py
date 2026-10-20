@@ -169,9 +169,19 @@ def generar(fecha=None, solo_si_nueva=False):
             linea.append(f"= igual que el {DIAS[fp.weekday()]}")
         else:
             linea.append(f"{'▲' if d > 0 else '▼'} S/ {abs(d):.2f} ({d / p * 100:+.1f}%) vs. {DIAS[fp.weekday()]}")
-    if pd.notna(prom7) and prom7:
+    # Lunes: el boletín compara con el domingo (dato que MIDAGRI sí registra, aunque ese día
+    # no publica boletín). Se agrega la comparación con el viernes, el último boletín que vio el lector.
+    vie = may[(may.index < f) & (may.index.weekday == 4) & (may.index > f - timedelta(days=7))]
+    if f.weekday() == 0 and len(vie):
+        dv = v - vie.iloc[-1]
+        linea.append("= igual que el viernes" if abs(dv) < 0.005 else
+                     f"{'▲' if dv > 0 else '▼'} S/ {abs(dv):.2f} ({dv / vie.iloc[-1] * 100:+.1f}%) vs. viernes")
+    elif pd.notna(prom7) and prom7:
         linea.append(f"{(v - prom7) / prom7 * 100:+.1f}% vs. promedio 7 días")
     fig.text(0.06, 0.700, "   ·   ".join(linea), fontsize=19, color=C["texto"], fontweight="medium")
+    if f.weekday() == 0 and p is not None and fp.weekday() == 6:
+        fig.text(0.06, 0.682, "El domingo no hay boletín, pero MIDAGRI registra el precio de ese día "
+                 "y lo publica el lunes.", fontsize=12.5, color=C["tenue"])
 
     # --- Lectura rápida
     ax = caja(fig, [0.06, 0.630, 0.88, 0.045], "#e8f0fb", radio_pulg=0.3)
