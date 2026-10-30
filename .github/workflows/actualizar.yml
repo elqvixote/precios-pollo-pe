@@ -69,6 +69,20 @@ jobs:
           FORMATO="chat id de ${#CHAT} caracteres, empieza con '${CHAT:0:1}'"
           if echo "$RESP" | grep -q '"ok":true'; then echo "::notice::Enviada a Telegram ($FORMATO)"
           else echo "::error::Telegram rechazó el envío ($FORMATO): $(echo "$RESP" | grep -o '"description":"[^"]*"')"; exit 1; fi
+      - name: Comentario semanal (viernes)
+        id: semanal
+        run: python scripts/imagen_semanal.py --automatico
+      - name: Enviar comentario semanal a Telegram
+        if: steps.semanal.outputs.semanal != '' && env.TG_TOKEN != ''
+        run: |
+          CHAT=$(echo "$TG_CHAT" | tr -d '[:space:]'); T=$(echo "$TG_TOKEN" | tr -d '[:space:]')
+          RESP=$(curl -sS --form-string chat_id="$CHAT" -F photo=@"${{ steps.semanal.outputs.semanal }}" \
+            --form-string caption="Comentario semanal · preciopollo.pe (revisar antes de publicar)" \
+            "https://api.telegram.org/bot$T/sendPhoto") || true
+          echo "$RESP" | grep -q '"ok":true' || { echo "::error::Telegram rechazó la imagen semanal: $(echo "$RESP" | grep -o '"description":"[^"]*"')"; exit 1; }
+          TXT=$(python3 -c "import json,sys; c=json.load(open(sys.argv[1])); print('Valores de control:\n'+'\n'.join(f'{k}: {v}' for k,v in c.items()))" "${{ steps.semanal.outputs.semanal_json }}")
+          curl -sS --form-string chat_id="$CHAT" --form-string text="$TXT" "https://api.telegram.org/bot$T/sendMessage" > /dev/null
+          echo "::notice::Comentario semanal enviado"
       - name: Guardar datos
         if: always()
         run: |
