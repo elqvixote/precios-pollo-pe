@@ -54,21 +54,25 @@ jobs:
           if [ -n "${{ inputs.hasta }}" ]; then ARGS="$ARGS --hasta ${{ inputs.hasta }}"; fi
           if [ "${{ inputs.reintentar_cuarentena }}" = "true" ]; then ARGS="$ARGS --reintentar-cuarentena"; fi
           python scripts/crawler.py $ARGS 2>&1 | grep -v FontBBox | tee data/ultima_corrida.log
-      - name: Imagen diaria
-        id: imagen
-        run: python scripts/imagen_diaria.py --solo-si-nueva
+      - name: Imagen diaria (una por cada boletín nuevo)
+        run: python scripts/imagenes_pendientes.py
       - name: Enviar a Telegram (si están configurados los secretos)
-        if: (steps.imagen.outputs.nueva != '' || inputs.prueba_telegram) && env.TG_TOKEN != ''
+        if: env.TG_TOKEN != ''
         run: |
-          IMG="${{ steps.imagen.outputs.nueva }}"; [ -z "$IMG" ] && IMG="imagenes/ultima.png"
-          CHAT=$(echo "$TG_CHAT" | tr -d '[:space:]')
-          # --form-string: el valor se envía literal (con -F, un valor que empieza con @ o < se lee como archivo)
-          RESP=$(curl -sS --form-string chat_id="$CHAT" -F photo=@"$IMG" \
-            --form-string caption="Precio del pollo en Lima · fuente MIDAGRI" \
-            "https://api.telegram.org/bot$(echo "$TG_TOKEN" | tr -d '[:space:]')/sendPhoto") || true
-          FORMATO="chat id de ${#CHAT} caracteres, empieza con '${CHAT:0:1}'"
-          if echo "$RESP" | grep -q '"ok":true'; then echo "::notice::Enviada a Telegram ($FORMATO)"
-          else echo "::error::Telegram rechazó el envío ($FORMATO): $(echo "$RESP" | grep -o '"description":"[^"]*"')"; exit 1; fi
+          CHAT=$(echo "$TG_CHAT" | tr -d '[:space:]'); T=$(echo "$TG_TOKEN" | tr -d '[:space:]')
+          LISTA=$(cat imagenes/pendientes.txt 2>/dev/null || true)
+          if [ -z "$LISTA" ] && [ "${{ inputs.prueba_telegram }}" = "true" ]; then LISTA="imagenes/ultima.png"; fi
+          [ -z "$LISTA" ] && { echo "Nada que enviar"; exit 0; }
+          N=$(echo "$LISTA" | wc -l)
+          for IMG in $LISTA; do
+            F=$(basename "$IMG" .png)
+            CAP="Precio del pollo en Lima · boletín del $F · fuente MIDAGRI"
+            [ "$N" -gt 1 ] && CAP="$CAP ($N boletines nuevos)"
+            RESP=$(curl -sS --form-string chat_id="$CHAT" -F photo=@"$IMG" --form-string caption="$CAP" \
+              "https://api.telegram.org/bot$T/sendPhoto") || true
+            if echo "$RESP" | grep -q '"ok":true'; then echo "::notice::Enviada a Telegram: $F"
+            else echo "::error::Telegram rechazó $F: $(echo "$RESP" | grep -o '"description":"[^"]*"')"; exit 1; fi
+          done
       - name: Comentario semanal (viernes)
         id: semanal
         run: python scripts/imagen_semanal.py --automatico
@@ -77,7 +81,7 @@ jobs:
         run: |
           CHAT=$(echo "$TG_CHAT" | tr -d '[:space:]'); T=$(echo "$TG_TOKEN" | tr -d '[:space:]')
           RESP=$(curl -sS --form-string chat_id="$CHAT" -F photo=@"${{ steps.semanal.outputs.semanal }}" \
-            --form-string caption="Comentario semanal · preciopollo.pe (revisar antes de publicar)" \
+            --form-string caption="Comentario semanal${{ steps.semanal.outputs.actualizado == '1' && ' · ACTUALIZADO (llegó un boletín atrasado)' || '' }} · preciopollo.pe (revisar antes de publicar)" \
             "https://api.telegram.org/bot$T/sendPhoto") || true
           echo "$RESP" | grep -q '"ok":true' || { echo "::error::Telegram rechazó la imagen semanal: $(echo "$RESP" | grep -o '"description":"[^"]*"')"; exit 1; }
           TXT=$(python3 -c "import json,sys; c=json.load(open(sys.argv[1])); print('Valores de control:\n'+'\n'.join(f'{k}: {v}' for k,v in c.items()))" "${{ steps.semanal.outputs.semanal_json }}")

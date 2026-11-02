@@ -11,6 +11,11 @@ def _soles(x):
     return f"S/ {x:,.2f}"
 
 
+def _mayus(s):
+    """Mayúscula solo en la primera letra (str.capitalize pasaba "Lima" a "lima")."""
+    return s[:1].upper() + s[1:]
+
+
 def calcular_comentario(ruta_csv="serie_diaria.csv", hasta=None):
     raw = pd.read_csv(ruta_csv, parse_dates=["fecha"])
     L = (raw[raw.region == "Lima"]
@@ -104,9 +109,9 @@ def calcular_comentario(ruta_csv="serie_diaria.csv", hasta=None):
     if pe_baja: partes.append("el pollo viene más liviano")
     if pe_sube: partes.append("el pollo viene más pesado")
     if menos and not mas:
-        g = " y ".join(partes).capitalize() + ": hay menos pollo disponible. No se espera que baje esta semana."
+        g = _mayus(" y ".join(partes)) + ": hay menos pollo disponible. No se espera que baje esta semana."
     elif mas and not menos:
-        g = " y ".join(partes).capitalize() + ": las granjas tienen pollo guardado. El precio podría ceder."
+        g = _mayus(" y ".join(partes)) + ": las granjas tienen pollo guardado. El precio podría ceder."
     else:
         g = "La llegada de pollo a Lima está normal. Sin señal clara por este lado."
     det_of = f"{of_a:,.0f} t/día" if pd.notna(of_a) else "s/d"

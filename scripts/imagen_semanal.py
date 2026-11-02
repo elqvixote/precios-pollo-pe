@@ -139,23 +139,46 @@ def corresponde(ref, hoy):
     return hoy.weekday() == 5 and misma_semana and ref.weekday() < 4
 
 
+def semanal_existentes():
+    return sorted(date.fromisoformat(p.stem[-10:]) for p in SALIDA.glob("comentario_semanal_*.png"))
+
+
 def generar_comentario_semanal(fecha=None, automatico=False):
+    """Devuelve (ruta, control, actualizado)."""
     ruta = preparar_serie()
+    actualizado = False
     if automatico:
         s = pd.read_csv(ruta, parse_dates=["fecha"])
-        ref = s[(s.region == "Lima") & (s.serie == "pollo_vivo_mayorista")].fecha.max().date()
+        dias = sorted(s[(s.region == "Lima") & (s.serie == "pollo_vivo_mayorista")].fecha.dt.date.unique())
+        ref = dias[-1]
         hoy = datetime.now(timezone(timedelta(hours=-5))).date()
+        hechos = semanal_existentes()
         lunes = ref - timedelta(days=ref.weekday())
-        ya = [p for p in SALIDA.glob("comentario_semanal_*.png")
-              if lunes <= date.fromisoformat(p.stem[-10:]) <= lunes + timedelta(days=6)]
-        if ya or not corresponde(ref, hoy):
-            return None, None
-        fecha = ref
+        ya_esta_semana = any(lunes <= h <= lunes + timedelta(days=6) for h in hechos)
+
+        # Boletín atrasado: la semana del último comentario recibió un día hábil posterior
+        # (lun–vie; el domingo llega con el boletín del lunes y no cuenta).
+        tardio = None
+        if hechos:
+            ult = hechos[-1]
+            l0 = ult - timedelta(days=ult.weekday())
+            habiles = [d for d in dias if l0 <= d <= l0 + timedelta(days=4)]
+            if habiles and habiles[-1] > ult:
+                tardio = habiles[-1]
+
+        if tardio:
+            fecha, actualizado = tardio, True
+        elif not ya_esta_semana and corresponde(ref, hoy):
+            fecha = ref
+        else:
+            return None, None, False
     r = calcular_comentario(str(ruta), hasta=fecha)
     out = generar(r)
     c = control(r)
+    if actualizado:
+        c["actualizado"] = True
     out.with_suffix(".json").write_text(json.dumps(c, ensure_ascii=False, indent=2))
-    return out, c
+    return out, c, actualizado
 
 
 if __name__ == "__main__":
@@ -163,7 +186,7 @@ if __name__ == "__main__":
     ap.add_argument("--fecha", type=date.fromisoformat)
     ap.add_argument("--automatico", action="store_true")
     a = ap.parse_args()
-    out, c = generar_comentario_semanal(a.fecha, a.automatico)
+    out, c, actualizado = generar_comentario_semanal(a.fecha, a.automatico)
     if not out:
         print("No corresponde comentario semanal en esta corrida.")
         sys.exit(0)
@@ -173,3 +196,4 @@ if __name__ == "__main__":
         with open(os.environ["GITHUB_OUTPUT"], "a") as fh:
             fh.write(f"semanal={out.relative_to(RAIZ)}\n")
             fh.write(f"semanal_json={out.with_suffix('.json').relative_to(RAIZ)}\n")
+            fh.write(f"actualizado={'1' if actualizado else '0'}\n")
