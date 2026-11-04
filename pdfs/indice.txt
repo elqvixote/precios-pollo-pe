@@ -1,3 +1,2 @@
-m1.pdf https://cdn.www.gob.pe/uploads/document/file/9196735/7458001-boletin-de-abastecimiento-y-precios-de-aves-22-12-2025.pdf
-m2.pdf https://cdn.www.gob.pe/uploads/document/file/5594604/4910332-boletin-de-abastecimiento-y-precios-de-aves-22-12-23.pdf
-m3.pdf https://cdn.www.gob.pe/uploads/document/file/9492042/6617104-boletin-sobre-produccion-y-comercializacion-avicola-diciembre-2025.pdf
+m1.pdf https://www.gob.pe/institucion/midagri/colecciones/344-boletin-estadistico-mensual-de-la-produccion-y-comercializacion-de-productos-avicolas
+m2.pdf https://www.gob.pe/institucion/midagri/colecciones/335-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima
