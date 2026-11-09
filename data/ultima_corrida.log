@@ -1,14 +1,6 @@
-Traceback (most recent call last):
-  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 253, in <module>
-    main()
-  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 180, in main
-    meses = paginas_mensuales()
-            ^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 56, in paginas_mensuales
-    html = get(COLECCION + (f"?sheet={hoja}" if hoja > 1 else "")).text
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 43, in get
-    r.raise_for_status()
-  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/models.py", line 1167, in raise_for_status
-    raise HTTPError(http_error_msg, response=self)
-requests.exceptions.HTTPError: 504 Server Error: Gateway Time-out for url: https://www.gob.pe/institucion/midagri/colecciones/4-boletin-diario-de-comercializacion-y-precio-de-aves
+Colección: 83 páginas mensuales (2020-01 a 2026-11)
+  2026-10: 21 PDFs
+  2026-11: 5 PDFs
+Pendientes: 0
+
+Resumen: 0 ok, 0 en cuarentena, 0 procesados
