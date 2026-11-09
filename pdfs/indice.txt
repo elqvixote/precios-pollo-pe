@@ -1,3 +1,2 @@
-m1.pdf https://cdn.www.gob.pe/uploads/document/file/10886034/7910459-boletin-sobre-produccion-y-comercializacion-avicola-agosto-2026.pdf
-m2.pdf https://cdn.www.gob.pe/uploads/document/file/10886033/7910459-cuadros-sobre-produccion-y-comercializacion-avicola-agosto-2026.xls
-m3.pdf https://cdn.www.gob.pe/uploads/document/file/10879398/8666398-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-30-10-2026.pdf
+m1.pdf https://www.gob.pe/institucion/midagri/colecciones/4-boletin-diario-de-comercializacion-y-precio-de-aves
+m2.pdf https://www.gob.pe/institucion/midagri/informes-publicaciones/8780586-boletin-de-comercializacion-y-precios-de-aves-noviembre-2026
