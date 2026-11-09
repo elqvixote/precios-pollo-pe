@@ -63,6 +63,8 @@ Arequipa,oferta_pollo_vivo,t,2026-11-01,124.0
 Arequipa,oferta_pollo_vivo,t,2026-11-02,125.0
 Arequipa,oferta_pollo_vivo,t,2026-11-03,111.0
 Arequipa,oferta_pollo_vivo,t,2026-11-04,111.0
+Arequipa,oferta_pollo_vivo,t,2026-11-07,145.0
+Arequipa,oferta_pollo_vivo,t,2026-11-08,136.0
 Arequipa,pollo_vivo_mayorista,S/ por kg,2026-08-17,7.49
 Arequipa,pollo_vivo_mayorista,S/ por kg,2026-08-18,7.48
 Arequipa,pollo_vivo_mayorista,S/ por kg,2026-08-19,7.5
@@ -127,6 +129,8 @@ Arequipa,pollo_vivo_mayorista,S/ por kg,2026-11-01,6.85
 Arequipa,pollo_vivo_mayorista,S/ por kg,2026-11-02,6.86
 Arequipa,pollo_vivo_mayorista,S/ por kg,2026-11-03,6.89
 Arequipa,pollo_vivo_mayorista,S/ por kg,2026-11-04,6.86
+Arequipa,pollo_vivo_mayorista,S/ por kg,2026-11-07,6.85
+Arequipa,pollo_vivo_mayorista,S/ por kg,2026-11-08,6.86
 Lima,bonito,S/ por kg,2026-08-18,9.0
 Lima,bonito,S/ por kg,2026-08-19,8.2
 Lima,bonito,S/ por kg,2026-08-20,8.8
@@ -1523,6 +1527,8 @@ Lima,gallina_colorada,S/ por kg,2026-11-03,6.37
 Lima,gallina_colorada,S/ por kg,2026-11-04,6.37
 Lima,gallina_colorada,S/ por kg,2026-11-05,6.37
 Lima,gallina_colorada,S/ por kg,2026-11-06,6.37
+Lima,gallina_colorada,S/ por kg,2026-11-08,6.0
+Lima,gallina_colorada,S/ por kg,2026-11-09,6.0
 Lima,gallina_reproductora,S/ por kg,2020-01-02,8.57
 Lima,gallina_reproductora,S/ por kg,2020-01-03,8.62
 Lima,gallina_reproductora,S/ por kg,2020-01-05,9.2
@@ -3501,6 +3507,8 @@ Lima,gallina_reproductora,S/ por kg,2026-11-03,6.63
 Lima,gallina_reproductora,S/ por kg,2026-11-04,6.67
 Lima,gallina_reproductora,S/ por kg,2026-11-05,6.67
 Lima,gallina_reproductora,S/ por kg,2026-11-06,6.67
+Lima,gallina_reproductora,S/ por kg,2026-11-08,6.63
+Lima,gallina_reproductora,S/ por kg,2026-11-09,6.47
 Lima,huevo_rosado,S/ por kg,2020-01-02,3.5
 Lima,huevo_rosado,S/ por kg,2020-01-03,3.49
 Lima,huevo_rosado,S/ por kg,2020-01-05,3.49
@@ -5287,6 +5295,8 @@ Lima,huevo_rosado,S/ por kg,2026-11-03,5.6
 Lima,huevo_rosado,S/ por kg,2026-11-04,5.6
 Lima,huevo_rosado,S/ por kg,2026-11-05,5.55
 Lima,huevo_rosado,S/ por kg,2026-11-06,5.53
+Lima,huevo_rosado,S/ por kg,2026-11-08,5.53
+Lima,huevo_rosado,S/ por kg,2026-11-09,5.45
 Lima,jurel,S/ por kg,2026-08-18,8.3
 Lima,jurel,S/ por kg,2026-08-19,9.5
 Lima,jurel,S/ por kg,2026-08-20,10.0
@@ -5449,6 +5459,9 @@ Lima,oferta_pollo_vivo,t,2026-11-03,1876.0
 Lima,oferta_pollo_vivo,t,2026-11-04,2051.0
 Lima,oferta_pollo_vivo,t,2026-11-05,2041.0
 Lima,oferta_pollo_vivo,t,2026-11-06,2183.0
+Lima,oferta_pollo_vivo,t,2026-11-07,2325.0
+Lima,oferta_pollo_vivo,t,2026-11-08,2101.0
+Lima,oferta_pollo_vivo,t,2026-11-09,2042.0
 Lima,peso_promedio_pollo_vivo,kg por unidad,2020-01-01,2.81
 Lima,peso_promedio_pollo_vivo,kg por unidad,2020-01-02,2.75
 Lima,peso_promedio_pollo_vivo,kg por unidad,2020-01-03,2.74
@@ -7533,6 +7546,8 @@ Lima,peso_promedio_pollo_vivo,kg por unidad,2026-11-03,2.717
 Lima,peso_promedio_pollo_vivo,kg por unidad,2026-11-04,2.732
 Lima,peso_promedio_pollo_vivo,kg por unidad,2026-11-05,2.713
 Lima,peso_promedio_pollo_vivo,kg por unidad,2026-11-06,2.717
+Lima,peso_promedio_pollo_vivo,kg por unidad,2026-11-08,2.78
+Lima,peso_promedio_pollo_vivo,kg por unidad,2026-11-09,2.728
 Lima,pollo_eviscerado_consumidor,S/ por kg,2020-01-03,6.91
 Lima,pollo_eviscerado_consumidor,S/ por kg,2020-01-06,6.91
 Lima,pollo_eviscerado_consumidor,S/ por kg,2020-01-08,6.89
@@ -8630,6 +8645,8 @@ Lima,pollo_eviscerado_consumidor,S/ por kg,2026-11-03,9.93
 Lima,pollo_eviscerado_consumidor,S/ por kg,2026-11-04,9.94
 Lima,pollo_eviscerado_consumidor,S/ por kg,2026-11-05,9.94
 Lima,pollo_eviscerado_consumidor,S/ por kg,2026-11-06,9.96
+Lima,pollo_eviscerado_consumidor,S/ por kg,2026-11-08,9.96
+Lima,pollo_eviscerado_consumidor,S/ por kg,2026-11-09,9.93
 Lima,pollo_vivo_granja,S/ por kg,2020-01-01,4.24
 Lima,pollo_vivo_granja,S/ por kg,2020-01-02,4.21
 Lima,pollo_vivo_granja,S/ por kg,2020-01-03,3.89
@@ -10713,6 +10730,8 @@ Lima,pollo_vivo_granja,S/ por kg,2026-11-03,5.82
 Lima,pollo_vivo_granja,S/ por kg,2026-11-04,5.8
 Lima,pollo_vivo_granja,S/ por kg,2026-11-05,5.8
 Lima,pollo_vivo_granja,S/ por kg,2026-11-06,5.79
+Lima,pollo_vivo_granja,S/ por kg,2026-11-08,5.53
+Lima,pollo_vivo_granja,S/ por kg,2026-11-09,5.52
 Lima,pollo_vivo_mayorista,S/ por kg,2020-01-01,4.35
 Lima,pollo_vivo_mayorista,S/ por kg,2020-01-02,4.35
 Lima,pollo_vivo_mayorista,S/ por kg,2020-01-03,4.15
@@ -12797,3 +12816,5 @@ Lima,pollo_vivo_mayorista,S/ por kg,2026-11-03,6.0
 Lima,pollo_vivo_mayorista,S/ por kg,2026-11-04,6.0
 Lima,pollo_vivo_mayorista,S/ por kg,2026-11-05,6.0
 Lima,pollo_vivo_mayorista,S/ por kg,2026-11-06,6.0
+Lima,pollo_vivo_mayorista,S/ por kg,2026-11-08,5.9
+Lima,pollo_vivo_mayorista,S/ por kg,2026-11-09,5.9
