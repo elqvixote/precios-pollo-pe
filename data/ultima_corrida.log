@@ -1,6 +1,69 @@
-Colección: 83 páginas mensuales (2020-01 a 2026-11)
-  2026-10: 21 PDFs
-  2026-11: 5 PDFs
-Pendientes: 0
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/urllib3/connection.py", line 239, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+TimeoutError: timed out
 
-Resumen: 0 ok, 0 en cuarentena, 0 procesados
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/urllib3/connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/urllib3/connectionpool.py", line 494, in _make_request
+    raise new_e
+  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/urllib3/connectionpool.py", line 470, in _make_request
+    self._validate_conn(conn)
+  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1125, in _validate_conn
+    conn.connect()
+  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/urllib3/connection.py", line 827, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/urllib3/connection.py", line 248, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<HTTPSConnection(host='www.gob.pe', port=443) at 0x7f70d4c2b4d0>, 'Connection to www.gob.pe timed out. (connect timeout=60)')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/urllib3/connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/urllib3/util/retry.py", line 555, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.gob.pe', port=443): Max retries exceeded with url: /institucion/midagri/colecciones/4-boletin-diario-de-comercializacion-y-precio-de-aves (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gob.pe', port=443) at 0x7f70d4c2b4d0>, 'Connection to www.gob.pe timed out. (connect timeout=60)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 253, in <module>
+    main()
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 180, in main
+    meses = paginas_mensuales()
+            ^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 56, in paginas_mensuales
+    html = get(COLECCION + (f"?sheet={hoja}" if hoja > 1 else "")).text
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/precios-pollo-pe/precios-pollo-pe/scripts/crawler.py", line 42, in get
+    r = S.get(url, timeout=60, **kw)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/sessions.py", line 671, in get
+    return self.request("GET", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/requests/adapters.py", line 717, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='www.gob.pe', port=443): Max retries exceeded with url: /institucion/midagri/colecciones/4-boletin-diario-de-comercializacion-y-precio-de-aves (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gob.pe', port=443) at 0x7f70d4c2b4d0>, 'Connection to www.gob.pe timed out. (connect timeout=60)'))
