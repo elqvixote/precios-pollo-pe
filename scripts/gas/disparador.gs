@@ -1,6 +1,6 @@
 /**
  * preciopollo.pe — Despertador del workflow de GitHub.
- * Cada 30 min (lun–sáb, 7:00–20:00 Lima) pide a GitHub que revise gob.pe,
+ * Cada 30 min (lun–sáb, 7:00–23:59 Lima) pide a GitHub que revise gob.pe,
  * salvo que la imagen del día ya exista o haya una corrida en curso.
  */
 const REPO = 'elqvixote/precios-pollo-pe';
@@ -13,7 +13,7 @@ function revisar() {
   const hora = Number(Utilities.formatDate(ahora, TZ, 'H'));
   const hoy = Utilities.formatDate(ahora, TZ, 'yyyy-MM-dd');
 
-  if (dia === 7 || hora < 7 || hora >= 20) return;            // fuera de horario
+  if (dia === 7 || hora < 7) return;                          // fuera de horario (hasta medianoche)
 
   if (gh_('/contents/imagenes/' + hoy + '.png').getResponseCode() === 200) {
     console.log('El boletín de ' + hoy + ' ya fue procesado.');
