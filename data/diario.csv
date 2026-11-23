@@ -64,6 +64,7 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-18,Arequipa,oferta_pollo_vivo,t,prom_7d,2026-11-18,138.0
 2026-11-19,Arequipa,oferta_pollo_vivo,t,prom_7d,2026-11-19,144.0
 2026-11-20,Arequipa,oferta_pollo_vivo,t,prom_7d,2026-11-20,149.0
+2026-11-23,Arequipa,oferta_pollo_vivo,t,prom_7d,2026-11-23,169.0
 2026-08-19,Arequipa,oferta_pollo_vivo,t,valor,2026-08-17,118.0
 2026-08-19,Arequipa,oferta_pollo_vivo,t,valor,2026-08-18,83.0
 2026-08-20,Arequipa,oferta_pollo_vivo,t,valor,2026-08-18,118.0
@@ -180,6 +181,8 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-19,Arequipa,oferta_pollo_vivo,t,valor,2026-11-18,139.0
 2026-11-20,Arequipa,oferta_pollo_vivo,t,valor,2026-11-18,139.0
 2026-11-20,Arequipa,oferta_pollo_vivo,t,valor,2026-11-19,162.0
+2026-11-23,Arequipa,oferta_pollo_vivo,t,valor,2026-11-21,204.0
+2026-11-23,Arequipa,oferta_pollo_vivo,t,valor,2026-11-22,192.0
 2026-08-19,Arequipa,oferta_pollo_vivo,t,var_pct,2026-08-19,-29.31
 2026-08-20,Arequipa,oferta_pollo_vivo,t,var_pct,2026-08-20,9.06
 2026-08-21,Arequipa,oferta_pollo_vivo,t,var_pct,2026-08-21,-2.19
@@ -234,6 +237,7 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-18,Arequipa,oferta_pollo_vivo,t,var_pct,2026-11-18,-5.23
 2026-11-19,Arequipa,oferta_pollo_vivo,t,var_pct,2026-11-19,-13.08
 2026-11-20,Arequipa,oferta_pollo_vivo,t,var_pct,2026-11-20,16.68
+2026-11-23,Arequipa,oferta_pollo_vivo,t,var_pct,2026-11-23,-6.01
 2026-08-19,Arequipa,pollo_vivo_mayorista,S/ por kg,prom_7d,2026-08-19,7.56
 2026-08-20,Arequipa,pollo_vivo_mayorista,S/ por kg,prom_7d,2026-08-20,7.56
 2026-08-21,Arequipa,pollo_vivo_mayorista,S/ por kg,prom_7d,2026-08-21,7.52
@@ -299,6 +303,7 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-18,Arequipa,pollo_vivo_mayorista,S/ por kg,prom_7d,2026-11-18,6.74
 2026-11-19,Arequipa,pollo_vivo_mayorista,S/ por kg,prom_7d,2026-11-19,6.72
 2026-11-20,Arequipa,pollo_vivo_mayorista,S/ por kg,prom_7d,2026-11-20,6.68
+2026-11-23,Arequipa,pollo_vivo_mayorista,S/ por kg,prom_7d,2026-11-23,6.72
 2026-08-19,Arequipa,pollo_vivo_mayorista,S/ por kg,valor,2026-08-17,7.49
 2026-08-19,Arequipa,pollo_vivo_mayorista,S/ por kg,valor,2026-08-18,7.45
 2026-08-20,Arequipa,pollo_vivo_mayorista,S/ por kg,valor,2026-08-18,7.48
@@ -415,6 +420,8 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-19,Arequipa,pollo_vivo_mayorista,S/ por kg,valor,2026-11-18,6.57
 2026-11-20,Arequipa,pollo_vivo_mayorista,S/ por kg,valor,2026-11-18,6.57
 2026-11-20,Arequipa,pollo_vivo_mayorista,S/ por kg,valor,2026-11-19,6.66
+2026-11-23,Arequipa,pollo_vivo_mayorista,S/ por kg,valor,2026-11-21,6.99
+2026-11-23,Arequipa,pollo_vivo_mayorista,S/ por kg,valor,2026-11-22,7.01
 2026-08-19,Arequipa,pollo_vivo_mayorista,S/ por kg,var_pct,2026-08-19,-0.58
 2026-08-20,Arequipa,pollo_vivo_mayorista,S/ por kg,var_pct,2026-08-20,0.29
 2026-08-21,Arequipa,pollo_vivo_mayorista,S/ por kg,var_pct,2026-08-21,-3.83
@@ -469,6 +476,7 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-18,Arequipa,pollo_vivo_mayorista,S/ por kg,var_pct,2026-11-18,1.34
 2026-11-19,Arequipa,pollo_vivo_mayorista,S/ por kg,var_pct,2026-11-19,-2.7
 2026-11-20,Arequipa,pollo_vivo_mayorista,S/ por kg,var_pct,2026-11-20,1.46
+2026-11-23,Arequipa,pollo_vivo_mayorista,S/ por kg,var_pct,2026-11-23,0.31
 2026-08-19,Lima,bonito,S/ por kg,prom_7d,2026-08-19,8.2
 2026-08-20,Lima,bonito,S/ por kg,prom_7d,2026-08-20,8.24
 2026-08-21,Lima,bonito,S/ por kg,prom_7d,2026-08-21,8.33
@@ -534,6 +542,7 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-18,Lima,bonito,S/ por kg,prom_7d,2026-11-18,10.11
 2026-11-19,Lima,bonito,S/ por kg,prom_7d,2026-11-19,10.03
 2026-11-20,Lima,bonito,S/ por kg,prom_7d,2026-11-20,9.74
+2026-11-23,Lima,bonito,S/ por kg,prom_7d,2026-11-23,9.15
 2026-08-19,Lima,bonito,S/ por kg,valor,2026-08-18,9.0
 2026-08-19,Lima,bonito,S/ por kg,valor,2026-08-19,8.2
 2026-08-20,Lima,bonito,S/ por kg,valor,2026-08-19,8.2
@@ -1672,6 +1681,7 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-18,Lima,gallina_colorada,S/ por kg,prom_7d,2026-11-18,6.0
 2026-11-19,Lima,gallina_colorada,S/ por kg,prom_7d,2026-11-19,6.0
 2026-11-20,Lima,gallina_colorada,S/ por kg,prom_7d,2026-11-20,6.0
+2026-11-23,Lima,gallina_colorada,S/ por kg,prom_7d,2026-11-23,6.0
 2020-01-03,Lima,gallina_colorada,S/ por kg,valor,2020-01-02,6.5
 2020-01-03,Lima,gallina_colorada,S/ por kg,valor,2020-01-03,6.51
 2020-01-06,Lima,gallina_colorada,S/ por kg,valor,2020-01-05,6.34
@@ -3552,6 +3562,8 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-19,Lima,gallina_colorada,S/ por kg,valor,2026-11-19,6.0
 2026-11-20,Lima,gallina_colorada,S/ por kg,valor,2026-11-19,6.0
 2026-11-20,Lima,gallina_colorada,S/ por kg,valor,2026-11-20,6.0
+2026-11-23,Lima,gallina_colorada,S/ por kg,valor,2026-11-22,6.0
+2026-11-23,Lima,gallina_colorada,S/ por kg,valor,2026-11-23,6.0
 2020-01-03,Lima,gallina_colorada,S/ por kg,var_pct,2020-01-03,0.2
 2020-01-06,Lima,gallina_colorada,S/ por kg,var_pct,2020-01-06,0.5
 2020-01-07,Lima,gallina_colorada,S/ por kg,var_pct,2020-01-07,0.2
@@ -4556,6 +4568,7 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-18,Lima,gallina_colorada,S/ por kg,var_pct,2026-11-18,0.0
 2026-11-19,Lima,gallina_colorada,S/ por kg,var_pct,2026-11-19,0.0
 2026-11-20,Lima,gallina_colorada,S/ por kg,var_pct,2026-11-20,0.0
+2026-11-23,Lima,gallina_colorada,S/ por kg,var_pct,2026-11-23,0.0
 2020-01-03,Lima,gallina_reproductora,S/ por kg,prom_7d,2020-01-03,8.62
 2020-01-06,Lima,gallina_reproductora,S/ por kg,prom_7d,2020-01-06,8.81
 2020-01-07,Lima,gallina_reproductora,S/ por kg,prom_7d,2020-01-07,8.85
@@ -6220,6 +6233,7 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-18,Lima,gallina_reproductora,S/ por kg,prom_7d,2026-11-18,6.56
 2026-11-19,Lima,gallina_reproductora,S/ por kg,prom_7d,2026-11-19,6.56
 2026-11-20,Lima,gallina_reproductora,S/ por kg,prom_7d,2026-11-20,6.56
+2026-11-23,Lima,gallina_reproductora,S/ por kg,prom_7d,2026-11-23,6.62
 2020-01-03,Lima,gallina_reproductora,S/ por kg,valor,2020-01-02,8.57
 2020-01-03,Lima,gallina_reproductora,S/ por kg,valor,2020-01-03,8.62
 2020-01-06,Lima,gallina_reproductora,S/ por kg,valor,2020-01-05,9.2
@@ -9324,6 +9338,8 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-19,Lima,gallina_reproductora,S/ por kg,valor,2026-11-19,6.6
 2026-11-20,Lima,gallina_reproductora,S/ por kg,valor,2026-11-19,6.6
 2026-11-20,Lima,gallina_reproductora,S/ por kg,valor,2026-11-20,6.63
+2026-11-23,Lima,gallina_reproductora,S/ por kg,valor,2026-11-22,6.8
+2026-11-23,Lima,gallina_reproductora,S/ por kg,valor,2026-11-23,6.8
 2020-01-03,Lima,gallina_reproductora,S/ por kg,var_pct,2020-01-03,0.6
 2020-01-06,Lima,gallina_reproductora,S/ por kg,var_pct,2020-01-06,-0.9
 2020-01-07,Lima,gallina_reproductora,S/ por kg,var_pct,2020-01-07,0.8
@@ -10953,6 +10969,7 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-18,Lima,gallina_reproductora,S/ por kg,var_pct,2026-11-18,2.1
 2026-11-19,Lima,gallina_reproductora,S/ por kg,var_pct,2026-11-19,0.0
 2026-11-20,Lima,gallina_reproductora,S/ por kg,var_pct,2026-11-20,0.5
+2026-11-23,Lima,gallina_reproductora,S/ por kg,var_pct,2026-11-23,0.0
 2020-01-03,Lima,huevo_rosado,S/ por kg,prom_7d,2020-01-03,3.61
 2020-01-06,Lima,huevo_rosado,S/ por kg,prom_7d,2020-01-06,3.53
 2020-01-07,Lima,huevo_rosado,S/ por kg,prom_7d,2020-01-07,3.52
@@ -12622,6 +12639,7 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-18,Lima,huevo_rosado,S/ por kg,prom_7d,2026-11-18,5.33
 2026-11-19,Lima,huevo_rosado,S/ por kg,prom_7d,2026-11-19,5.33
 2026-11-20,Lima,huevo_rosado,S/ por kg,prom_7d,2026-11-20,5.31
+2026-11-23,Lima,huevo_rosado,S/ por kg,prom_7d,2026-11-23,5.26
 2020-01-03,Lima,huevo_rosado,S/ por kg,valor,2020-01-02,3.5
 2020-01-03,Lima,huevo_rosado,S/ por kg,valor,2020-01-03,3.49
 2020-01-06,Lima,huevo_rosado,S/ por kg,valor,2020-01-05,3.49
@@ -15508,6 +15526,8 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-19,Lima,huevo_rosado,S/ por kg,valor,2026-11-19,5.2
 2026-11-20,Lima,huevo_rosado,S/ por kg,valor,2026-11-19,5.2
 2026-11-20,Lima,huevo_rosado,S/ por kg,valor,2026-11-20,5.2
+2026-11-23,Lima,huevo_rosado,S/ por kg,valor,2026-11-22,5.2
+2026-11-23,Lima,huevo_rosado,S/ por kg,valor,2026-11-23,5.15
 2020-01-03,Lima,huevo_rosado,S/ por kg,var_pct,2020-01-03,-0.3
 2020-01-06,Lima,huevo_rosado,S/ por kg,var_pct,2020-01-06,0.3
 2020-01-07,Lima,huevo_rosado,S/ por kg,var_pct,2020-01-07,0.0
@@ -16943,6 +16963,7 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-18,Lima,huevo_rosado,S/ por kg,var_pct,2026-11-18,0.0
 2026-11-19,Lima,huevo_rosado,S/ por kg,var_pct,2026-11-19,-2.4
 2026-11-20,Lima,huevo_rosado,S/ por kg,var_pct,2026-11-20,0.0
+2026-11-23,Lima,huevo_rosado,S/ por kg,var_pct,2026-11-23,-1.0
 2026-08-19,Lima,jurel,S/ por kg,prom_7d,2026-08-19,9.69
 2026-08-20,Lima,jurel,S/ por kg,prom_7d,2026-08-20,9.58
 2026-08-21,Lima,jurel,S/ por kg,prom_7d,2026-08-21,9.72
@@ -17008,6 +17029,7 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-18,Lima,jurel,S/ por kg,prom_7d,2026-11-18,8.81
 2026-11-19,Lima,jurel,S/ por kg,prom_7d,2026-11-19,8.74
 2026-11-20,Lima,jurel,S/ por kg,prom_7d,2026-11-20,8.74
+2026-11-23,Lima,jurel,S/ por kg,prom_7d,2026-11-23,8.85
 2026-08-19,Lima,jurel,S/ por kg,valor,2026-08-18,8.3
 2026-08-19,Lima,jurel,S/ por kg,valor,2026-08-19,9.5
 2026-08-20,Lima,jurel,S/ por kg,valor,2026-08-19,9.5
@@ -18845,6 +18867,7 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-18,Lima,peso_promedio_pollo_vivo,kg por unidad,prom_7d,2026-11-18,2.676
 2026-11-19,Lima,peso_promedio_pollo_vivo,kg por unidad,prom_7d,2026-11-19,2.668
 2026-11-20,Lima,peso_promedio_pollo_vivo,kg por unidad,prom_7d,2026-11-20,2.655
+2026-11-23,Lima,peso_promedio_pollo_vivo,kg por unidad,prom_7d,2026-11-23,2.617
 2020-01-02,Lima,peso_promedio_pollo_vivo,kg por unidad,valor,2020-01-01,2.81
 2020-01-02,Lima,peso_promedio_pollo_vivo,kg por unidad,valor,2020-01-02,2.75
 2020-01-03,Lima,peso_promedio_pollo_vivo,kg por unidad,valor,2020-01-02,2.75
@@ -22123,6 +22146,8 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-19,Lima,peso_promedio_pollo_vivo,kg por unidad,valor,2026-11-19,2.609
 2026-11-20,Lima,peso_promedio_pollo_vivo,kg por unidad,valor,2026-11-19,2.609
 2026-11-20,Lima,peso_promedio_pollo_vivo,kg por unidad,valor,2026-11-20,2.614
+2026-11-23,Lima,peso_promedio_pollo_vivo,kg por unidad,valor,2026-11-22,2.551
+2026-11-23,Lima,peso_promedio_pollo_vivo,kg por unidad,valor,2026-11-23,2.501
 2020-01-02,Lima,peso_promedio_pollo_vivo,kg por unidad,var_pct,2020-01-02,-1.9
 2020-01-03,Lima,peso_promedio_pollo_vivo,kg por unidad,var_pct,2020-01-03,-0.6
 2020-01-06,Lima,peso_promedio_pollo_vivo,kg por unidad,var_pct,2020-01-06,1.5
@@ -23854,6 +23879,7 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-18,Lima,peso_promedio_pollo_vivo,kg por unidad,var_pct,2026-11-18,-0.9
 2026-11-19,Lima,peso_promedio_pollo_vivo,kg por unidad,var_pct,2026-11-19,-0.9
 2026-11-20,Lima,peso_promedio_pollo_vivo,kg por unidad,var_pct,2026-11-20,0.2
+2026-11-23,Lima,peso_promedio_pollo_vivo,kg por unidad,var_pct,2026-11-23,-2.0
 2020-01-02,Lima,pollo_eviscerado_consumidor,S/ por kg,prom_7d,2020-01-02,7.02
 2020-01-03,Lima,pollo_eviscerado_consumidor,S/ por kg,prom_7d,2020-01-03,6.95
 2020-01-06,Lima,pollo_eviscerado_consumidor,S/ por kg,prom_7d,2020-01-06,6.95
@@ -25549,6 +25575,7 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-18,Lima,pollo_eviscerado_consumidor,S/ por kg,prom_7d,2026-11-18,9.7
 2026-11-19,Lima,pollo_eviscerado_consumidor,S/ por kg,prom_7d,2026-11-19,9.78
 2026-11-20,Lima,pollo_eviscerado_consumidor,S/ por kg,prom_7d,2026-11-20,9.86
+2026-11-23,Lima,pollo_eviscerado_consumidor,S/ por kg,prom_7d,2026-11-23,10.18
 2020-01-03,Lima,pollo_eviscerado_consumidor,S/ por kg,valor,2020-01-03,6.91
 2020-01-06,Lima,pollo_eviscerado_consumidor,S/ por kg,valor,2020-01-06,7.02
 2020-01-07,Lima,pollo_eviscerado_consumidor,S/ por kg,valor,2020-01-06,6.91
@@ -27249,6 +27276,8 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-19,Lima,pollo_eviscerado_consumidor,S/ por kg,valor,2026-11-19,10.35
 2026-11-20,Lima,pollo_eviscerado_consumidor,S/ por kg,valor,2026-11-19,10.35
 2026-11-20,Lima,pollo_eviscerado_consumidor,S/ por kg,valor,2026-11-20,10.34
+2026-11-23,Lima,pollo_eviscerado_consumidor,S/ por kg,valor,2026-11-22,10.34
+2026-11-23,Lima,pollo_eviscerado_consumidor,S/ por kg,valor,2026-11-23,10.65
 2020-03-25,Lima,pollo_eviscerado_consumidor,S/ por kg,var_pct,2020-03-25,-1.7
 2020-03-26,Lima,pollo_eviscerado_consumidor,S/ por kg,var_pct,2020-03-26,-1.6
 2020-03-27,Lima,pollo_eviscerado_consumidor,S/ por kg,var_pct,2020-03-27,-2.5
@@ -27388,6 +27417,7 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-18,Lima,pollo_eviscerado_consumidor,S/ por kg,var_pct,2026-11-18,6.0
 2026-11-19,Lima,pollo_eviscerado_consumidor,S/ por kg,var_pct,2026-11-19,0.0
 2026-11-20,Lima,pollo_eviscerado_consumidor,S/ por kg,var_pct,2026-11-20,-0.1
+2026-11-23,Lima,pollo_eviscerado_consumidor,S/ por kg,var_pct,2026-11-23,3.0
 2020-01-02,Lima,pollo_vivo_granja,S/ por kg,prom_7d,2020-01-02,4.2
 2020-01-03,Lima,pollo_vivo_granja,S/ por kg,prom_7d,2020-01-03,4.2
 2020-01-06,Lima,pollo_vivo_granja,S/ por kg,prom_7d,2020-01-06,4.1
@@ -29118,6 +29148,7 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-18,Lima,pollo_vivo_granja,S/ por kg,prom_7d,2026-11-18,5.16
 2026-11-19,Lima,pollo_vivo_granja,S/ por kg,prom_7d,2026-11-19,5.27
 2026-11-20,Lima,pollo_vivo_granja,S/ por kg,prom_7d,2026-11-20,5.42
+2026-11-23,Lima,pollo_vivo_granja,S/ por kg,prom_7d,2026-11-23,5.87
 2020-01-02,Lima,pollo_vivo_granja,S/ por kg,valor,2020-01-01,4.24
 2020-01-02,Lima,pollo_vivo_granja,S/ por kg,valor,2020-01-02,4.21
 2020-01-03,Lima,pollo_vivo_granja,S/ por kg,valor,2020-01-02,4.21
@@ -32394,6 +32425,8 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-19,Lima,pollo_vivo_granja,S/ por kg,valor,2026-11-19,5.9
 2026-11-20,Lima,pollo_vivo_granja,S/ por kg,valor,2026-11-19,5.9
 2026-11-20,Lima,pollo_vivo_granja,S/ por kg,valor,2026-11-20,5.88
+2026-11-23,Lima,pollo_vivo_granja,S/ por kg,valor,2026-11-22,6.36
+2026-11-23,Lima,pollo_vivo_granja,S/ por kg,valor,2026-11-23,6.34
 2020-01-02,Lima,pollo_vivo_granja,S/ por kg,var_pct,2020-01-02,-0.7
 2020-01-03,Lima,pollo_vivo_granja,S/ por kg,var_pct,2020-01-03,-7.6
 2020-01-06,Lima,pollo_vivo_granja,S/ por kg,var_pct,2020-01-06,0.0
@@ -34124,6 +34157,7 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-18,Lima,pollo_vivo_granja,S/ por kg,var_pct,2026-11-18,9.9
 2026-11-19,Lima,pollo_vivo_granja,S/ por kg,var_pct,2026-11-19,0.0
 2026-11-20,Lima,pollo_vivo_granja,S/ por kg,var_pct,2026-11-20,-0.3
+2026-11-23,Lima,pollo_vivo_granja,S/ por kg,var_pct,2026-11-23,-0.3
 2020-01-02,Lima,pollo_vivo_mayorista,S/ por kg,prom_7d,2020-01-02,4.29
 2020-01-03,Lima,pollo_vivo_mayorista,S/ por kg,prom_7d,2020-01-03,4.32
 2020-01-06,Lima,pollo_vivo_mayorista,S/ por kg,prom_7d,2020-01-06,4.26
@@ -35855,6 +35889,7 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-18,Lima,pollo_vivo_mayorista,S/ por kg,prom_7d,2026-11-18,5.43
 2026-11-19,Lima,pollo_vivo_mayorista,S/ por kg,prom_7d,2026-11-19,5.54
 2026-11-20,Lima,pollo_vivo_mayorista,S/ por kg,prom_7d,2026-11-20,5.69
+2026-11-23,Lima,pollo_vivo_mayorista,S/ por kg,prom_7d,2026-11-23,6.13
 2020-01-02,Lima,pollo_vivo_mayorista,S/ por kg,valor,2020-01-01,4.35
 2020-01-02,Lima,pollo_vivo_mayorista,S/ por kg,valor,2020-01-02,4.35
 2020-01-03,Lima,pollo_vivo_mayorista,S/ por kg,valor,2020-01-02,4.35
@@ -39133,6 +39168,8 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-19,Lima,pollo_vivo_mayorista,S/ por kg,valor,2026-11-19,6.2
 2026-11-20,Lima,pollo_vivo_mayorista,S/ por kg,valor,2026-11-19,6.2
 2026-11-20,Lima,pollo_vivo_mayorista,S/ por kg,valor,2026-11-20,6.1
+2026-11-23,Lima,pollo_vivo_mayorista,S/ por kg,valor,2026-11-22,6.6
+2026-11-23,Lima,pollo_vivo_mayorista,S/ por kg,valor,2026-11-23,6.6
 2020-01-02,Lima,pollo_vivo_mayorista,S/ por kg,var_pct,2020-01-02,0.0
 2020-01-03,Lima,pollo_vivo_mayorista,S/ por kg,var_pct,2020-01-03,-4.6
 2020-01-06,Lima,pollo_vivo_mayorista,S/ por kg,var_pct,2020-01-06,0.0
@@ -40864,3 +40901,4 @@ fecha_boletin,region,serie,unidad,metrica,fecha_dato,valor
 2026-11-18,Lima,pollo_vivo_mayorista,S/ por kg,var_pct,2026-11-18,10.7
 2026-11-19,Lima,pollo_vivo_mayorista,S/ por kg,var_pct,2026-11-19,0.0
 2026-11-20,Lima,pollo_vivo_mayorista,S/ por kg,var_pct,2026-11-20,-1.6
+2026-11-23,Lima,pollo_vivo_mayorista,S/ por kg,var_pct,2026-11-23,0.0
